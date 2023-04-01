@@ -1,0 +1,20 @@
+# insert pages you want to appear in the footer below
+# e.g.
+# - title: Page
+#   url: /page-url/ (e.g. /terms/)
+#   target: _blank
+
+- title: Profiles
+  url: /profiles/
+
+- title: Terms
+  url: /terms/
+
+- title: Disclaimers
+  url: /disclaimers/
+
+- title: Licensing
+  url: /licensing/
+
+- title: Credits
+  url: /credits/
