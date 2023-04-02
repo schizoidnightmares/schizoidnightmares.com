@@ -1,8 +1,8 @@
 # do not use tabs in config files!
-# recommended command when testing: bundle exec jekyll serve --livereload --drafts
+# recommended command when testing: bundle exec jekyll serve --livereload --drafts --watch
 
 # production only
-# recommended command jekyll build --watch
+# recommended command jekyll build
 # destination: ../pro
 # url: https://schizoidnightmares.com
 
