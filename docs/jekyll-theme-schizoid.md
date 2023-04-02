@@ -107,7 +107,7 @@ The theme uses the following defaults you can override in your own /assets/css/s
 ```
 ---
 ---
-@import "{% raw %}{{ site.theme }}{% endraw %}"
+/* override theme defaults */
 
 /* Neutral-Variant */
 $NV100: #ffffff;
@@ -123,6 +123,8 @@ $NV30: #44474e;
 $NV20: #2d3038;
 $NV10: #181c22;
 $NV0: #000000;
+
+@import "{% raw %}{{ site.theme }}{% endraw %}";
 ```
 
 ### Page front matter
