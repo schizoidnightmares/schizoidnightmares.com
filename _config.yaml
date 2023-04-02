@@ -2,7 +2,7 @@
 # recommended command when testing: bundle exec jekyll serve --livereload --drafts
 
 # production only
-# recommended command jekyll build
+# recommended command jekyll build --watch
 # destination: ../pro
 # url: https://schizoidnightmares.com
 
