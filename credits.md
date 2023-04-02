@@ -34,6 +34,7 @@ Professionals are people I have paid for work in the past or present.
 - <a href="https://www.thesaurus.com/" target="_blank">Thesaurus.com</a>
 - <a href="https://www.w3schools.com/" target="_blank">W3Schools</a>
 - <a href="https://wiktionary.org/" target="_blank">Wiktionary</a>
+- <a href="https://simonecarletti.com/blog/2016/08/redirect-domain-http-https-www-apache/" target="_blank">Apache redirect www to non-www and HTTP to HTTPS</a>
 
 ## Resources
 - <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> (serif font by <a href="http://cyreal.org/" target="_blank">Cyreal</a>)
