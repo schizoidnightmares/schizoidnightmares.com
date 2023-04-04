@@ -1,0 +1,12 @@
+<ul>
+{% for item in site.data.credits %}
+{% if item.direct == include.direct and item.type == include.type %}
+<li>{% if item.url %}<a href="{{ item.url }}" target="_blank">{% endif %}{{ item.credit }}{% if item.url %}</a>{% endif %} {% if item.paid == true %}{% include symbol.html symbol="dollar" %} {% endif %}{% include symbol.html symbol=item.origin %}</li>
+<ul>
+{% for contribution in item.contributions %}
+<li>{{ contribution }}</li>
+{% endfor %}
+</ul>
+{% endif %}
+{% endfor %}
+</ul>

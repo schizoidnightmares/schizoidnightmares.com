@@ -1,0 +1,32 @@
+- symbol: au
+  image: 🇦🇺
+
+- symbol: dollar
+  image: 💵
+
+- symbol: fr
+  image: 🇫🇷
+
+- symbol: gb
+  image: 🇬🇧
+
+- symbol: it
+  image: 🇮🇹
+
+- symbol: kz
+  image: 🇰🇿
+
+- symbol: "no"
+  image: 🇳🇴
+
+- symbol: nz
+  image: 🇳🇿
+
+- symbol: ru
+  image: 🇷🇺
+
+- symbol: se
+  image: 🇸🇪
+
+- symbol: us
+  image: 🇺🇸

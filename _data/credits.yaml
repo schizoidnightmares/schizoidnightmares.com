@@ -1,0 +1,224 @@
+- credit: Alexei Vanyashin
+  type: individual
+  url: http://www.110design.ru/
+  origin: kz
+  contributions:
+    - <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font (under <a href="http://cyreal.org/" target="_blank">Cyreal</a>)
+
+- credit: Apple Inc.
+  type: group
+  url: https://www.apple.com/
+  origin: us
+  paid: true
+  contributions:
+    - GarageBand
+    - iMovie
+
+- credit: Creative Commons
+  type: group
+  url: https://creativecommons.org/
+  origin: us
+  contributions:
+    - Licences
+
+- credit: Dictionary.com, LLC
+  type: group
+  url: https://www.dictionary.com/
+  origin: us
+  contributions:
+    - Thesaurus.com
+
+- credit: ElevenLabs Inc.
+  type: group
+  url: https://elevenlabs.io/
+  origin: us
+  paid: true
+  contributions:
+    - A.I. voice generation (used to help proofreading)
+
+- credit: Fandom, Inc.
+  type: group
+  url: https://www.fandom.com/
+  origin: us
+  contributions:
+    - Fandom.com (encyclopedic style)
+
+- credit: George Lucas
+  type: individual
+  origin: us
+  contributions:
+    - <i>THX 1138</i> (inspiration)
+
+- credit: GIMP Team
+  type: group
+  url: https://www.gimp.org/
+  origin: us
+  contributions:
+    - GIMP
+
+- credit: Google LLC
+  type: group
+  url: https://www.google.com/
+  origin: us
+  contributions:
+    - Material Design
+
+- credit: Grammarly Inc.
+  type: group
+  url: https://www.grammarly.com/
+  origin: us
+  paid: true
+  contributions:
+    - Grammarly
+
+- credit: Hostwinds
+  type: group
+  url: https://www.hostwinds.com/
+  origin: us
+  paid: true
+  contributions:
+    - Web hosting
+
+- credit: Inkscape.org
+  type: group
+  url: https://inkscape.org/
+  origin: us
+  contributions:
+    - Inkscape
+
+- credit: Jekyll Team
+  type: group
+  url: https://jekyllrb.com/
+  origin: us
+  contributions:
+    - Jekyll
+
+- credit: J. R. R. Tolkien
+  type: individual
+  url: https://harpercollins.co.uk/pages/tolkien
+  origin: gb
+  contributions:
+    - <i>The Lord of the Rings</i> (inspiration)
+
+- credit: Matt Cone
+  type: individual
+  url: https://www.mattcone.com/
+  origin: us
+  contributions:
+    - <i><a href="https://www.markdownguide.org/" target="_blank">The Markdown Guide</a></i>
+
+- credit: Merian C. Cooper
+  type: individual
+  origin: us
+  contributions:
+    - <i>King Kong</i> (inspiration)
+
+- credit: Michael J. Fordham
+  type: individual
+  url: https://michaeljfordham.com/
+  origin: gb
+  contributions:
+    - <a href="https://www.editorx.com/shaping-design/article/font-size" target="_blank">Font size guidelines</a>
+
+- credit: Microsoft Corporation
+  type: group
+  url: https://www.microsoft.com/
+  origin: us
+  contributions:
+    - Visual Studio Code
+
+- credit: Miraheze
+  type: group
+  url: https://miraheze.org/
+  origin: gb
+  contributions:
+    - Wiki farm
+
+- credit: NightCafe Studio
+  type: group
+  url: https://nightcafe.studio/
+  origin: au
+  contributions:
+    - NightCafe Studio Creator
+
+- credit: Njalla
+  type: group
+  url: https://njal.la/
+  origin: se
+  paid: true
+  contributions:
+    - Domain registration
+
+- credit: Peter Jackson
+  type: individual
+  origin: nz
+  contributions:
+    - <i>King Kong</i> (inspiration)
+
+- credit: Refsnes Data
+  type: group
+  origin: "no"
+  contributions:
+    - <a href="https://www.w3schools.com/" target="_blank">W3Schools</a>
+
+- credit: SCP Foundation
+  type: group
+  url: https://scp-wiki.wikidot.com/
+  origin: us
+  contributions:
+    - SCP Wiki (inspiration)
+
+- credit: Serif (Europe) Ltd
+  type: group
+  url: https://affinity.serif.com/en-gb/
+  origin: gb
+  paid: true
+  contributions:
+    - Affinity Designer
+    - Affinity Photo
+
+- credit: Simone Carletti
+  type: individual
+  url: https://simonecarletti.com/
+  origin: it
+  contributions:
+    - <a href="https://simonecarletti.com/blog/2016/08/redirect-domain-http-https-www-apache/" target="_blank">Tutorial on Apache www, http, and https redirects</a>
+
+- credit: Stack Exchange Inc.
+  type: group
+  url: https://stackexchange.com/
+  origin: us
+  contributions:
+    - Stack Overflow
+
+- credit: Steven Spielberg
+  type: individual
+  origin: us
+  contributions:
+  - <i>Poltergeist</i> (inspiration)
+
+- credit: Thales Group
+  type: group
+  url: https://www.thalesgroup.com/
+  origin: fr
+  contributions:
+    - <a href="https://cpl.thalesgroup.com/software-monetization/software-versioning-basics" target="_blank">Software Versioning Best Practices</a>
+
+- credit: Vlad Momot
+  direct: true
+  type: individual
+  url: https://vladmomotart.tumblr.com/
+  origin: ru
+  paid: true
+  contributions:
+    - <i>The Flippers</i> cover art
+    - <i>Schizoid Nightmares Anthology I</i> cover art
+
+- credit: Wikimedia Foundation
+  type: group
+  url: https://wikimediafoundation.org/
+  origin: us
+  contributions:
+    - MediaWiki
+    - Wikipedia (encyclopedic style)
+    - Wiktionary
