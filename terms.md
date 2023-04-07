@@ -3,6 +3,8 @@ title: Terms
 description: The terms of my website.
 ---
 
+These terms apply to this website and also <a href="https://absurdrealms.com/" target="_blank">absurdrealms.com</a>.
+
 ## Privacy
 I use <a href="https://www.hostwinds.com/" target="_blank">Hostwinds</a> (they have their <a href="https://www.hostwinds.com/legal/privacy" target="_blank">own privacy policy</a>) to host my website from Dallas, Texas, United States. When you access my website, they automatically collect the following information from you:
 
