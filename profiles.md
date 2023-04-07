@@ -7,6 +7,7 @@ description: My profiles elsewhere.
 - <a href="https://belletristica.com/en/users/5706-schizoid-nightmares" target="_blank">Belletristica</a>
 - <a href="https://github.com/schizoidnightmares" target="_blank">GitHub</a>
 - <a href="https://archive.org/details/@schizoid_nightmares" target="_blank">Internet Archive</a>[^1]
+- <a href="https://mastodon.social/@schizoidnightmares" target="_blank">Mastodon</a>
 - <a href="https://schizoidnightmares.medium.com/" target="_blank">Medium</a>
 - <a href="https://creator.nightcafe.studio/u/schizoidnightmares" target="_blank">NightCafe Creator</a>
 - <a href="https://www.reddit.com/user/schizoidnightmares" target="_blank">Reddit</a>
