@@ -14,7 +14,7 @@ My website redesign should be responsive on your device, but you're welcome to <
 ## Colour scheme and technicalities
 I exclusively use a dark theme for my website and prefer it if possible for all my branding. For choosing the right colour scheme, I utilized Google's <a href="https://m3.material.io/" target="_blank">Material Design 3</a>, their <a href="https://www.figma.com/community/plugin/1034969338659738588/Material-Theme-Builder" target="_blank">Material Theme Builder</a> on Figma in particular.
 
-<table class="floatLeft center small borderless compact">
+<table class="left center small borderless compact">
     <tr><td class="darkText" style="background: #ffffff">#ffffff — Neutral-Variant100</td></tr>
     <tr><td class="darkText" style="background: #fdfbff">#fdfbff — Neutral-Variant99</td></tr>
     <tr><td class="darkText" style="background: #eff0fa">#eff0fa — Neutral-Variant95</td></tr>

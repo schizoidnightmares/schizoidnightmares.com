@@ -3,8 +3,8 @@
 
 # production only
 # recommended command jekyll build
-# destination: ../pro
-# url: https://schizoidnightmares.com
+destination: ../pro
+url: https://schizoidnightmares.com
 
 # jekyll config
 timezone: America/Toronto
