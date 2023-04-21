@@ -16,12 +16,12 @@ I use <a href="https://www.hostwinds.com/" target="_blank">Hostwinds</a> (they h
 1. referring URL (if applicable)
 1. user agent
 
-I will do my best to periodically clear the logs older than two months. However, that is a manual process, and I may not do it on time every period. You are welcome to <a href="{{ site.contact.url }}" target="{{ site.contact.target }}">contact me</a> about any privacy concerns.
+I will do my best to periodically clear the logs older than two months. However, that is a manual process, and I may not do it on time every period. You are welcome to {% include contact.html text="contact me" %} about any privacy concerns.
 
 Aside from investigating technical issues, I do not use this data for any other internal purposes. I also do not share this data with others unless in cooperation with the authorities. In such an event and unless compelled to otherwise by law, I would publicly disclose this cooperation with respect to both individual privacy and public transparency.
 
 ## Security
-If you have discovered a security vulnerability, please <a href="{{ site.contact.url }}" target="{{ site.contact.target }}">inform me privately</a>. Due to limited financial resources, I cannot provide any financial rewards for useful reports. However, I am more than happy to acknowledge your work publicly. I will try my best to disclose reported security vulnerabilities promptly and responsibly.
+If you have discovered a security vulnerability, please {% include contact.html text="inform me privately" %}. Due to limited financial resources, I cannot provide any financial rewards for useful reports. However, I am more than happy to acknowledge your work publicly. I will try my best to disclose reported security vulnerabilities promptly and responsibly.
 
 ## Patreon terms
 Since I have yet to publish my Patreon page (and may not for some time), these terms are only here for future use.
@@ -36,8 +36,8 @@ As an appreciation for financial support, I list patrons who consented to public
 <ol class="spaced">
     <li>I list patrons in the order of tier and seniority, with higher tiers and older patrons (based on patronage duration — not date of birth) listed first. That may not happen right away. Website downtime, technical problems, or personal issues may get in the way.</li>
     <li>Patrons may, at any time, request the removal of their public recognition. I will do my best to complete their request in a timely fashion. However, their recognition may still be visible in perpetuity in public or private archives. Removing those archives is, likely, not possible.</li>
-    <li>I will not list patrons if, by my determination, their display name or URL is objectionable by law, <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to <a href="{{ site.contact.url }}" target="{{ site.contact.target }}">contact me</a> in advance if you have concerns or would like an exception (I grant none for illegal activity or what my host does not allow). What is always or typically objectionable includes but is not limited to names or URLs that directly (intentionally or negligently) promote or enable:</li>
-    <ol class="lowercase">
+    <li>I will not list patrons if, by my determination, their display name or URL is objectionable by law, <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to {% include contact.html text="contact me" %} in advance if you have concerns or would like an exception (I grant none for illegal activity or what my host does not allow). What is always or typically objectionable includes but is not limited to names or URLs that directly (intentionally or negligently) promote or enable:</li>
+    <ol class="lowercase columns2 margin">
         <li>sexual perversion or extreme obscenity (e.g. sexualization of minors, bestiality, sexual violence)</li>
         <li>terrorism, insurrection, treason, civil unrest, or sedition</li>
         <li>illicit (or irresponsible) use or distribution of weapons</li>

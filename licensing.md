@@ -12,34 +12,34 @@ Licensing for content originally produced for me by myself or others.
 
 ### Art
 
-<div class="tableOverflow">
+<div class="table">
 
 | name | year | attribution | licence
-| - | - | - | - | -
-*Schizoid Nightmares Anthology I* cover art | 2019 | Vlad Momot[^1] | CC BY 4.0
+| - | - | - | -
+| *Schizoid Nightmares Anthology I* cover art | 2019 | Vlad Momot[^1] | CC BY 4.0
 {: .small}
 
 </div>
 
 ### Music
 
-<div class="tableOverflow">
+<div class="table">
 
 | name | year | attribution | licence
-| - | - | - | - | -
-"Life Cycle" | 2020 | Schizoid Nightmares | CC BY 4.0
-"Rainy Day" | 2020 | Schizoid Nightmares | CC BY 4.0
-"Life Cycle" (remaster) | 2022 | Schizoid Nightmares | CC BY 4.0
+| - | - | - | -
+| "Life Cycle" | 2020 | Schizoid Nightmares | CC BY 4.0
+| "Rainy Day" | 2020 | Schizoid Nightmares | CC BY 4.0
+| "Life Cycle" (remaster) | 2022 | Schizoid Nightmares | CC BY 4.0
 {: .small}
 
 </div>
 
 ### RubyGems
 
-<div class="tableOverflow">
+<div class="table">
 
 | name | year | attribution | licence
-| - | - | - | - | - | -
+| - | - | - | -
 jekyll-theme-schizoid | 2023 | Schizoid Nightmares | <span class="nbText">MIT License</span>
 {: .small}
 
@@ -47,13 +47,13 @@ jekyll-theme-schizoid | 2023 | Schizoid Nightmares | <span class="nbText">MIT Li
 
 ### Websites
 
-<div class="tableOverflow">
+<div class="table">
 
 | name | year | attribution | licence
-| - | - | - | - | - | -
-schizoidnightmares.com | 2023 | Schizoid Nightmares | <span class="nbText">MIT License (software)</span><br><span class="nbText">CC BY 4.0 (content)</span>
-schizoidnightmares.wiki | 2023 | Schizoid Nightmares Wiki | <span class="nbText">GPL (MediaWiki)</span><br><span class="nbText">CC BY 4.0 (content)</span>
-absurdrealms.com | 2023 | Schizoid Nightmares | <span class="nbText">MIT License (software)</span><br><span class="nbText">CC BY 4.0 (content)</span>
+| - | - | - | -
+| schizoidnightmares.com | 2023 | Schizoid Nightmares | <span class="nbText">MIT License (software)</span><br><span class="nbText">CC BY 4.0 (content)</span>
+| schizoidnightmares.wiki | 2023 | Schizoid Nightmares Wiki | <span class="nbText">GPL (MediaWiki)</span><br><span class="nbText">CC BY 4.0 (content)</span>
+| absurdrealms.com | 2023 | Schizoid Nightmares | <span class="nbText">MIT License (software)</span><br><span class="nbText">CC BY 4.0 (content)</span>
 {: .small}
 
 </div>
@@ -63,11 +63,11 @@ Licensing for content produced by others, not for me, but which I use.
 
 ### Fonts
 
-<div class="tableOverflow">
+<div class="table">
 
 | name | year | attribution | licence | use
-| - | - | - | - | - | -
-Lora | 2011 | Cyreal | OFL | schizoidnightmares.com<br>absurdrealms.com
+| - | - | - | -
+| Lora | 2011 | Cyreal | OFL | schizoidnightmares.com<br>absurdrealms.com
 {: .small}
 
 </div>

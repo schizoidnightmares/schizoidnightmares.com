@@ -9,14 +9,18 @@ description: My profiles elsewhere.
 - <a href="https://archive.org/details/@schizoid_nightmares" target="_blank">Internet Archive</a>[^1]
 - <a href="https://mastodon.social/@schizoidnightmares" target="_blank">Mastodon</a>
 - <a href="https://schizoidnightmares.medium.com/" target="_blank">Medium</a>
+- <a href="https://neovel.io/user/66358/schizoid-nightmares" target="_blank">Neovel</a>
 - <a href="https://creator.nightcafe.studio/u/schizoidnightmares" target="_blank">NightCafe Creator</a>
+- <a href="https://www.quotev.com/schizoidnightmares" target="_blank">Quotev</a>
 - <a href="https://www.reddit.com/user/schizoidnightmares" target="_blank">Reddit</a>
     - <a href="https://www.reddit.com/r/SchizoidNightmares/" target="_blank">Subreddit</a>
+- <a href="https://www.royalroad.com/profile/357196" target="_blank">Royal Road</a>
 - <a href="https://soundcloud.com/schizoidnightmares" target="_blank">SoundCloud</a>
 - <a href="https://stackoverflow.com/users/21422760/schizoid-nightmares" target="_blank">Stack Overflow</a>[^2]
 - <a href="https://schizoidnightmares.tumblr.com/" target="_blank">Tumblr</a>
 - <a href="https://en.wikipedia.org/wiki/User:SchizoidNightmares" target="_blank">Wikipedia</a>[^3]
 - <a href="https://www.youtube.com/@schizoidnightmares" target="_blank">YouTube</a>
+{: .columns2}
 
 [^1]: My account on the Internet Archive has archives (under "WEB ARCHIVES") of my earlier works.
 [^2]: I use my account on Stack Overflow exclusively for programming-related problem-solving, sometimes entirely unrelated to my works.

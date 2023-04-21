@@ -9,26 +9,28 @@ I designed my previous website using the drag-and-drop online editor <a href="ht
 
 Jekyll is not a drag-and-drop tool, but it supports Liquid, a template language by Shopify. Jekyll and Liquid allow me to build websites without "repeating myself" too much. Otherwise, managing a website with more than a dozen pages would be very tedious. Right now, of course, this website is quite small as of the time of this post. However, I have provided a good base for the future, and I will build upon what I have developed here.
 
-My website redesign should be responsive on your device, but you're welcome to <a href="{{ site.contact.url }}" target="{{ site.contact.target }}">send me any complaints or suggestions</a>. Unlike my website's previous version, my redesign does not support comments, so you'll have to use the external form provided to contact me. Alternatively, you could contact me on [one of my profiles](/profiles/) or post on the <a href="https://www.reddit.com/r/SchizoidNightmares/" target="_blank">subreddit</a>.
+My website redesign should be responsive on your device, but you're welcome to {% include contact.html text="send me any complaints or suggestions" %}. Unlike my website's previous version, my redesign does not support comments, so you'll have to use the external form provided to contact me. Alternatively, you could contact me on [one of my profiles](/profiles/) or post on the <a href="https://www.reddit.com/r/SchizoidNightmares/" target="_blank">subreddit</a>.
 
 ## Colour scheme and technicalities
 I exclusively use a dark theme for my website and prefer it if possible for all my branding. For choosing the right colour scheme, I utilized Google's <a href="https://m3.material.io/" target="_blank">Material Design 3</a>, their <a href="https://www.figma.com/community/plugin/1034969338659738588/Material-Theme-Builder" target="_blank">Material Theme Builder</a> on Figma in particular.
 
-<table class="left center small borderless compact">
-    <tr><td class="darkText" style="background: #ffffff">#ffffff — Neutral-Variant100</td></tr>
-    <tr><td class="darkText" style="background: #fdfbff">#fdfbff — Neutral-Variant99</td></tr>
-    <tr><td class="darkText" style="background: #eff0fa">#eff0fa — Neutral-Variant95</td></tr>
-    <tr><td class="darkText" style="background: #e0e2ec">#e0e2ec — Neutral-Variant90</td></tr>
-    <tr><td class="darkText" style="background: #c4c6d0">#c4c6d0 — Neutral-Variant80</td></tr>
-    <tr><td class="darkText" style="background: #a9abb4">#a9abb4 — Neutral-Variant70</td></tr>
-    <tr><td class="darkText" style="background: #8e9099">#8e9099 — Neutral-Variant60</td></tr>
-    <tr><td style="background: #74777f">#74777f — Neutral-Variant50</td></tr>
-    <tr><td style="background: #5b5e66">#5b5e66 — Neutral-Variant40</td></tr>
-    <tr><td style="background: #44474e">#44474e — Neutral-Variant30</td></tr>
-    <tr><td style="background: #2d3038">#2d3038 — Neutral-Variant20</td></tr>
-    <tr><td style="background: #181c22">#181c22 — Neutral-Variant10</td></tr>
-    <tr><td style="background: #000000">#000000 — Neutral-Variant0</td></tr>
-</table>
+<div class="table left" markdown=0>
+    <table class="center small borderless compact">
+        <tr><td class="darkText" style="background: #ffffff">#ffffff — Neutral-Variant100</td></tr>
+        <tr><td class="darkText" style="background: #fdfbff">#fdfbff — Neutral-Variant99</td></tr>
+        <tr><td class="darkText" style="background: #eff0fa">#eff0fa — Neutral-Variant95</td></tr>
+        <tr><td class="darkText" style="background: #e0e2ec">#e0e2ec — Neutral-Variant90</td></tr>
+        <tr><td class="darkText" style="background: #c4c6d0">#c4c6d0 — Neutral-Variant80</td></tr>
+        <tr><td class="darkText" style="background: #a9abb4">#a9abb4 — Neutral-Variant70</td></tr>
+        <tr><td class="darkText" style="background: #8e9099">#8e9099 — Neutral-Variant60</td></tr>
+        <tr><td style="background: #74777f">#74777f — Neutral-Variant50</td></tr>
+        <tr><td style="background: #5b5e66">#5b5e66 — Neutral-Variant40</td></tr>
+        <tr><td style="background: #44474e">#44474e — Neutral-Variant30</td></tr>
+        <tr><td style="background: #2d3038">#2d3038 — Neutral-Variant20</td></tr>
+        <tr><td style="background: #181c22">#181c22 — Neutral-Variant10</td></tr>
+        <tr><td style="background: #000000">#000000 — Neutral-Variant0</td></tr>
+    </table>
+</div>
 
 As of the time of this post, I only use <span class="nbText">Neutral-Variant</span> colours. If you select the colour scheme table's text (click and drag), you may notice that all colours except for <span class="nbText">Neutral-Variant50</span> have a highlighted background. That is because the highlighted background (appears as ```::selection``` in HTML)[^2] is the same colour as <span class="nbText">Neutral-Variant50</span>. Highlighted (i.e. selected) text itself appears as <span class="nbText">Neutral-Variant90</span>.
 

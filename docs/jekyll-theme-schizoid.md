@@ -286,7 +286,7 @@ tableOverflow
 </div>
 ```
 
-<div class="tableOverflow">
+<div class="table">
 
 | Example | Example | Example | Example | Example | Example | Example | Example
 | - | - | - | - | - | - | - | -
