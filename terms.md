@@ -33,22 +33,8 @@ I will do my best to answer questions from patrons in a timely fashion. However,
 As an appreciation for financial support, I list patrons who consented to public recognition on my [credits page](/credits/) or elsewhere under the following terms:
 {: .nip}
 
-<ol class="spaced">
-    <li>I list patrons in the order of tier and seniority, with higher tiers and older patrons (based on patronage duration — not date of birth) listed first. That may not happen right away. Website downtime, technical problems, or personal issues may get in the way.</li>
-    <li>Patrons may, at any time, request the removal of their public recognition. I will do my best to complete their request in a timely fashion. However, their recognition may still be visible in perpetuity in public or private archives. Removing those archives is, likely, not possible.</li>
-    <li>I will not list patrons if, by my determination, their display name or URL is objectionable by law, <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to {% include contact.html text="contact me" %} in advance if you have concerns or would like an exception (I grant none for illegal activity or what my host does not allow). What is always or typically objectionable includes but is not limited to names or URLs that directly (intentionally or negligently) promote or enable:</li>
-    <ol class="lowercase columns2 margin">
-        <li>sexual perversion or extreme obscenity (e.g. sexualization of minors, bestiality, sexual violence)</li>
-        <li>terrorism, insurrection, treason, civil unrest, or sedition</li>
-        <li>illicit (or irresponsible) use or distribution of weapons</li>
-        <li>drug abuse (e.g. alcohol, tobacco, marijuana)</li>
-        <li>threats, stalking, harassment, impersonation, defamation, or unlawful use of force</li>
-        <li>organized crime, arson, vandalism, trespassing, illegal dumping, littering, or loitering</li>
-        <li>fraud, theft, smuggling, piracy, quackery, or copyright infringement</li>
-        <li>malware or spam (unsolicited messages)</li>
-        <li>gambling, multi-level marketing, cryptocurrencies, payday loans, or other schemes that are likely to inflict financial harm</li>
-        <li>interference with the ability of others to lawfully enjoy public or private property</li>
-        <li>adult products or services (e.g. prostitution, escorts, pornography)</li>
-        <li>political campaigns or political parties</li>
-    </ol>
-</ol>
+1. I list patrons in the order of tier and seniority, with higher tiers and older patrons (based on patronage duration — not date of birth) listed first. That may not happen right away. Website downtime, technical problems, or personal issues may get in the way.
+1. Patrons may, at any time, request the removal of their public recognition. I will do my best to complete their request in a timely fashion. However, their recognition may still be visible in perpetuity in public or private archives. Removing those archives is likely, not possible.
+1. I will not list patrons if, by my determination, their display name or URL is objectionable by law,[^1] <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to {% include contact.html text="contact me" %} in advance if you have concerns or would like an exception (I grant none for illegal activity or what my host does not allow).
+
+[^1]: According to the laws of the United States and Canada.
