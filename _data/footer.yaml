@@ -4,6 +4,10 @@
 #   url: /page-url/ (e.g. /terms/)
 #   target: _blank
 
+- title: Contact
+  url: https://tally.so/r/mOaDRp
+  target: _blank
+
 - title: Profiles
   url: /profiles/
 
@@ -16,6 +20,6 @@
 - title: Licensing
   url: /licensing/
 
-- title: Contact
-  url: https://tally.so/r/mOaDRp
+- title: Source
+  url: https://github.com/schizoidnightmares/schizoidnightmares.com
   target: _blank
