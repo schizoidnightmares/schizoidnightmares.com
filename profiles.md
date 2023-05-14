@@ -16,6 +16,7 @@ description: My profiles elsewhere.
 - <a href="https://www.reddit.com/user/schizoidnightmares" target="_blank">Reddit</a>
     - <a href="https://www.reddit.com/r/SchizoidNightmares/" target="_blank">Subreddit</a>
 - <a href="https://www.royalroad.com/profile/357196" target="_blank">Royal Road</a>
+- <a href="https://www.scribblehub.com/profile/125707/schizoidnightmares/" target="_blank">Scribble Hub</a>
 - <a href="https://soundcloud.com/schizoidnightmares" target="_blank">SoundCloud</a>
 - <a href="https://stackoverflow.com/users/21422760/schizoid-nightmares" target="_blank">Stack Overflow</a>[^3]
 - <a href="https://schizoidnightmares.tumblr.com/" target="_blank">Tumblr</a>

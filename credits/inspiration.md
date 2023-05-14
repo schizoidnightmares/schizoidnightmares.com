@@ -8,6 +8,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 {% include toc.html %}
 
 ## Films
+- *2001: A Space Odyssey* (1968)
 - *2081* (2009)
 - *28 Days Later* (2002)
 - *Alien* (1979–1986)
@@ -40,6 +41,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *Predator* (1987–1990)
 - *Quarantine* (2008)
 - *Rec* (2007–2009)
+- *Scarface* (1983)
 - *Shaun of the Dead* (2004)
 - *Soylent Green* (1973)
 - *Star Wars* (1977–2005 Skywalker Saga)
@@ -50,7 +52,9 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *The Circle* (2017)
 - *The Dead Don't Die* (2019)
 - *The Descent* (2005)
+- *The Fly* (1986)
 - *The Girl with All the Gifts* (2016)
+- *The Hitchhiker's Guide to the Galaxy* (2005)
 - *The Land Before Time* (1988)
 - *The Lord of the Rings* (2001–2003)
 - *The Matrix* (1999–2003)
@@ -80,6 +84,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *Dead Rising* (2006)
 - *Dead Space* (2008)
 - *Democracy 3* (2013)
+- *Dungeons & Dragons*
 - *Dwarf Fortress* (2006)
 - *Fallout* (1997–2015)
 - *Gears of War* (2006)
@@ -88,15 +93,18 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *I Have No Mouth, and I Must Scream* (1995)
 - *Judge Dredd: Dredd vs. Death* (2005)
 - *King Kong* (2005)
+- *Mass Effect* (2007–2012)
 - *Myst* (1993–2001)
 - *Night of the Consumers* (2020)
 - *Oddworld* (1997–2005)
+- *Paranoia*
 - *Predator: Concrete Jungle* (2005)
 - *Prison Architect* (2015)
 - *Red Dead Redemption: Undead Nightmare* (2010)
 - *RimWorld* (2018)
 - *Scorn* (2022)
 - *Shenmue II* (2001)
+- *Sid Meier's Civilization*
 - *SimEarth* (1990)
 - *Soma* (2015)
 - *Star Wars: Battlefront* (2004–2005)
@@ -109,7 +117,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 {: .columns3}
 
 ## Literature
-- *2000 AD* (1977–present)
+- *2000 AD*
 - *Animal Farm* (1945)
 - *Annihilation* (2014)
 - *Anthem* (1938)
@@ -125,6 +133,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *Dune* (1965)
 - *Ender's Game* (1985)
 - *Fahrenheit 451* (1953)
+- *Frankenstein* (1818)
 - The Four Books and Five Classics
 - *Goosebumps* (1992–1997)
 - "Harrison Bergeron" (1961)
@@ -145,13 +154,16 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *The Communist Manifesto* (1850)
 - "The Concentration City" (1957)
 - *The Girl with All the Gifts* (2014)
+- *The Hitchhiker's Guide to the Galaxy*
 - *The Lord of the Rings* (1954–1955)
 - "The Lottery" (1948)
 - "The Marching Morons" (1951)
+- *The Metamorphosis* (1915)
 - *The Mist* (1980)
 - *The Mosquito Coast* (1981)
 - *The Shape of Things to Come* (1933)
 - *The Time Machine* (1895)
+- *The Trial* (1925)
 - *The War of the Worlds* (1897)
 - *The World of Kong: A Natural History of Skull Island* (2005)
 - *The Zombie Survival Guide* (2003)
@@ -170,15 +182,18 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - <a href="https://github.com/Azgaar/Fantasy-Map-Generator" target="_blank">Azgaar's Fantasy Map Generator</a> (2017)
 
 ## Television
+- *Black Mirror* (2011–2017)
 - *Daybreak* (2019)
 - *Dead Set* (2008)
-- "Fifteen Million Merits" (2011 *Black Mirror* episode)
 - *Squid Game* (2021)
 - *Star Trek: The Next Generation* (1987–1994)
+- *Survivor* (2000s)
 - *The Last of Us* (2023)
 - *The Magic School Bus* (1994–1997)
 - *The Twilight Zone* (1959–2003)
 - *The Walking Dead* (2010–2021)
+- *Wipeout* (2008–2014)
+{: .columns2}
 
 ## Websites
 - <a href="https://www.fandom.com/" target="_blank">Fandom</a>
