@@ -34,6 +34,8 @@ As an appreciation for financial support, I list patrons who consented to public
 {: .nip}
 
 1. I list patrons in the order of tier and seniority, with higher tiers and older patrons (based on patronage duration — not date of birth) listed first. That may not happen right away. Website downtime, technical problems, or personal issues may get in the way.
+    1. I also list non-tier patrons according to their contributions and seniority. I may list them above or below existing tiers depending on whether those tiers are lower or higher in contribution amount.
+    {: .lowercase}
 1. Patrons may, at any time, request the removal of their public recognition. I will do my best to complete their request in a timely fashion. However, their recognition may still be visible in perpetuity in public or private archives. Removing those archives is likely, not possible.
 1. I will not list patrons if, by my determination, their display name or URL is objectionable by law,[^1] <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to {% include contact.html text="contact me" %} in advance if you have concerns or would like an exception (I grant none for illegal activity or what my host does not allow).
 
