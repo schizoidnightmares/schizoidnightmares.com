@@ -37,6 +37,19 @@ As an appreciation for financial support, I list patrons who consented to public
     1. I also list non-tier patrons according to their contributions and seniority. I may list them above or below existing tiers depending on whether those tiers are lower or higher in contribution amount.
     {: .lowercase}
 1. Patrons may, at any time, request the removal of their public recognition. I will do my best to complete their request in a timely fashion. However, their recognition may still be visible in perpetuity in public or private archives. Removing those archives is likely, not possible.
-1. I will not list patrons if, by my determination, their display name or URL is objectionable by law,[^1] <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to {% include contact.html text="contact me" %} in advance if you have concerns or would like an exception (I grant none for illegal activity or what my host does not allow).
-
-[^1]: According to the laws of the United States and Canada.
+1. I will not list patrons if, by my determination, they or their URL is objectionable by American or Canadian law, <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to {% include contact.html text="contact me" %} in advance if you have concerns. I refuse to display, non-exhaustively, URLs or listed patrons that willfully, or by gross negligence, facilitate or incite:
+    1. the exploitation of children or other vulnerable persons
+    1. malware distribution or development
+    1. lotteries, betting, or other gambling
+    1. harassment, stalking, or defamation
+    1. quackery, drug abuse, or other potentially life-threatening activities
+    1. intellectual property theft
+    1. gratuitous display of real violence
+    1. criminal hate speech or sedition
+    1. payday loans or usury
+    1. MLMs, pyramid schemes, or get-rich-quick schemes
+    1. cheating in competitive games
+    1. pornography or other sexual services
+    1. (if main or significant purpose) cryptocurrencies, NFTs, affiliate marketing, or political activism
+    {: .lowercase .columns2}
+{: .spaced}
