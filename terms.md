@@ -33,11 +33,9 @@ I will do my best to answer questions from patrons in a timely fashion. However,
 As an appreciation for financial support, I list patrons who consented to public recognition on my [credits page](/credits/) or elsewhere under the following terms:
 {: .nip}
 
-1. I list patrons in the order of tier and seniority, with higher tiers and older patrons (based on patronage duration — not date of birth) listed first. That may not happen right away. Website downtime, technical problems, or personal issues may get in the way.
-    1. I also list non-tier patrons according to their contributions and seniority. I may list them above or below existing tiers depending on whether those tiers are lower or higher in contribution amount.
-    {: .lowercase}
+1. I list patrons according to their total financial contributions (and, in the case of ties, by seniority). However, patronage listing may be temporarily out of date. Website downtime, technical problems, or personal issues may get in the way of keeping it updated.
 1. Patrons may, at any time, request the removal of their public recognition. I will do my best to complete their request in a timely fashion. However, their recognition may still be visible in perpetuity in public or private archives. Removing those archives is likely, not possible.
-1. I will not list patrons if, by my determination, they or their URL is objectionable by American or Canadian law, <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons. It is best to {% include contact.html text="contact me" %} in advance if you have concerns. I refuse to display, non-exhaustively, URLs or listed patrons that willfully, or by gross negligence, facilitate or incite:
+1. I will not list patrons if, by my determination, they or their URL is objectionable by American or Canadian law, <a href="https://www.hostwinds.com/legal/terms" target="_blank">my host</a>, or for other reasons.[^1] It is best to {% include contact.html text="contact me" %} in advance if you have concerns. I refuse to display, non-exhaustively, URLs or listed patrons that willfully, or by gross negligence, facilitate or incite:
     1. the exploitation of children or other vulnerable persons
     1. malware distribution or development
     1. lotteries, betting, or other gambling
@@ -53,3 +51,5 @@ As an appreciation for financial support, I list patrons who consented to public
     1. (if main or significant purpose) cryptocurrencies, NFTs, affiliate marketing, or political activism
     {: .lowercase .columns2}
 {: .spaced}
+
+[^1]: Under most circumstances, these objections only pertain to high-profile behaviour. It is not my intention to meddle or apply judgements based on the private affairs of others. I cannot nor do I desire to conduct invasive "background checks" on my patrons.
