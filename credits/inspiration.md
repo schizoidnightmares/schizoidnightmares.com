@@ -28,6 +28,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *Falling Down* (1993)
 - *Final Fantasy: The Spirits Within* (2001)
 - *Fire in the Sky* (1993)
+- *Fortress* (1992)
 - *Gattaca* (1997)
 - *I, Robot* (2004)
 - *Idiocracy* (2006)
@@ -75,6 +76,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *War of the Worlds* (2005)
 - *Zombie Movie* (2005)
 - *Zombi 2* (1979)
+- *Z.P.G.* (1972)
 {: .columns3}
 
 ## Games
@@ -148,11 +150,13 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *Nineteen Eighty-Four* (1949)
 - The Quran
 - *Republic* (375 BC)
+- *Silent Spring* (1962)
 - *Starship Troopers* (1959)
 - *The Children of Men* (1992)
 - *The Circle* (2013)
 - *The Communist Manifesto* (1850)
 - "The Concentration City" (1957)
+- *The Edict* (1971)
 - *The Girl with All the Gifts* (2014)
 - *The Hitchhiker's Guide to the Galaxy*
 - *The Lord of the Rings* (1954–1955)
@@ -161,6 +165,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *The Metamorphosis* (1915)
 - *The Mist* (1980)
 - *The Mosquito Coast* (1981)
+- *The Population Bomb* (1968)
 - *The Shape of Things to Come* (1933)
 - *The Time Machine* (1895)
 - *The Trial* (1925)
@@ -196,8 +201,11 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 {: .columns2}
 
 ## Websites
+- <a href="https://8values.github.io/" target="_blank">8values</a>
 - <a href="https://www.fandom.com/" target="_blank">Fandom</a>
+- <a href="https://www.isidewith.com/" target="_blank">iSideWith</a>
 - <a href="https://www.nationstates.net/" target="_blank">NationStates</a>
 - <a href="http://particracy.net/" target="_blank">Particracy</a>
 - <a href="https://scp-wiki.wikidot.com/" target="_blank">SCP Foundation</a>
+- <a href="https://www.politicalcompass.org/" target="_blank">The Political Compass</a>
 - <a href="https://www.wikipedia.org/" target="_blank">Wikipedia</a>
