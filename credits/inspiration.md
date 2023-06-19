@@ -72,6 +72,7 @@ Here are (non-exhaustively) the works that help(ed) inspire me.
 - *Things to Come* (1936)
 - *THX 1138* (1971)
 - *Tomorrowland* (2015)
+- *Transcendence* (2014)
 - *Virus* (1999)
 - *War of the Worlds* (2005)
 - *Zombie Movie* (2005)
