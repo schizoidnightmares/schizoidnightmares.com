@@ -1,8 +1,7 @@
 ---
-layout: blog
 title: News
-description: Latest news about my works.
-display_last_modified_at: false
+description: The latest news
+layout: news
 pagination: 
     enabled: true
     category: news

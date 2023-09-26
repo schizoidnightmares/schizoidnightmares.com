@@ -1,3 +1,7 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.3.1"
-gem "jekyll-theme-schizoid", "~> 2.0.0"
+gem "jekyll-feed", "~> 0.12"
+gem "jekyll-paginate-v2", "~> 3.0.0"
+gem "jekyll-sitemap", "~> 1.4.0"
+gem "jekyll-tidy", "~> 0.2.2"
+gem "jekyll-last-modified-at", "~> 1.3.0"

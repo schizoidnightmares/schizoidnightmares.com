@@ -1,0 +1,25 @@
+---
+layout: base
+---
+
+<div class="content">
+    {{ content }}
+    {% if page.return-url %}
+    <p class="return">
+        {% if page.main-url %}
+        <a href="{{ page.main-url }}">← {{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
+        {% else %}
+        <a href="{{ page.return-url }}">← {{ page.return | default: "Return" }}</a>
+        {% endif %}
+    </p>
+    {% endif %}
+    {% if page.advance %}
+    <p class="advance">
+        {% if page.advance-url %}
+        <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }} →</a></p>
+        {% else %}
+        {{ page.advance }}
+        {% endif %}
+    </p>
+    {% endif %}
+</div>

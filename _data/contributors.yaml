@@ -1,0 +1,224 @@
+- title: Affinity Designer
+  flag: gb
+  url: https://affinity.serif.com/en-gb/designer/
+  usage: Vector production
+  notes: Paid software
+
+- title: archive.today
+  url: https://archive.ph/
+  usage: Web archiving
+  notes: Free service
+
+- title: circle-flags
+  flag: au
+  url: https://github.com/HatScripts/circle-flags
+  usage: Vector flags
+  notes: Free under the <a href="https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE.md" target="_blank">MIT License ⧉</a>
+
+- title: colordesigner.io
+  url: https://colordesigner.io/
+  usage: Colour tools
+  notes: Free service
+
+- title: Compress PNG
+  flag: lv
+  url: https://compresspng.com/
+  usage: PNG file compression
+  notes: Free service
+
+- title: Creative Commons
+  flag: us
+  url: https://creativecommons.org/
+  usage: Licensing
+  notes: Free service
+
+- title: ElevenLabs
+  flag: us
+  url: https://elevenlabs.io/
+  usage: Text-to-speech generator (for proofreading)
+  notes: Freemium service
+
+- title: <i>Encyclopædia Britannica</i>
+  flag: us
+  url: https://www.britannica.com/
+  usage: Encyclopedia
+  notes: Free service
+
+- title: Fantasy Map Generator
+  flag: ge
+  url: https://github.com/Azgaar/Fantasy-Map-Generator
+  usage: Map generator and production
+  notes: Free software
+
+- title: favicon.io
+  flag: us
+  url: https://favicon.io/
+  usage: Favicon generator
+  notes: Free service
+
+- title: GarageBand
+  flag: us
+  url: https://www.apple.com/mac/garageband/
+  usage: Music production
+  notes: Free software
+
+- title: GIMP
+  flag: us
+  url: https://www.gimp.org/
+  usage: Raster production
+  notes: Free software
+
+- title: GitHub
+  flag: us
+  url: https://github.com/
+  usage: Software host and version control
+  notes: Freemium service
+
+- title: Google Sheets
+  flag: us
+  url: https://workspace.google.com/
+  usage: Spreadsheet production and hosting
+  notes: Freemium software
+
+- title: Grammarly
+  flag: us
+  url: https://www.grammarly.com/
+  usage: Proofreading
+  notes: Freemium service
+
+- title: Hostwinds
+  flag: us
+  url: https://www.hostwinds.com/
+  usage: Website host for schizoidnightmares.com and absurdrealms.com
+  notes: Paid service
+
+- title: iMovie
+  flag: us
+  url: https://www.apple.com/imovie/
+  usage: Video editing and compiling
+  notes: Free software
+
+- title: Internet Archive
+  flag: us
+  url: https://archive.org/
+  usage: Web archiving
+  notes: Free service
+
+- title: Jekyll
+  flag: us
+  url: https://jekyllrb.com/
+  usage: Static site generator for schizoidnightmares.com and absurdrealms.com
+  notes: Free under the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
+
+- title: Lora by Cyreal
+  flag: ge
+  url: http://cyreal.org/fonts/lora/
+  usage: Font for my branding and websites
+  notes: Free under the <a href="http://cyreal.org/license/" target="_blank">OFL ⧉</a>
+
+- title: Material Theme Builder
+  flag: us
+  url: https://www.figma.com/community/plugin/1034969338659738588/Material-Theme-Builder
+  usage: Website colour scheme generator
+  notes: Free tool
+
+- title: MediaWiki
+  flag: us
+  url: https://www.mediawiki.org/
+  usage: Software powering the Schizoid Nightmares Wiki
+  notes: Free under the <a href="https://www.mediawiki.org/wiki/Copyright" target="_blank">GPL ⧉</a>
+
+- title: Miraheze
+  flag: gb
+  url: https://miraheze.org/
+  usage: Website host for the Schizoid Nightmares Wiki
+  notes: Free service
+
+- title: NightCafe Studio
+  flag: au
+  url: https://creator.nightcafe.studio/
+  usage: A.I. art generator
+  notes: Freemium service
+
+- title: Njalla
+  flag: kn
+  url: https://njal.la/
+  usage: Domain registration
+  notes: Paid service
+
+- title: Pages
+  flag: us
+  url: https://www.apple.com/pages/
+  usage: Word processor
+  notes: Free software  
+
+- title: RubyGems
+  url: https://rubygems.org/
+  usage: Ruby package management and distribution
+  notes: Free service
+
+- title: Shaping Design Blog
+  flag: il
+  url: https://www.editorx.com/shaping-design
+  usage: <a href="https://www.editorx.com/shaping-design/article/font-size" target="_blank">Font size guidelines ⧉</a>
+  notes: Free service
+
+- title: Simone Carletti
+  flag: it
+  url: https://simonecarletti.com/
+  usage: <a href="https://simonecarletti.com/blog/2016/08/redirect-domain-http-https-www-apache/" target="_blank">Apache redirect tutorial ⧉</a>
+  notes: Free service
+
+- title: Stack Overflow
+  flag: us
+  url: https://stackoverflow.com/
+  usage: Programming help
+  notes: Free service
+
+- title: Tally
+  flag: be
+  url: https://tally.so/
+  usage: Form builder and hosting
+  notes: Freemium service
+
+- title: <i>The Markdown Guide</i>
+  flag: us
+  url: https://www.markdownguide.org/
+  usage: Markdown syntax reference
+  notes: Free service
+
+- title: Thales Group
+  flag: fr
+  url: https://www.thalesgroup.com/
+  usage: <a href="https://cpl.thalesgroup.com/software-monetization/software-versioning-basics" target="_blank">Software versioning guide ⧉</a>
+  notes: Free service
+
+- title: Thesaurus.com
+  flag: us
+  url: https://www.thesaurus.com/
+  usage: Thesaurus
+  notes: Free service
+
+- title: Visual Studio Code
+  flag: us
+  url: https://code.visualstudio.com/
+  usage: Source-code editing
+  notes: Free software
+
+- title: Vlad Momot
+  flag: ru
+  url: https://vladmomotart.tumblr.com/
+  usage: Cover artist for <i>Schizoid Nightmares Anthology I</i> and <i>The Flippers</i>
+  notes: Paid contributor; cover art produced for me under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0 ⧉</a>
+
+- title: W3Schools
+  flag: 'no'
+  url: https://www.w3schools.com/
+  usage: Web development reference
+  notes: Free service
+
+- title: Wiktionary
+  flag: us
+  url: https://www.wiktionary.org/
+  usage: Dictionary
+  notes: Free service

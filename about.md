@@ -1,28 +1,39 @@
 ---
 title: About
-description: About me and my works.
+description: About me and my works
 ---
 
-I am a man of English Canadian descent, born, raised, and presently residing in Ontario, Canada. I was first clinically diagnosed with schizoid personality disorder[^1] after entering adulthood. Since 2019, I have been creating amateur <a href="https://freedomdefined.org/Definition" target="_blank">free-cultural works</a> under the pseudonym Schizoid Nightmares. My works are partly a coping mechanism for my mental illness.
+# About
+I am a man of English Canadian descent, born, raised, and presently residing in Ontario, Canada. I was first clinically diagnosed with schizoid personality disorder[^1] after entering adulthood. Since 2019, I have been creating amateur <a href="https://freedomdefined.org/Definition" target="_blank">free-cultural works ⧉</a> under the pseudonym Schizoid Nightmares. My works are partly a coping mechanism for my mental illness.
 
 [^1]: Schizoid personality disorder is not the same as schizophrenia.
 
-## Modus operandi
-### Design
-With the exception of <a href="https://schizoidnightmares.wiki/" target="_blank">the wiki</a>, I use a dark theme across all my websites. For the design, I try to accomplish the following objectives:
-1. easy on the eyes, consistent, and minimalistic
-1. lightweight and low data usage
-1. no ads, pop-ups, auto-playing videos, excessive analytics, or unnecessary cookies (I presently use none)
-1. responsive to different screen sizes and devices
-1. accessible to most or all users (based on demand)
+## Profiles
+- <a href="https://schizoidnightmares.bandcamp.com/" target="_blank">Bandcamp ⧉</a>
+- <a href="https://belletristica.com/en/users/5706-schizoid-nightmares" target="_blank">Belletristica ⧉</a>
+- <a href="https://geeke.app/_/api/user/schizoidnightmares" target="_blank">Geeke ⧉</a>[^2]
+- <a href="https://github.com/schizoidnightmares" target="_blank">GitHub ⧉</a>
+- <a href="https://archive.org/details/@schizoid_nightmares" target="_blank">Internet Archive ⧉</a>[^3]
+- <a href="https://mastodon.social/@schizoidnightmares" target="_blank">Mastodon ⧉</a>
+- <a href="https://schizoidnightmares.medium.com/" target="_blank">Medium ⧉</a>
+- <a href="https://neovel.io/user/66358/schizoid-nightmares" target="_blank">Neovel ⧉</a>
+- <a href="https://creator.nightcafe.studio/u/schizoidnightmares" target="_blank">NightCafe Creator ⧉</a>
+- <a href="https://www.quotev.com/schizoidnightmares" target="_blank">Quotev ⧉</a>
+- <a href="https://www.reddit.com/user/schizoidnightmares" target="_blank">Reddit ⧉</a>
+    - <a href="https://www.reddit.com/r/SchizoidNightmares/" target="_blank">Subreddit ⧉</a>
+- <a href="https://www.royalroad.com/profile/357196" target="_blank">Royal Road ⧉</a>
+- <a href="https://www.scribblehub.com/profile/125707/schizoidnightmares/" target="_blank">Scribble Hub ⧉</a>
+- <a href="https://soundcloud.com/schizoidnightmares" target="_blank">SoundCloud ⧉</a>
+- <a href="https://stackoverflow.com/users/21422760/schizoid-nightmares" target="_blank">Stack Overflow ⧉</a>[^4]
+- <a href="https://schizoidnightmares.tumblr.com/" target="_blank">Tumblr ⧉</a>
+- <a href="https://en.wikipedia.org/wiki/User:SchizoidNightmares" target="_blank">Wikipedia ⧉</a>[^5]
+- <a href="https://www.youtube.com/@schizoidnightmares" target="_blank">YouTube ⧉</a>
+{: .cols2}
 
-If you experience any problems with my websites, please {% include contact.html text="inform me" %}.
-
-### Schedule
-I have no fixed release schedule and often go through erratic periods of low and high productivity. To counter this, I release my works in segments. I am not so much a perfectionist (I am willing to accept "good enough" quality) — I just tend to go through waves of reiteration as more ideas come to fruition.
-
-### Language
-As a general rule, I produce my works, at least firstly, in **Canadian English**. I am open to releasing translations in the future according to popular demand. However, professional translations can be expensive, so that may take time.
+[^2]: You must log in to view my profile.
+[^3]: My account on the Internet Archive has archives (under "WEB ARCHIVES") of my earlier works.
+[^4]: I use my account on Stack Overflow exclusively for programming-related problem-solving, sometimes entirely unrelated to my works.
+[^5]: I use my account on Wikipedia as a volunteer for the encyclopedic project, not for my creative projects. The only exception to this is when I pursue MediaWiki-related inquiries, which may pertain to the Schizoid Nightmares Wiki.
 
 ## Supporting my work
 There is currently no means of supporting my work beyond offering honest feedback. I am open, however, to eventually launching a Patreon in the future. My work, at least in digital form, **will always remain free and accessible** to all (no paywalls or early access restrictions).

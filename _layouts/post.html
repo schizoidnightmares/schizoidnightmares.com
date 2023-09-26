@@ -1,0 +1,19 @@
+---
+layout: base
+style: post
+---
+
+<div class="content">
+    {% if page.custom-title %}
+    <h1>{{ page.custom-title }}</h1>
+    {% else %}
+    <h1> {{ page.title }}</h1>
+    {% endif %}
+    <p class="date">{{ page.date | date: '%B %e, %Y' }}</p>
+    {% if page.src %}
+    <img src="{{ page.src }}" alt="{{ page.alt }}">
+    {% if page.caption %}<div class="caption"><p>{{ page.caption }}</p></div>{% endif %}
+    {% endif %}
+    {{ content }}
+    <p class="return" style="text-transform: capitalize;"><a href="/{{ page.category }}/">← {{ page.category }}</a></p>
+</div>

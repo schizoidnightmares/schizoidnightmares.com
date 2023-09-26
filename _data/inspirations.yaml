@@ -1,0 +1,901 @@
+# films
+
+- title: "<i>2001: A Space Odyssey</i> (1968)"
+  flag: us
+  category: films
+
+- title: <i>2081</i> (2009)
+  flag: us
+  category: films
+
+- title: <i>28 Days Later</i> (2002)
+  flag: gb
+  category: films
+
+- title: <i>Alien</i> & <i>Aliens</i> (1979, 1986)
+  flag: us
+  category: films
+
+- title: <i>Alien vs. Predator</i> (2004)
+  flag: us
+  category: films
+
+- title: <i>Annihilation</i> (2018)
+  flag: us
+  category: films
+
+- title: "<i>Atlantis: The Lost Empire</i> (2001)"
+  flag: us
+  category: films
+
+- title: <i>Avatar</i> (2009)
+  flag: us
+  category: films
+
+- title: <i>Blade Runner</i> & <i>Blade Runner 2049</i> (1982, 2017)
+  flag: us
+  category: films
+
+- title: <i>Bourne</i> (2002–2007)
+  flag: us
+  category: films
+
+- title: <i>Cargo</i> (2017)
+  flag: au
+  category: films
+
+- title: <i>Children of Men</i> (2006)
+  flag: us
+  category: films
+
+- title: "<i>Colossus: The Forbin Project</i> (1970)"
+  flag: us
+  category: films
+
+- title: <i>Cube</i> (1997)
+  flag: ca
+  category: films
+
+- title: <i>Dawn of the Dead</i> (1978, 2004)
+  flag: us
+  category: films
+
+- title: <i>Day of the Dead</i> (1985)
+  flag: us
+  category: films
+
+- title: <i>Dead Alive</i> (1992)
+  flag: nz
+  category: films
+
+- title: <i>Falling Down</i> (1993)
+  flag: us
+  category: films
+
+- title: "<i>Final Fantasy: The Spirits Within</i> (2001)"
+  flag: us
+  category: films
+
+- title: <i>Fire in the Sky</i> (1993)
+  flag: us
+  category: films
+
+- title: <i>Fortress</i> (1992)
+  flag: us
+  category: films
+
+- title: <i>Gattaca</i> (1997)
+  flag: us
+  category: films
+
+- title: <i>I, Robot</i> (2004)
+  flag: us
+  category: films
+
+- title: <i>Idiocracy</i> (2006)
+  flag: us
+  category: films
+
+- title: <i>Jurassic Park</i> (1993–2001)
+  flag: us
+  category: films
+
+- title: <i>King Kong</i> (1933, 2005)
+  flag: us
+  category: films
+
+- title: <i>Lord of the Flies</i> (1990)
+  flag: us
+  category: films
+
+- title: <i>Nineteen Eighty-Four</i> (1984)
+  flag: gb
+  category: films
+
+- title: <i>Nope</i> (2022)
+  flag: us
+  category: films
+
+- title: <i>Planet of the Apes</i> (1968–1973)
+  flag: us
+  category: films
+
+- title: <i>Poltergeist</i> (1985)
+  flag: us
+  category: films
+
+- title: <i>Predator</i> & <i>Predator 2</i> (1987, 1990)
+  flag: us
+  category: films
+
+- title: <i>Quarantine</i> (2008)
+  flag: us
+  category: films
+
+- title: <i>Raiders of the Lost Ark</i> (1981)
+  flag: us
+  category: films
+
+- title: <i>Rec</i> & <i>Rec 2</i> (2007, 2009)
+  flag: es
+  category: films
+
+- title: <i>Scarface</i> (1983)
+  flag: us
+  category: films
+
+- title: <i>Shaun of the Dead</i> (2004)
+  flag: gb
+  category: films
+
+- title: "<i>Sicario</i> & <i>Sicario: Day of the Soldado</i> (2015, 2018)"
+  flag: us
+  category: films
+
+- title: <i>Soylent Green</i> (1973)
+  flag: us
+  category: films
+
+- title: <i>Star Wars</i> (1977–2005 Skywalker Saga)
+  flag: us
+  category: films
+
+- title: <i>Terminator</i> (1984–2003)
+  flag: us
+  category: films
+
+- title: <i>The Beach House</i> (2019)
+  flag: us
+  category: films
+
+- title: <i>The Blob</i> (1988)
+  flag: us
+  category: films
+
+- title: <i>The Chronicles of Riddick</i> (2004)
+  flag: us
+  category: films
+
+- title: <i>The Circle</i> (2017)
+  flag: us
+  category: films
+
+- title: <i>The Dead Don’t Die</i> (2019)
+  flag: us
+  category: films
+
+- title: <i>The Descent</i> (2005)
+  flag: gb
+  category: films
+
+- title: <i>The Fly</i> (1986)
+  flag: us
+  category: films
+
+- title: <i>The Girl with All the Gifts</i> (2016)
+  flag: gb
+  category: films
+
+- title: <i>The Hitchhiker’s Guide to the Galaxy</i> (2005)
+  flag: us
+  category: films
+
+- title: <i>The Land Before Time</i> (1988)
+  flag: us
+  category: films
+
+- title: <i>The Lord of the Rings</i> (2001–2003)
+  flag: us
+  category: films
+
+- title: <i>The Matrix</i> (1999–2003)
+  flag: us
+  category: films
+
+- title: <i>The Mist</i> (2007)
+  flag: us
+  category: films
+
+- title: <i>The Mosquito Coast</i> (1986)
+  flag: us
+  category: films
+
+- title: <i>The Mummy Returns</i> (2001)
+  flag: us
+  category: films
+
+- title: <i>The Night Eats the World</i> (2018)
+  flag: fr
+  category: films
+
+- title: <i>The Platform</i> (2019)
+  flag: es
+  category: films
+
+- title: <i>The Return of the Living Dead</i> (1985)
+  flag: us
+  category: films
+
+- title: <i>The Stuff</i> (1985)
+  flag: us
+  category: films
+
+- title: <i>The Time Machine</i> (1960, 2002)
+  flag: us
+  category: films
+
+- title: <i>The Thing</i> (1982)
+  flag: us
+  category: films
+
+- title: <i>The War of the Worlds</i> & <i>War of the Worlds</i> (1953, 2005)
+  flag: us
+  category: films
+
+- title: <i>They Live</i> (1988)
+  flag: us
+  category: films
+
+- title: <i>Things to Come</i> (1936)
+  flag: gb
+  category: films
+
+- title: <i>THX 1138</i> (1971)
+  flag: us
+  category: films
+
+- title: <i>Tomorrowland</i> (2015)
+  flag: us
+  category: films
+
+- title: <i>Transcendence</i> (2014)
+  flag: us
+  category: films
+
+- title: <i>Virus</i> (1999)
+  flag: us
+  category: films
+
+- title: <i>Zombie Movie</i> (2005)
+  flag: nz
+  category: films
+
+- title: <i>Zombi 2</i> (1979)
+  flag: it
+  category: films
+
+- title: <i>Z.P.G.</i> (1972)
+  flag: us
+  category: films
+
+# games
+
+- title: <i>Aliens Versus Predator 2</i> (2001)
+  flag: us
+  category: games
+
+- title: <i>Aliens vs. Predator</i> (2010)
+  flag: gb
+  category: games
+
+- title: <i>Arma</i> (2009–2013)
+  flag: cz
+  category: games
+
+- title: <i>BioShock</i> (2007)
+  flag: us
+  category: games
+
+- title: <i>Dead Rising</i> (2006)
+  flag: jp
+  category: games
+
+- title: <i>Dead Space</i> (2008)
+  flag: us
+  category: games
+
+- title: <i>Democracy 3</i> (2013)
+  flag: gb
+  category: games
+
+- title: <i>Dungeons & Dragons</i>
+  flag: us
+  category: games
+
+- title: <i>Dwarf Fortress</i> (2006)
+  flag: us
+  category: games
+
+- title: Fallout (1997–2015)
+  flag: us
+  category: games
+
+- title: <i>Far Cry 4</i> (2014)
+  flag: ca
+  category: games
+
+- title: <i>Gears of War</i> (2006)
+  flag: us
+  category: games
+
+- title: <i>Half-Life</i> (1998–2007)
+  flag: us
+  category: games
+
+- title: <i>Halo</i> (2001–2007)
+  flag: us
+  category: games
+
+- title: <i>I Have No Mouth, and I Must Scream</i> (1995)
+  flag: us
+  category: games
+
+- title: <i>Jade Empire</i> (2005)
+  flag: ca
+  category: games
+
+- title: "<i>Judge Dredd: Dredd vs. Death</i> (2005)"
+  flag: gb
+  category: games
+
+- title: <i>King Kong</i> (2005)
+  flag: fr
+  category: games
+
+- title: <i>Mass Effect</i> (2007–2012)
+  flag: ca
+  category: games
+
+- title: <i>Myst</i> (1993–2001)
+  flag: us
+  category: games
+
+- title: <i>NationStates</i>
+  flag: au
+  category: games
+
+- title: <i>Night of the Consumers</i> (2020)
+  flag: gb
+  category: games
+
+- title: <i>Oddworld</i> (1997–2005)
+  flag: us
+  category: games
+
+- title: <i>Paranoia</i>
+  flag: us
+  category: games
+
+- title: <i>Particracy</i>
+  flag: be
+  category: games
+
+- title: "<i>Predator: Concrete Jungle</i> (2005)"
+  flag: gb
+  category: games
+
+- title: <i>Prison Architect</i> (2015)
+  flag: gb
+  category: games
+
+- title: "<i>Red Dead Redemption: Undead Nightmare</i> (2010)"
+  flag: us
+  category: games
+
+- title: <i>RimWorld</i> (2018)
+  flag: ca
+  category: games
+
+- title: <i>Scorn</i> (2022)
+  flag: rs
+  category: games
+
+- title: <i>Shenmue</i> & <i>Shenmue II</i> (1999, 2001)
+  flag: jp
+  category: games
+
+- title: <i>Sid Meier’s Civilization</i>
+  flag: us
+  category: games
+
+- title: <i>SimEarth</i> (1990)
+  flag: us
+  category: games
+
+- title: <i>Soma</i> (2015)
+  flag: se
+  category: games
+
+- title: "<i>Star Wars: Battlefront</i> & <i>Star Wars: Battlefront II</i> (2004, 2005)"
+  flag: us
+  category: games
+
+- title: "<i>Star Wars: Knights of the Old Republic</i> (2003)"
+  flag: ca
+  category: games
+
+- title: <i>Stubbs the Zombie in Rebel Without a Pulse</i> (2005)
+  flag: us
+  category: games
+
+- title: <i>System Shock 2</i> (1999)
+  flag: us
+  category: games
+
+- title: "<i>The Longest Journey</i> & <i>Dreamfall: The Longest Journey</i> (1999, 2006)"
+  flag: "no"
+  category: games
+
+- title: <i>Tropico 3</i> & <i>Tropico 4</i> (2009, 2011)
+  flag: bg
+  category: games
+
+- title: "<i>Unreal II: The Awakening</i> (2004)"
+  flag: us
+  category: games
+
+- title: <i>Unreal Tournament</i> (1999)
+  flag: us
+  category: games
+
+# literature
+
+- title: <i>2000 AD</i>
+  flag: gb
+  category: lit
+
+- title: <i>Animal Farm</i> (1945)
+  flag: gb
+  category: lit
+
+- title: <i>Annihilation</i> (2014)
+  flag: us
+  category: lit
+
+- title: <i>Anthem</i> (1938)
+  flag: ru
+  category: lit
+
+- title: <i>Atlas Shrugged</i> (1957)
+  flag: ru
+  category: lit
+
+- title: The Bible
+  category: lit
+
+- title: <i>Bourne</i> (1980–1990)
+  flag: us
+  category: lit
+
+- title: <i>Brave New World</i> (1932)
+  flag: gb
+  category: lit
+
+- title: <i>Childhood’s End</i> (1953)
+  flag: gb
+  category: lit
+
+- title: <i>Colossus</i> (1966)
+  flag: gb
+  category: lit
+
+- title: <i>Concrete Island</i> (1974)
+  flag: gb
+  category: lit
+
+- title: <i>Das Kapital</i> (1887)
+  flag: de
+  category: lit
+
+- title: <i>Do Androids Dream of Electric Sheep?</i> (1968)
+  flag: us
+  category: lit
+
+- title: <i>Dune</i> (1965)
+  flag: us
+  category: lit
+
+- title: <i>Ender’s Game</i> (1985)
+  flag: us
+  category: lit
+
+- title: <i>Fahrenheit 451</i> (1953)
+  flag: us
+  category: lit
+
+- title: <i>Frankenstein</i> (1818)
+  flag: gb
+  category: lit
+
+- title: The Four Books and Five Classics
+  flag: cn
+  category: lit
+
+- title: <i>Goosebumps</i> (1992–1997)
+  flag: us
+  category: lit
+
+- title: “Harrison Bergeron” (1961)
+  flag: us
+  category: lit
+
+- title: <i>Holes</i> (1998)
+  flag: us
+  category: lit
+
+- title: <i>I, Robot</i> (1950)
+  flag: us
+  category: lit
+
+- title: <i>Industrial Society and Its Future</i> (1995)
+  flag: us
+  category: lit
+
+- title: “I Have No Mouth, and I Must Scream” (1967)
+  flag: us
+  category: lit
+
+- title: <i>Jennifer Government</i> (2003)
+  flag: au
+  category: lit
+
+- title: <i>Jurassic Park</i> (1990)
+  flag: us
+  category: lit
+
+- title: <i>Leviathan</i> (1651)
+  flag: gb
+  category: lit
+
+- title: <i>Lord of the Flies</i> (1954)
+  flag: gb
+  category: lit
+
+- title: <i>Make Room! Make Room!</i> (1966)
+  flag: us
+  category: lit
+
+- title: <i>Nineteen Eighty-Four</i> (1949)
+  flag: gb
+  category: lit
+
+- title: The Quran
+  category: lit
+
+- title: <i>Republic</i> (375 BC)
+  flag: gr
+  category: lit
+
+- title: SCP Foundation
+  category: lit
+
+- title: <i>Silent Spring</i> (1962)
+  flag: us
+  category: lit
+
+- title: <i>Starship Troopers</i> (1959)
+  flag: us
+  category: lit
+
+- title: <i>The Children of Men</i> (1992)
+  flag: gb
+  category: lit
+
+- title: <i>The Circle</i> (2013)
+  flag: us
+  category: lit
+
+- title: <i>The Communist Manifesto</i> (1850)
+  flag: de
+  category: lit
+
+- title: “The Concentration City” (1957)
+  flag: gb
+  category: lit
+
+- title: <i>The Edict</i> (1971)
+  flag: us
+  category: lit
+
+- title: <i>The Girl with All the Gifts</i> (2014)
+  flag: gb
+  category: lit
+
+- title: <i>The Hitchhiker’s Guide to the Galaxy</i>
+  flag: gb
+  category: lit
+
+- title: <i>The Lord of the Rings</i> (1954–1955)
+  flag: gb
+  category: lit
+
+- title: “The Lottery” (1948)
+  flag: us
+  category: lit
+
+- title: “The Marching Morons” (1951)
+  flag: us
+  category: lit
+
+- title: <i>The Metamorphosis</i> (1915)
+  flag: cz
+  category: lit
+
+- title: <i>The Mist</i> (1980)
+  flag: us
+  category: lit
+
+- title: <i>The Mosquito Coast</i> (1981)
+  flag: us
+  category: lit
+
+- title: <i>The Population Bomb</i> (1968)
+  flag: us
+  category: lit
+
+- title: <i>The Shape of Things to Come</i> (1933)
+  flag: gb
+  category: lit
+
+- title: <i>The Time Machine</i> (1895)
+  flag: gb
+  category: lit
+
+- title: <i>The Trial</i> (1925)
+  flag: cz
+  category: lit
+
+- title: <i>The War of the Worlds</i> (1897)
+  flag: gb
+  category: lit
+
+- title: "<i>The World of Kong: A Natural History of Skull Island</i> (2005)"
+  flag: nz
+  category: lit
+
+- title: <i>The Zombie Survival Guide</i> (2003)
+  flag: us
+  category: lit
+
+- title: <i>To Kill a Mockingbird</i> (1960)
+  flag: us
+  category: lit
+
+- title: <i>Twenty Thousand Leagues Under the Seas</i> (1872)
+  flag: fr
+  category: lit
+
+- title: <i>We</i> (1924)
+  flag: ru
+  category: lit
+
+- title: <i>Who Goes There?</i> (1938)
+  flag: us
+  category: lit
+
+# Places
+
+- title: Ancient Athens
+  flag: gr
+  category: places
+
+- title: Ancient China
+  flag: cn
+  category: places
+
+- title: Ancient Rome
+  flag: it
+  category: places
+
+- title: Bhutan
+  flag: bt
+  category: places
+
+- title: Burkina Faso (1980s)
+  flag: bf
+  category: places
+
+- title: Chuck E. Cheese fun centres, Ontario
+  flag: ca
+  category: places
+
+- title: Cuba
+  flag: cu
+  category: places
+
+- title: Detroit, Michigan
+  flag: us
+  category: places
+
+- title: El Salvador
+  flag: sv
+  category: places
+
+- title: Fantasy Fair, Woodbine Centre, Toronto
+  flag: ca
+  category: places
+
+- title: Greater Toronto Area
+  flag: ca
+  category: places
+
+- title: Great Wolf Lodge, Niagara Falls
+  flag: ca
+  category: places
+
+- title: Home Depot superstores, Ontario
+  flag: ca
+  category: places
+
+- title: Iran (1950s–1970s)
+  flag: ir
+  category: places
+
+- title: Las Vegas, Nevada
+  flag: us
+  category: places
+
+- title: Libya (1960s–2010s)
+  flag: ly
+  category: places
+
+- title: McDonald’s restaurants, Ontario (1990s–2000s)
+  flag: ca
+  category: places
+
+- title: Metro Manila
+  flag: ph
+  category: places
+
+- title: Mexico
+  flag: mx
+  category: places
+
+- title: Mongolia
+  flag: mn
+  category: places
+
+- title: Nepal
+  flag: np
+  category: places
+
+- title: Paramount Canada’s Wonderland (1993–2006)
+  flag: ca
+  category: places
+
+- title: Peru
+  flag: pe
+  category: places
+
+- title: Russia (1910s–1950s)
+  flag: ru
+  category: places
+
+- title: Rwanda
+  flag: rw
+  category: places
+
+- title: Singapore
+  flag: sg
+  category: places
+
+- title: South Africa
+  flag: za
+  category: places
+
+- title: Syria (2000s–2010s)
+  flag: sy
+  category: places
+
+- title: The Grand Canyon
+  flag: us
+  category: places
+
+- title: The Himalayas
+  category: places
+
+- title: Tibet
+  category: places
+
+- title: Tropical Islands Resort, Brandenburg
+  flag: de
+  category: places
+
+- title: Turkey (1920s–1930s)
+  flag: tr
+  category: places
+
+- title: Walmart superstores, Ontario
+  flag: ca
+  category: places
+
+- title: Walt Disney World (1970s–2000s)
+  flag: us
+  category: places
+
+- title: West Edmonton Mall, Alberta
+  flag: ca
+  category: places
+
+# Televison
+
+- title: <i>Black Mirror</i> (2011–2017)
+  flag: gb
+  category: tv
+
+- title: <i>Daybreak</i> (2019)
+  flag: us
+  category: tv
+
+- title: <i>Dead Set</i> (2008)
+  flag: gb
+  category: tv
+
+- title: <i>Squid Game</i> (2021)
+  flag: kr
+  category: tv
+
+- title: "<i>Star Trek: The Next Generation</i> (1987–1994)"
+  flag: us
+  category: tv
+
+- title: <i>Survivor</i> (2000s)
+  flag: us
+  category: tv
+
+- title: <i>The Last of Us</i> (2023)
+  flag: us
+  category: tv
+
+- title: <i>The Magic School Bus</i> (1994–1997)
+  flag: us
+  category: tv
+
+- title: <i>The Twilight Zone</i> (1959–2003)
+  flag: us
+  category: tv
+
+- title: <i>The Walking Dead</i> (2010–2021)
+  flag: us
+  category: tv
+
+- title: <i>Wipeout</i> (2008–2014)
+  flag: us
+  category: tv
+
+# Websites
+
+- title: '<a href="https://8values.github.io/" target="_blank">8values ⧉</a>'
+  category: web
+
+- title: '<a href="https://www.fandom.com/" target="_blank">Fandom ⧉</a>'
+  flag: us
+  category: web
+
+- title: '<a href="https://www.isidewith.com/" target="_blank">iSideWith ⧉</a>'
+  flag: us
+  category: web
+
+- title: '<a href="https://www.politicalcompass.org/" target="_blank">The Political Compass ⧉</a>'
+  flag: nz
+  category: web
