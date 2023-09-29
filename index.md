@@ -75,7 +75,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
     <img src="/assets/images/fu_icon_small.png">
     <div>
         <h2><i>Flipper Uprising</i></h2>
-        <p>A shooter based in the setting of <i>The Flippers</i> from <i>Absurd Realms</i>, with the player taking the side of either proletarian terrorists or corporate mercenaries</p>
+        <p>A shooter based on <i>The Flippers</i> from <i>Absurd Realms</i>, with the player taking the side of either proletarian terrorists or corporate mercenaries</p>
         <div><p>TBA</p></div>
     </div>
 </div>

@@ -1,15 +1,15 @@
-- title: Docs
-  url: /docs/
-
 - title: Music
   url: /music/
 
-- title: Terms
-  url: /terms/
+- title: Support
+  url: /support/
 
 - title: Credits
   url: /credits/
 
-- title: Source
+- title: Terms
+  url: /terms/
+
+- title: Git
   url: https://github.com/schizoidnightmares/schizoidnightmares.com
   external: true

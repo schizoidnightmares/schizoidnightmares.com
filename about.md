@@ -34,6 +34,3 @@ I am a man of English Canadian descent, born, raised, and presently residing in 
 [^3]: My account on the Internet Archive has archives (under "WEB ARCHIVES") of my earlier works.
 [^4]: I use my account on Stack Overflow exclusively for programming-related problem-solving, sometimes entirely unrelated to my works.
 [^5]: I use my account on Wikipedia as a volunteer for the encyclopedic project, not for my creative projects. The only exception to this is when I pursue MediaWiki-related inquiries, which may pertain to the Schizoid Nightmares Wiki.
-
-## Supporting my work
-There is currently no means of supporting my work beyond offering honest feedback. I am open, however, to eventually launching a Patreon in the future. My work, at least in digital form, **will always remain free and accessible** to all (no paywalls or early access restrictions).
