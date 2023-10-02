@@ -110,6 +110,24 @@
   usage: Static site generator for schizoidnightmares.com and absurdrealms.com
   notes: Free under the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
 
+- title: jekyll-last-modified-at
+  flag: us
+  url: https://github.com/gjtorikian/jekyll-last-modified-at
+  usage: Page last modified Liquid tag
+  notes: Free under the <a href="https://github.com/gjtorikian/jekyll-last-modified-at/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
+
+- title: jekyll-paginate-v2
+  flag: is
+  url: https://github.com/sverrirs/jekyll-paginate-v2
+  usage: News pagination
+  notes: Free under the <a href="https://github.com/sverrirs/jekyll-paginate-v2/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
+
+- title: jekyll-tidy
+  flag: us
+  url: https://github.com/apsislabs/jekyll-tidy
+  usage: Plugin for tidying up HTML
+  notes: Free under the <a href="https://github.com/apsislabs/jekyll-tidy/blob/master/LICENSE.txt" target="_blank">MIT License ⧉</a>
+
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
@@ -154,7 +172,7 @@
 
 - title: RubyGems
   url: https://rubygems.org/
-  usage: Ruby package management and distribution
+  usage: Ruby packages
   notes: Free service
 
 - title: Shaping Design Blog

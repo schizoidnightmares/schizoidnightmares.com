@@ -132,6 +132,18 @@ code { white-space: nowrap; }
     cursor: default;
 }
 
+// origin statistics for credits
+.origin {
+    width: 75%;
+    font-size: 1.6rem;
+    margin: .2rem 0;
+    span { 
+        background: $color-primary;
+        display: inline-block;
+        cursor: default;
+    }
+}
+
 .story p {
     text-align: justify;
     hyphens: auto;

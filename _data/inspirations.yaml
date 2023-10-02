@@ -108,6 +108,14 @@
   flag: us
   category: films
 
+- title: <i>Monty Python and the Holy Grail</i> (1975)
+  flag: gb
+  category: films
+
+- title: <i>Monty Python's Life of Brian</i> (1979)
+  flag: gb
+  category: films
+
 - title: <i>Nineteen Eighty-Four</i> (1984)
   flag: gb
   category: films
@@ -815,6 +823,7 @@
   category: places
 
 - title: Tibet
+  flag: cn
   category: places
 
 - title: Tropical Islands Resort, Brandenburg
@@ -898,4 +907,8 @@
 
 - title: '<a href="https://www.politicalcompass.org/" target="_blank">The Political Compass ⧉</a>'
   flag: nz
+  category: web
+
+- title: '<a href="https://www.wikipedia.org/" target="_blank">Wikipedia ⧉</a>'
+  flag: us
   category: web
