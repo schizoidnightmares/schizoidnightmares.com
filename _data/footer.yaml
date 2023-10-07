@@ -1,8 +1,9 @@
 - title: Music
   url: /music/
 
-- title: Support
-  url: /support/
+- title: Patreon
+  url: https://www.patreon.com/schizoidnightmares
+  external: true
 
 - title: Credits
   url: /credits/

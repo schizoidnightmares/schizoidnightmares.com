@@ -1,7 +1,7 @@
 ---
 title: Disclaimers
 description: Content disclaimers
-return: terms
+return: Terms
 return-url: /terms/
 ---
 

@@ -1,12 +1,12 @@
 ---
 title: Patrons
 description: Terms for patrons
-return: terms
+return: Terms
 return-url: /terms/
 ---
 
 # Patrons
-Since I have yet to publish my Patreon page (and may not for some time), these terms are only here for future use.
+The following terms are between me and the patrons of <a href="https://www.patreon.com/schizoidnightmares" target="_blank">my Patreon ⧉</a>.
 
 ## Support
 I will do my best to answer questions from patrons in a timely fashion. However, I cannot promise exact response times. There may be circumstances where I cannot answer questions promptly. My answers may or may not be satisfactory. I may also choose not to answer questions, especially those of a personal nature or that demand early access to a work.

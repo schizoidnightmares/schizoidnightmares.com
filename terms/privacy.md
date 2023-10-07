@@ -1,7 +1,7 @@
 ---
 title: Privacy
 description: Privacy policy
-return: terms
+return: Terms
 return-url: /terms/
 ---
 
