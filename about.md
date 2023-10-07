@@ -26,6 +26,7 @@ I am a man of English Canadian descent, born, raised, and presently residing in 
 - <a href="https://soundcloud.com/schizoidnightmares" target="_blank">SoundCloud ⧉</a>
 - <a href="https://stackoverflow.com/users/21422760/schizoid-nightmares" target="_blank">Stack Overflow ⧉</a>[^4]
 - <a href="https://schizoidnightmares.tumblr.com/" target="_blank">Tumblr ⧉</a>
+- <a href="https://www.wattpad.com/user/schizoidnightmares" target="_blank">Wattpad ⧉</a>
 - <a href="https://en.wikipedia.org/wiki/User:SchizoidNightmares" target="_blank">Wikipedia ⧉</a>[^5]
 - <a href="https://www.youtube.com/@schizoidnightmares" target="_blank">YouTube ⧉</a>
 {: .cols2}
