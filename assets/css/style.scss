@@ -165,7 +165,10 @@ code { white-space: nowrap; }
         max-height: 150px;
         max-width: 150px;
     }
-    p { margin: .1rem 0; }
+    p { 
+        margin: .1rem 0;
+        a { white-space: normal; }
+    }
 }
 
 .feature {
