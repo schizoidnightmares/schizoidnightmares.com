@@ -32,6 +32,12 @@
   usage: Licensing
   notes: Free service
 
+- title: Dan Grossman
+  flag: us
+  url: https://www.airships.net/
+  usage: Online articles on airships
+  notes: Free reference
+
 - title: ElevenLabs
   flag: us
   url: https://elevenlabs.io/
