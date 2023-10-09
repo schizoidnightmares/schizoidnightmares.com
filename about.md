@@ -11,6 +11,7 @@ I am a man of English Canadian descent, born, raised, and presently residing in 
 ## Profiles
 - <a href="https://schizoidnightmares.bandcamp.com/" target="_blank">Bandcamp ⧉</a>
 - <a href="https://belletristica.com/en/users/5706-schizoid-nightmares" target="_blank">Belletristica ⧉</a>
+- <a href="https://www.fictionpress.com/~schizoidnightmares" target="_blank">FictionPress ⧉</a>
 - <a href="https://geeke.app/_/api/user/schizoidnightmares" target="_blank">Geeke ⧉</a>[^2]
 - <a href="https://github.com/schizoidnightmares" target="_blank">GitHub ⧉</a>
 - <a href="https://archive.org/details/@schizoid_nightmares" target="_blank">Internet Archive ⧉</a>[^3]
