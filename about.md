@@ -9,6 +9,7 @@ I am a man of English Canadian descent, born, raised, and presently residing in 
 [^1]: Schizoid personality disorder is not the same as schizophrenia.
 
 ## Profiles
+- <a href="https://archiveofourown.org/users/schizoidnightmares/" target="_blank">Archive of Our Own ⧉</a>
 - <a href="https://schizoidnightmares.bandcamp.com/" target="_blank">Bandcamp ⧉</a>
 - <a href="https://belletristica.com/en/users/5706-schizoid-nightmares" target="_blank">Belletristica ⧉</a>
 - <a href="https://www.fictionpress.com/~schizoidnightmares" target="_blank">FictionPress ⧉</a>
@@ -20,8 +21,6 @@ I am a man of English Canadian descent, born, raised, and presently residing in 
 - <a href="https://neovel.io/user/66358/schizoid-nightmares" target="_blank">Neovel ⧉</a>
 - <a href="https://creator.nightcafe.studio/u/schizoidnightmares" target="_blank">NightCafe Creator ⧉</a>
 - <a href="https://www.quotev.com/schizoidnightmares" target="_blank">Quotev ⧉</a>
-- <a href="https://www.reddit.com/user/schizoidnightmares" target="_blank">Reddit ⧉</a>
-    - <a href="https://www.reddit.com/r/SchizoidNightmares/" target="_blank">Subreddit ⧉</a>
 - <a href="https://www.royalroad.com/profile/357196" target="_blank">Royal Road ⧉</a>
 - <a href="https://www.scribblehub.com/profile/125707/schizoidnightmares/" target="_blank">Scribble Hub ⧉</a>
 - <a href="https://soundcloud.com/schizoidnightmares" target="_blank">SoundCloud ⧉</a>
