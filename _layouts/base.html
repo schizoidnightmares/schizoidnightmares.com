@@ -47,8 +47,8 @@
             </div>
             <div class="bottom">
                 <div class="footer">
-                    {% if page.info or layout.info %}
-                    <div class="info">Last modified {{ page.last_modified_at | date: '%B %e, %Y' }}</div>
+                    {% if page.info != false and layout.info != false %}
+                    <div class="info">Updated {{ page.last_modified_at | date: '%B %e, %Y' }}</div>
                     {% endif %}
                     <div class="nav">
                         <ul>

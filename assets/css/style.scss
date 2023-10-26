@@ -195,6 +195,7 @@ code { white-space: nowrap; }
         display: flex;
         justify-content: right;
         color: $color-secondary;
+        margin-top: 2rem;
     }
     &.option {
         margin: 1.5rem 0;
@@ -213,5 +214,9 @@ code { white-space: nowrap; }
             height: 125px;
             width: 125px;
         }
+    }
+    &.standout {
+        padding: 1.5rem 2rem;
+        background: $color-shade;
     }
 }

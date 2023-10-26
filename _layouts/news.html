@@ -1,12 +1,13 @@
 ---
 layout: base
 style: news
+info: false
 ---
 
 <div class="content">
     <h1>{{ page.title }}</h1>
     {% for post in paginator.posts %}
-    <div class="feature cropped">
+    <div class="feature cropped standout">
         {% if post.src-thumb %}
         <img src="{{ post.src-thumb }}" alt="{{ post.alt }}">
         {% endif %}
@@ -14,6 +15,7 @@ style: news
             <h2 ><a href="{{ post.url }}">{% if post.custom-title %}{{ post.custom-title }}{% else %}{{ post.title }}{% endif %}</a></h2>
             <p class="date">{{ post.date | date: '%B %e, %Y' }}</p>
             {{ post.excerpt }}
+            {% if post.content.size > post.excerpt.size %}<div><a href="{{ post.url }}">read more</a></div>{% endif %}
         </div>
     </div>
     {% endfor %}
