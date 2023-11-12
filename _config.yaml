@@ -3,7 +3,7 @@
 
 # production only
 # recommended command jekyll build
-destination: ../pro
+destination: _site
 url: https://schizoidnightmares.com
 
 # jekyll config
