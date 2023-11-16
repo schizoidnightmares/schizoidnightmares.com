@@ -105,10 +105,10 @@ code { white-space: nowrap; }
 }
 
 // image captions
-.caption {
+.caption, .caption p {
     font-size: 1.4rem;
     color: $color-secondary;
-    text-align: center;
+    text-align: center !important;
 }
 
 .cols2, .cols3 { column-gap: 3rem; }
@@ -147,7 +147,12 @@ code { white-space: nowrap; }
 .story p {
     text-align: justify;
     hyphens: auto;
-    + p { text-indent: 4rem; }
+    + p, + .caption + p { text-indent: 4rem; }
+    img {
+        max-width: 700px;
+        display: block;
+        margin: 0 auto;
+    }
 }
 
 .gallery {
@@ -188,9 +193,7 @@ code { white-space: nowrap; }
         margin-right: 2.5rem;
         width: 125px;
     }
-    > div {
-        width: 100%;
-    }
+    > div { width: 100%; }
     div div {
         display: flex;
         justify-content: right;
@@ -218,5 +221,6 @@ code { white-space: nowrap; }
     &.standout {
         padding: 1.5rem 2rem;
         background: $color-shade;
+        border: .1rem solid $color-border;
     }
 }

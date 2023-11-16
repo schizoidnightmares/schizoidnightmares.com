@@ -9,12 +9,6 @@
   usage: Web archiving
   notes: Free service
 
-- title: circle-flags
-  flag: au
-  url: https://github.com/HatScripts/circle-flags
-  usage: Vector flags
-  notes: Free under the <a href="https://github.com/HatScripts/circle-flags/blob/gh-pages/LICENSE.md" target="_blank">MIT License ⧉</a>
-
 - title: colordesigner.io
   url: https://colordesigner.io/
   usage: Colour tools
@@ -25,6 +19,12 @@
   url: https://compresspng.com/
   usage: PNG file compression
   notes: Free service
+
+- title: cottonbro studio
+  flag: ru
+  url: https://www.pexels.com/@cottonbro/
+  usage: Stock videos
+  notes: Free under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
 
 - title: Creative Commons
   flag: us
@@ -134,6 +134,12 @@
   usage: Plugin for tidying up HTML
   notes: Free under the <a href="https://github.com/apsislabs/jekyll-tidy/blob/master/LICENSE.txt" target="_blank">MIT License ⧉</a>
 
+- title: Kelly Lacy
+  flag: us
+  url: https://www.pexels.com/@kelly-1179532/
+  usage: Stock videos
+  notes: Free under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
@@ -151,6 +157,12 @@
   url: https://www.mediawiki.org/
   usage: Software powering the Schizoid Nightmares Wiki
   notes: Free under the <a href="https://www.mediawiki.org/wiki/Copyright" target="_blank">GPL ⧉</a>
+
+- title: Miguel Á. Padriñán
+  flag: mx
+  url: https://www.pexels.com/@padrinan/
+  usage: Stock videos
+  notes: Free under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
 
 - title: Miraheze
   flag: gb
@@ -174,7 +186,19 @@
   flag: us
   url: https://www.apple.com/pages/
   usage: Word processor
-  notes: Free software  
+  notes: Free software
+
+- title: Pexels
+  flag: de
+  url: https://www.pexels.com/
+  usage: Stock videos
+  notes: Free under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+
+- title: Pixabay
+  flag: de
+  url: https://www.pexels.com/@pixabay/
+  usage: Stock videos
+  notes: Free under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
 
 - title: RubyGems
   url: https://rubygems.org/
@@ -222,6 +246,12 @@
   url: https://www.thesaurus.com/
   usage: Thesaurus
   notes: Free service
+
+- title: Tom Fisk
+  flag: us
+  url: https://www.pexels.com/@tomfisk/
+  usage: Stock videos
+  notes: Free under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
 
 - title: Visual Studio Code
   flag: us

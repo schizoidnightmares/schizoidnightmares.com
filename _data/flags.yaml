@@ -16,6 +16,9 @@
 - title: ca
   country: Canada
 
+- title: cl
+  country: Chile
+
 - title: cn
   country: China
 
@@ -70,6 +73,9 @@
 - title: ly
   country: Libya
 
+- title: mm
+  country: Myanmar
+
 - title: mn
   country: Mongolia
 
@@ -87,6 +93,9 @@
 
 - title: pe
   country: Peru
+
+- title: ph
+  country: Philippines
 
 - title: rs
   country: Serbia

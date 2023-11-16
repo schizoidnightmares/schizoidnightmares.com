@@ -14,6 +14,6 @@ I use <a href="https://www.hostwinds.com/" target="_blank">Hostwinds ⧉</a> (th
 1. referring URL (if applicable)
 1. user agent
 
-I will do my best to periodically clear the logs older than two months. However, that is a manual process, and I may not do it on time every period. You are welcome to contact me about any privacy concerns.
+Unfortunately, I am unaware of any way under my current hosting plan to disable this data collection.
 
 Aside from investigating technical issues, I do not use this data for any other internal purposes. I also do not share this data with others unless in cooperation with the authorities. In such an event and unless compelled to otherwise by law, I would publicly disclose this cooperation with respect to both individual privacy and public transparency.

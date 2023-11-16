@@ -25,3 +25,12 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
         <div><a href="https://absurdrealms.com/" target="_blank">visit website ⧉</a></div>
     </div>
 </div>
+
+<div class="feature" markdown=0>
+    <img src="/assets/images/note_small.png">
+    <div>
+        <h2>Music</h2>
+        <p>A list of all my amateur electronic music tracks</p>
+        <div><a href="/music/">browse music</a></div>
+    </div>
+</div>

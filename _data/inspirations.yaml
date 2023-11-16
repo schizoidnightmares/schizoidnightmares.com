@@ -727,6 +727,10 @@
   flag: bf
   category: places
 
+- title: Chile (1970s–1980s)
+  flag: cl
+  category: places
+
 - title: Chuck E. Cheese fun centres, Ontario
   flag: ca
   category: places
@@ -783,6 +787,10 @@
   flag: mn
   category: places
 
+- title: Myanmar
+  flag: mm
+  category: places
+
 - title: Nepal
   flag: np
   category: places
@@ -793,6 +801,10 @@
 
 - title: Peru
   flag: pe
+  category: places
+
+- title: Philippines (1960s–1980s)
+  flag: ph
   category: places
 
 - title: Russia (1910s–1950s)

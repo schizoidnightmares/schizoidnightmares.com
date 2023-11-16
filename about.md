@@ -8,6 +8,9 @@ I am a man of English Canadian descent, born, raised, and presently residing in 
 
 [^1]: Schizoid personality disorder is not the same as schizophrenia.
 
+## Communications
+If you have any questions or feedback, be sure to <a href="https://tally.so/r/mOaDRp" target="_blank">contact me ⧉</a>.
+
 ## Profiles
 - <a href="https://archiveofourown.org/users/schizoidnightmares/" target="_blank">Archive of Our Own ⧉</a>
 - <a href="https://schizoidnightmares.bandcamp.com/" target="_blank">Bandcamp ⧉</a>
