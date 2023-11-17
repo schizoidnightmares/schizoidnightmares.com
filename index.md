@@ -9,15 +9,6 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 ---
 
 <div class="feature" markdown=0>
-    <img src="/assets/images/snw_icon_small.png">
-    <div>
-        <h2>Schizoid Nightmares Wiki</h2>
-        <p>A wiki documenting my creative works</p>
-        <div><a href="https://schizoidnightmares.wiki/" target="_blank">visit wiki ⧉</a></div>
-    </div>
-</div>
-
-<div class="feature" markdown=0>
     <img src="/assets/images/ar_icon_small.png">
     <div>
         <h2><i>Absurd Realms</i></h2>
@@ -32,5 +23,14 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
         <h2>Music</h2>
         <p>A list of all my amateur electronic music tracks</p>
         <div><a href="/music/">browse music</a></div>
+    </div>
+</div>
+
+<div class="feature" markdown=0>
+    <img src="/assets/images/snw_icon_small.png">
+    <div>
+        <h2>Schizoid Nightmares Wiki</h2>
+        <p>A wiki documenting my creative works</p>
+        <div><a href="https://schizoidnightmares.wiki/" target="_blank">visit wiki ⧉</a></div>
     </div>
 </div>
