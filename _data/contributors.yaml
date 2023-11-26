@@ -49,6 +49,12 @@
   usage: Text-to-speech generator (for proofreading)
   notes: Freemium service
 
+- title: Emojipedia
+  flag: 'no'
+  url: https://emojipedia.org/
+  usage: Emoji reference
+  notes: Free service
+
 - title: <i>Encyclopædia Britannica</i>
   flag: us
   url: https://www.britannica.com/
@@ -221,6 +227,11 @@
   url: https://simonecarletti.com/
   usage: <a href="https://simonecarletti.com/blog/2016/08/redirect-domain-http-https-www-apache/" target="_blank">Apache redirect tutorial ⧉</a>
   notes: Free service
+
+- title: Simple Machines Forum
+  url: https://www.simplemachines.org/
+  usage: Forums software
+  notes: Free software under <a href="https://github.com/SimpleMachines/SMF/blob/release-3.0/LICENSE" target="_blank">this licence ⧉</a>
 
 - title: Stack Overflow
   flag: us
