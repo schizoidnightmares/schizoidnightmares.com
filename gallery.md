@@ -4,7 +4,7 @@ description: A gallery of images present on the website
 ---
 
 # Gallery
-A gallery of 6 images (excluding real country flags) present on the website
+A gallery of 5 images (excluding real country flags) present on the website
 
 ## Schizoid Nightmares
 Artwork by Schizoid Nightmares

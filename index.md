@@ -34,12 +34,3 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
         <div><a href="https://schizoidnightmares.net/" target="_blank">visit forums ⧉</a></div>
     </div>
 </div>
-
-<div class="feature" markdown=0>
-    <img src="/assets/images/snw_icon_small.png">
-    <div>
-        <h2>Schizoid Nightmares Wiki</h2>
-        <p>A wiki documenting my creative works</p>
-        <div><a href="https://schizoidnightmares.wiki/" target="_blank">visit wiki ⧉</a></div>
-    </div>
-</div>

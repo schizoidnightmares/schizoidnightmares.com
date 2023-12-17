@@ -16,6 +16,19 @@
     font-display: swap;
 }
 
+// Open Sans font face
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Open Sans';
+    src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
+    font-style: italic;
+    font-display: swap;
+}
+
 // sets font size to 10px default, useful with rem values
 :root { font-size: 62.5%; }
 
@@ -28,14 +41,15 @@ html { background: $color-bg; }
 
 body {
     color: $color-primary;
-    font-size: 1.9rem;
-    font-family: Lora, serif;
+    font-size: 1.8rem;
+    font-family: 'Open Sans', sans-serif;
     margin: 0;
     line-height: 1.6;
-    letter-spacing: .02rem;
 }
 
 h1, h2, h3, h4 { 
+    font-family: Lora, serif;
+    letter-spacing: .02rem;
     margin: 1.5rem 0 1rem 0;
     + p { margin-top: 1rem; }
 }
@@ -78,8 +92,8 @@ code { white-space: nowrap; }
                 padding: 1rem;
             } 
         }
-        &.small { font-size: 1.6rem; }
-        &.smallest { font-size: 1.4rem; }
+        &.small { font-size: 1.5rem; }
+        &.smallest { font-size: 1.3rem; }
     }
 }
 
@@ -87,7 +101,7 @@ code { white-space: nowrap; }
     &::before { content: "Footnotes:"; }
     clear: both;
     color: $color-secondary;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
 }
 
 .return, .advance {
@@ -96,17 +110,17 @@ code { white-space: nowrap; }
 
 .return {
     float: left;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 .advance {
     float: right;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 // image captions
 .caption, .caption p {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
     color: $color-secondary;
     text-align: center !important;
 }
@@ -116,13 +130,13 @@ code { white-space: nowrap; }
 // two-column lists
 .cols2 {
     column-count: 2;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
 }
 
 // three-column lists
 .cols3 { 
     column-count: 3;
-    font-size: 1.4rem;
+    font-size: 1.3rem;
 }
 
 // color boxes
@@ -135,7 +149,7 @@ code { white-space: nowrap; }
 // origin statistics for credits
 .origin {
     width: 75%;
-    font-size: 1.6rem;
+    font-size: 1.5rem;
     margin: .2rem 0;
     span { 
         background: $color-primary;
@@ -186,7 +200,7 @@ code { white-space: nowrap; }
         &.date {
             margin-top: .1rem;
             color: $color-secondary;
-            font-size: 1.6rem;
+            font-size: 1.5rem;
         }
     }
     img { 

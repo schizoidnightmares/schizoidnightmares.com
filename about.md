@@ -24,6 +24,7 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 - <a href="https://schizoidnightmares.medium.com/" target="_blank">Medium ⧉</a>
 - <a href="https://neovel.io/user/66358/schizoid-nightmares" target="_blank">Neovel ⧉</a>
 - <a href="https://creator.nightcafe.studio/u/schizoidnightmares" target="_blank">NightCafe Creator ⧉</a>
+- <a href="https://www.patreon.com/schizoidnightmares" target="_blank">Patreon ⧉</a>
 - <a href="https://www.quotev.com/schizoidnightmares" target="_blank">Quotev ⧉</a>
 - <a href="https://www.royalroad.com/profile/357196" target="_blank">Royal Road ⧉</a>
 - <a href="https://www.scribblehub.com/profile/125707/schizoidnightmares/" target="_blank">Scribble Hub ⧉</a>

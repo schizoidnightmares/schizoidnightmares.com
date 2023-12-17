@@ -32,12 +32,20 @@
   flag: us
   category: films
 
+- title: <i>Ben-Hur</i> (1959)
+  flag: us
+  category: films
+
 - title: <i>Blade Runner</i> & <i>Blade Runner 2049</i> (1982, 2017)
   flag: us
   category: films
 
 - title: <i>Bourne</i> (2002–2007)
   flag: us
+  category: films
+
+- title: <i>Brazil</i> (1985)
+  flag: gb
   category: films
 
 - title: <i>Cargo</i> (2017)
@@ -68,6 +76,10 @@
   flag: nz
   category: films
 
+- title: <i>Dredd</i> (2012)
+  flag: gb
+  category: films
+
 - title: <i>Falling Down</i> (1993)
   flag: us
   category: films
@@ -88,11 +100,19 @@
   flag: us
   category: films
 
+- title: <i>Gladiator</i> (2000)
+  flag: us
+  category: films
+
 - title: <i>I, Robot</i> (2004)
   flag: us
   category: films
 
 - title: <i>Idiocracy</i> (2006)
+  flag: us
+  category: films
+
+- title: <i>Judge Dredd</i> (1995)
   flag: us
   category: films
 
@@ -148,6 +168,10 @@
   flag: es
   category: films
 
+- title: <i>RoboCop</i> (1987, 1990, 2014)
+  flag: us
+  category: films
+
 - title: <i>Scarface</i> (1983)
   flag: us
   category: films
@@ -160,7 +184,15 @@
   flag: us
   category: films
 
+- title: <i>Soldier</i> (1998)
+  flag: us
+  category: films
+
 - title: <i>Soylent Green</i> (1973)
+  flag: us
+  category: films
+
+- title: <i>Spartacus</i> (1960)
   flag: us
   category: films
 
@@ -196,6 +228,10 @@
   flag: gb
   category: films
 
+- title: <i>The Fifth Element</i> (1997)
+  flag: fr
+  category: films
+
 - title: <i>The Fly</i> (1986)
   flag: us
   category: films
@@ -226,6 +262,10 @@
 
 - title: <i>The Mosquito Coast</i> (1986)
   flag: us
+  category: films
+
+- title: <i>The Mouse That Roared</i> (1959)
+  flag: gb
   category: films
 
 - title: <i>The Mummy Returns</i> (2001)
@@ -326,6 +366,10 @@
   flag: gb
   category: games
 
+- title: <i>Doom 3</i> (2004)
+  flag: us
+  category: games
+
 - title: <i>Dungeons & Dragons</i>
   flag: us
   category: games
@@ -392,6 +436,10 @@
 
 - title: <i>Paranoia</i>
   flag: us
+  category: games
+
+- title: <i>Pariah</i> (2005)
+  flag: ca
   category: games
 
 - title: <i>Particracy</i>
@@ -661,6 +709,10 @@
   flag: us
   category: lit
 
+- title: <i>The Mouse That Roared</i> (1955)
+  flag: us
+  category: lit
+
 - title: <i>The Population Bomb</i> (1968)
   flag: us
   category: lit
@@ -889,6 +941,10 @@
   category: tv
 
 - title: <i>The Magic School Bus</i> (1994–1997)
+  flag: us
+  category: tv
+
+- title: <i>The Simpsons</i> (1989–1999)
   flag: us
   category: tv
 
