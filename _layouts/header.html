@@ -13,23 +13,49 @@ style: header
     {% if page.caption %}
     <div class="caption"><p>{{ page.caption }}</p></div>
     {% endif %}
-    {{ content }}
-    {% if page.return-url %}
-    <p class="return">
-        {% if page.main-url %}
-        <a href="{{ page.main-url }}">← {{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
-        {% else %}
-        <a href="{{ page.return-url }}">← {{ page.return | default: "Return" }}</a>
+    {% if page.return-url or page.advance-url %}
+    <div class="pagenav">
+        {% if page.return-url %}
+        <p class="return">
+            {% if page.main-url %}
+            <a href="{{ page.main-url }}">← {{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
+            {% else %}
+            <a href="{{ page.return-url }}">← {{ page.return | default: "Return" }}</a>
+            {% endif %}
+        </p>
         {% endif %}
-    </p>
+        {% if page.advance %}
+        <p class="advance">
+            {% if page.advance-url %}
+            <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }} →</a></p>
+            {% else %}
+            {{ page.advance }}
+            {% endif %}
+        </p>
+        {% endif %}
+    </div>
     {% endif %}
-    {% if page.advance %}
-    <p class="advance">
-        {% if page.advance-url %}
-        <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }} →</a></p>
-        {% else %}
-        {{ page.advance }}
+    {{ content }}
+    {% if page.return-url or page.advance-url %}
+    <div class="pagenav">
+        {% if page.return-url %}
+        <p class="return">
+            {% if page.main-url %}
+            <a href="{{ page.main-url }}">← {{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
+            {% else %}
+            <a href="{{ page.return-url }}">← {{ page.return | default: "Return" }}</a>
+            {% endif %}
+        </p>
         {% endif %}
-    </p>
+        {% if page.advance %}
+        <p class="advance">
+            {% if page.advance-url %}
+            <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }} →</a></p>
+            {% else %}
+            {{ page.advance }}
+            {% endif %}
+        </p>
+        {% endif %}
+    </div>
     {% endif %}
 </div>

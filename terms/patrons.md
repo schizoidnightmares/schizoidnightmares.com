@@ -14,7 +14,7 @@ I will do my best to answer questions from patrons in a timely fashion. However,
 ## Recognition
 As an appreciation for financial support, I list patrons (both past and present) who consent to public recognition on my [credits page](/credits/) and possibly elsewhere. Patrons desiring public recognition must provide me with the name they wish me to credit them under. Optionally, they may also provide the URL their name should link to and their displayed country of origin.
 
-Names and URLs should not promote criminal activities, privacy invasion, malware, anti-social behaviour, gambling, payday loans, usury, multi-level marketing, get-rich-quick schemes, cheating in competitive games, cryptocurrencies, NFTs, affiliate marketing, lobbying, quackery, non-medical drug use (performance enhancers, caffeine, alcohol, tobacco, cannabis, etc.), self-harm, plagiarism, extreme obscenity, pornography, or sexual services.
+Names and URLs should not promote criminal activities, privacy invasion, malware, anti-social behaviour, gambling, payday loans, usury, multi-level marketing, get-rich-quick schemes, cheating in competitive games, cryptocurrencies, non-fungible tokens, affiliate marketing, lobbying, quackery, non-medical drug use (performance enhancers, caffeine, alcohol, tobacco, cannabis, etc.), self-harm, plagiarism, extreme obscenity, pornography, or sexual services.
 
 I display patrons according to their rank, which I determine by their total financial contributions (or seniority in the rare instance of ties). Outside the credits page, I may only display the top few patrons (such as on the home page). While I do indicate rank, I do not publicly reveal how much individual patrons have financially contributed.
 

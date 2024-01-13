@@ -5,6 +5,16 @@ info: false
 ---
 
 <div class="content">
+    {% if paginator.total_pages > 1 %}
+    <div class="pagenav">
+        {% if paginator.next_page %}
+        <p class="return"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">← Older</a></p>
+        {% endif %}
+        {% if paginator.previous_page %}
+        <p class="advance"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer →</a></p>
+        {% endif %}
+    </div>
+    {% endif %}
     <h1>{{ page.title }}</h1>
     {% for post in paginator.posts %}
     <div class="feature cropped standout">
@@ -20,11 +30,13 @@ info: false
     </div>
     {% endfor %}
     {% if paginator.total_pages > 1 %}
-    {% if paginator.next_page %}
-    <p class="return"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">← Older</a></p>
-    {% endif %}
-    {% if paginator.previous_page %}
-    <p class="advance"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer →</a></p>
-    {% endif %}
+    <div class="pagenav">
+        {% if paginator.next_page %}
+        <p class="return"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">← Older</a></p>
+        {% endif %}
+        {% if paginator.previous_page %}
+        <p class="advance"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer →</a></p>
+        {% endif %}
+    </div>
     {% endif %}
 </div>

@@ -4,6 +4,9 @@ style: post
 ---
 
 <div class="content">
+    <div class="pagenav">
+        <p class="return"><a href="/{{ page.category }}/">← {{ page.category }}</a></p>
+    </div>
     {% if page.custom-title %}
     <h1>{{ page.custom-title }}</h1>
     {% else %}
@@ -15,5 +18,7 @@ style: post
     {% if page.caption %}<div class="caption"><p>{{ page.caption }}</p></div>{% endif %}
     {% endif %}
     {{ content }}
-    <p class="return" style="text-transform: capitalize;"><a href="/{{ page.category }}/">← {{ page.category }}</a></p>
+    <div class="pagenav">
+        <p class="return"><a href="/{{ page.category }}/">← {{ page.category }}</a></p>
+    </div>
 </div>

@@ -1,5 +1,6 @@
 # do not use tabs in config files!
-# recommended command when testing: bundle exec jekyll serve --livereload --drafts --watch
+# recommended command when testing: bundle exec jekyll serve --livereload --drafts --watch --incremental
+# recommended command if modifying data files or same pages don't update properly: bundle exec jekyll serve --livereload --drafts
 
 # production only
 # recommended command jekyll build

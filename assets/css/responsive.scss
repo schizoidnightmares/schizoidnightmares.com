@@ -1,10 +1,8 @@
 ---
 ---
 @media screen and (max-width: 750px) {
-    a, a:active, a:visited, td { white-space: normal; }
+    td { white-space: normal; }
     .return, .advance { font-size: 1.4rem; }
-    .cols2, .cols3 { column-count: auto; }
-    .origin { width: 100%; }
     .feature {
         img { width: 100px; }
         &.cropped img { height: 100px; }
@@ -13,7 +11,10 @@
         .top, .middle, .bottom {
             grid-template-columns: auto auto auto
         }
-        .top .header { margin: 0 auto; }
+        .top .header { 
+            margin: 0 auto;
+            font-size: 1.6rem;
+        }
         .middle {
             .header, .content { padding: 0 2rem; }
             .header {
