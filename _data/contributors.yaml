@@ -67,6 +67,12 @@
   usage: Favicon generator
   notes: Free service
 
+- title: Font Awesome
+  flag: us
+  url: https://fontawesome.com/
+  usage: Free icons (derived)
+  notes: Free under <a href="https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt" target="_blank">CC BY 4.0 ⧉</a>
+
 - title: GarageBand
   flag: us
   url: https://www.apple.com/mac/garageband/
@@ -151,23 +157,11 @@
   usage: Website colour scheme generator
   notes: Free tool
 
-- title: MediaWiki
-  flag: us
-  url: https://www.mediawiki.org/
-  usage: Software powering the Schizoid Nightmares Wiki
-  notes: Free under the <a href="https://www.mediawiki.org/wiki/Copyright" target="_blank">GPL ⧉</a>
-
 - title: Miguel Á. Padriñán
   flag: mx
   url: https://www.pexels.com/@padrinan/
   usage: Stock videos
   notes: Free under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
-
-- title: Miraheze
-  flag: gb
-  url: https://miraheze.org/
-  usage: Website host for the Schizoid Nightmares Wiki
-  notes: Free service
 
 - title: NightCafe Studio
   flag: au
