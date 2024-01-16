@@ -39,4 +39,4 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 [^2]: You must log in to view my profile.
 [^3]: My account on the Internet Archive has archives (under "WEB ARCHIVES") of my earlier works.
 [^4]: I use my account on Stack Overflow exclusively for programming-related problem-solving, sometimes entirely unrelated to my works.
-[^5]: I use my account on Wikipedia as a volunteer for the encyclopedic project, not for my creative projects. The only exception to this is when I pursue MediaWiki-related inquiries, which may pertain to the Schizoid Nightmares Wiki.
+[^5]: I use my account on Wikipedia as a volunteer for the encyclopedic project, not for my creative projects.
