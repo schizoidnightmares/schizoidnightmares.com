@@ -5,6 +5,7 @@ info: false
 ---
 
 <div class="content">
+    <h1>{{ page.title }}</h1>
     {% if paginator.total_pages > 1 %}
     <div class="pagenav">
         {% if paginator.next_page %}
@@ -15,7 +16,6 @@ info: false
         {% endif %}
     </div>
     {% endif %}
-    <h1>{{ page.title }}</h1>
     {% for post in paginator.posts %}
     <div class="feature cropped standout">
         {% if post.src-thumb %}
