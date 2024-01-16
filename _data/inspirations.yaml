@@ -12,6 +12,18 @@
   flag: gb
   category: films
 
+- title: <i>A.I. Artificial Intelligence</i> (2001)
+  flag: us
+  category: films
+
+- title: <i>Ad Astra</i> (1974)
+  flag: us
+  category: films
+
+- title: <i>Akira</i> (1988)
+  flag: jp
+  category: films
+
 - title: <i>Alien</i> & <i>Aliens</i> (1979, 1986)
   flag: us
   category: films
@@ -32,8 +44,16 @@
   flag: us
   category: films
 
+- title: <i>Back to the Future</i> (1985–1990)
+  flag: us
+  category: films
+
 - title: <i>Ben-Hur</i> (1959)
   flag: us
+  category: films
+
+- title: <i>Bionicle</i> (2003–2005)
+  flag: dk
   category: films
 
 - title: <i>Blade Runner</i> & <i>Blade Runner 2049</i> (1982, 2017)
@@ -76,8 +96,32 @@
   flag: nz
   category: films
 
+- title: <i>Death Race 2000</i> (1975)
+  flag: us
+  category: films
+
+- title: <i>Death Wish</i> (1979)
+  flag: us
+  category: films
+
+- title: <i>Dirty Harry</i> (1971–1988)
+  flag: us
+  category: films
+
+- title: <i>Doomsday</i> (2008)
+  flag: us
+  category: films
+
 - title: <i>Dredd</i> (2012)
   flag: gb
+  category: films
+
+- title: <i>Edge of Tomorrow</i> (2014)
+  flag: us
+  category: films
+
+- title: <i>Escape from New York</i> & <i>Escape from L.A.</i> (1981, 1996)
+  flag: us
   category: films
 
 - title: <i>Falling Down</i> (1993)
@@ -112,6 +156,18 @@
   flag: us
   category: films
 
+- title: <i>Jaws</i> (1975–1987)
+  flag: us
+  category: films
+
+- title: <i>John Carter</i> (2012)
+  flag: us
+  category: films
+
+- title: <i>Joker</i> (2019)
+  flag: us
+  category: films
+
 - title: <i>Judge Dredd</i> (1995)
   flag: us
   category: films
@@ -120,11 +176,23 @@
   flag: us
   category: films
 
+- title: <i>K2</i> (1991)
+  flag: us
+  category: films
+
 - title: <i>King Kong</i> (1933, 2005)
   flag: us
   category: films
 
 - title: <i>Lord of the Flies</i> (1990)
+  flag: us
+  category: films
+
+- title: <i>Mad Max</i> (1979–1985)
+  flag: au
+  category: films
+
+- title: <i>Meet the Robinsons</i> (2007)
   flag: us
   category: films
 
@@ -142,6 +210,14 @@
 
 - title: <i>Nope</i> (2022)
   flag: us
+  category: films
+
+- title: <i>Oblivion</i> (2013)
+  flag: us
+  category: films
+
+- title: <i>Pandorum</i> (2009)
+  flag: de
   category: films
 
 - title: <i>Planet of the Apes</i> (1968–1973)
@@ -172,6 +248,10 @@
   flag: us
   category: films
 
+- title: <i>Robots</i> (2005)
+  flag: us
+  category: films
+
 - title: <i>Scarface</i> (1983)
   flag: us
   category: films
@@ -181,6 +261,14 @@
   category: films
 
 - title: "<i>Sicario</i> & <i>Sicario: Day of the Soldado</i> (2015, 2018)"
+  flag: us
+  category: films
+
+- title: <i>Silent Running</i> (1972)
+  flag: us
+  category: films
+
+- title: <i>Sky Captain and the World of Tomorrow</i> (2004)
   flag: us
   category: films
 
@@ -197,6 +285,18 @@
   category: films
 
 - title: <i>Star Wars</i> (1977–2005 Skywalker Saga)
+  flag: us
+  category: films
+
+- title: <i>Starship Troopers</i> (1997)
+  flag: us
+  category: films
+
+- title: <i>Taken</i> (2008)
+  flag: fr
+  category: films
+
+- title: <i>Taxi Driver</i> (1976)
   flag: us
   category: films
 
@@ -284,6 +384,14 @@
   flag: us
   category: films
 
+- title: <i>The Road</i> (2009)
+  flag: us
+  category: films
+
+- title: <i>The Star Chamber</i> (1983)
+  flag: us
+  category: films
+
 - title: <i>The Stuff</i> (1985)
   flag: us
   category: films
@@ -312,6 +420,10 @@
   flag: us
   category: films
 
+- title: <i>Tides</i> (2021)
+  flag: de
+  category: films
+
 - title: <i>Tomorrowland</i> (2015)
   flag: us
   category: films
@@ -320,7 +432,19 @@
   flag: us
   category: films
 
+- title: <i>Underwater</i> (2020)
+  flag: us
+  category: films
+
+- title: <i>V for Vendetta</i> (2005)
+  flag: us
+  category: films
+
 - title: <i>Virus</i> (1999)
+  flag: us
+  category: films
+
+- title: <i>Waterworld</i> (1995)
   flag: us
   category: films
 
@@ -350,8 +474,32 @@
   flag: cz
   category: games
 
+- title: <i>Assassin's Creed</i> (2007–2009)
+  flag: ca
+  category: games
+
+- title: <i>Atomic Heart</i> (2023)
+  flag: ru
+  category: games
+
+- title: <i>Beneath a Steel Sky</i> (1994)
+  flag: gb
+  category: games
+
 - title: <i>BioShock</i> (2007)
   flag: us
+  category: games
+
+- title: <i>Citystate</i> (2018)
+  flag: it
+  category: games
+
+- title: "<i>Crimson Skies: High Road to Revenge</i> (2003)"
+  flag: us
+  category: games
+
+- title: <i>Crysis</i> (2007–2011)
+  flag: de
   category: games
 
 - title: <i>Dead Rising</i> (2006)
@@ -364,6 +512,10 @@
 
 - title: <i>Democracy 3</i> (2013)
   flag: gb
+  category: games
+
+- title: <i>Dishonored</i> (2012)
+  flag: fr
   category: games
 
 - title: <i>Doom 3</i> (2004)
@@ -386,6 +538,10 @@
   flag: ca
   category: games
 
+- title: <i>G String</i> (2020)
+  flag: us
+  category: games
+
 - title: <i>Gears of War</i> (2006)
   flag: us
   category: games
@@ -398,6 +554,14 @@
   flag: us
   category: games
 
+- title: <i>Harvester</i> (1996)
+  flag: us
+  category: games
+
+- title: <i>High on Life</i> (2022)
+  flag: us
+  category: games
+
 - title: <i>I Have No Mouth, and I Must Scream</i> (1995)
   flag: us
   category: games
@@ -406,12 +570,24 @@
   flag: ca
   category: games
 
+- title: <i>Jaws Unleashed</i> (2006)
+  flag: hu
+  category: games
+
 - title: "<i>Judge Dredd: Dredd vs. Death</i> (2005)"
   flag: gb
   category: games
 
+- title: <i>Kenshi</i> (2018)
+  flag: us
+  category: games
+
 - title: <i>King Kong</i> (2005)
   flag: fr
+  category: games
+
+- title: <i>Left 4 Dead</i> (2008–2009)
+  flag: us
   category: games
 
 - title: <i>Mass Effect</i> (2007–2012)
@@ -434,6 +610,14 @@
   flag: us
   category: games
 
+- title: <i>Overgrowth</i> (2017)
+  flag: us
+  category: games
+
+- title: "<i>P.A.M.E.L.A.</i> (2020)"
+  flag: ca
+  category: games
+
 - title: <i>Paranoia</i>
   flag: us
   category: games
@@ -450,7 +634,15 @@
   flag: gb
   category: games
 
+- title: <i>Prey</i> (2017)
+  flag: fr
+  category: games
+
 - title: <i>Prison Architect</i> (2015)
+  flag: gb
+  category: games
+
+- title: <i>Project Zomboid</i> (2013)
   flag: gb
   category: games
 
@@ -464,6 +656,10 @@
 
 - title: <i>Scorn</i> (2022)
   flag: rs
+  category: games
+
+- title: <i>Scrapland</i> (2005)
+  flag: es
   category: games
 
 - title: <i>Shenmue</i> & <i>Shenmue II</i> (1999, 2001)
@@ -482,6 +678,10 @@
   flag: se
   category: games
 
+- title: <i>Spore</i> (2008)
+  flag: us
+  category: games
+
 - title: "<i>Star Wars: Battlefront</i> & <i>Star Wars: Battlefront II</i> (2004, 2005)"
   flag: us
   category: games
@@ -490,11 +690,19 @@
   flag: ca
   category: games
 
+- title: <i>Startopia</i> (2001)
+  flag: gb
+  category: games
+
 - title: <i>Stubbs the Zombie in Rebel Without a Pulse</i> (2005)
   flag: us
   category: games
 
 - title: <i>System Shock 2</i> (1999)
+  flag: us
+  category: games
+
+- title: "<i>Terminator 3: The Redemption</i> (2004)"
   flag: us
   category: games
 
@@ -520,8 +728,36 @@
 
 # literature
 
+- title: “Harrison Bergeron” (1961)
+  flag: us
+  category: lit
+
+- title: “I Have No Mouth, and I Must Scream” (1967)
+  flag: us
+  category: lit
+
+- title: “The Concentration City” (1957)
+  flag: gb
+  category: lit
+
+- title: “The Lottery” (1948)
+  flag: us
+  category: lit
+
+- title: “The Marching Morons” (1951)
+  flag: us
+  category: lit
+
 - title: <i>2000 AD</i>
   flag: gb
+  category: lit
+
+- title: <i>Akira</i> (1982–1990)
+  flag: jp
+  category: lit
+
+- title: <i>All You Need Is Kill</i>
+  flag: jp
   category: lit
 
 - title: <i>Animal Farm</i> (1945)
@@ -540,15 +776,16 @@
   flag: ru
   category: lit
 
-- title: The Bible
-  category: lit
-
 - title: <i>Bourne</i> (1980–1990)
   flag: us
   category: lit
 
 - title: <i>Brave New World</i> (1932)
   flag: gb
+  category: lit
+
+- title: <i>Captive Universe</i> (1969)
+  flag: us
   category: lit
 
 - title: <i>Childhood’s End</i> (1953)
@@ -587,15 +824,11 @@
   flag: gb
   category: lit
 
-- title: The Four Books and Five Classics
-  flag: cn
-  category: lit
-
-- title: <i>Goosebumps</i> (1992–1997)
+- title: <i>Future Shock</i> (1970)
   flag: us
   category: lit
 
-- title: “Harrison Bergeron” (1961)
+- title: <i>Goosebumps</i> (1992–1997)
   flag: us
   category: lit
 
@@ -611,8 +844,8 @@
   flag: us
   category: lit
 
-- title: “I Have No Mouth, and I Must Scream” (1967)
-  flag: us
+- title: <i>Inverted World</i> (1974)
+  flag: gb
   category: lit
 
 - title: <i>Jennifer Government</i> (2003)
@@ -635,11 +868,20 @@
   flag: us
   category: lit
 
+- title: <i>Marvel Zombies</i> (2005–2006)
+  flag: us
+  category: lit
+
 - title: <i>Nineteen Eighty-Four</i> (1949)
   flag: gb
   category: lit
 
-- title: The Quran
+- title: <i>Non-Stop</i> (1958)
+  flag: gb
+  category: lit
+
+- title: <i>Orphans of the Sky</i> (1963)
+  flag: us
   category: lit
 
 - title: <i>Republic</i> (375 BC)
@@ -657,6 +899,14 @@
   flag: us
   category: lit
 
+- title: <i>The Art of War</i> (5th century BC)
+  flag: cn
+  category: lit
+
+- title: The Bible
+  flag: il
+  category: lit
+
 - title: <i>The Children of Men</i> (1992)
   flag: gb
   category: lit
@@ -669,12 +919,12 @@
   flag: de
   category: lit
 
-- title: “The Concentration City” (1957)
-  flag: gb
-  category: lit
-
 - title: <i>The Edict</i> (1971)
   flag: us
+  category: lit
+
+- title: The Four Books and Five Classics
+  flag: cn
   category: lit
 
 - title: <i>The Girl with All the Gifts</i> (2014)
@@ -687,14 +937,6 @@
 
 - title: <i>The Lord of the Rings</i> (1954–1955)
   flag: gb
-  category: lit
-
-- title: “The Lottery” (1948)
-  flag: us
-  category: lit
-
-- title: “The Marching Morons” (1951)
-  flag: us
   category: lit
 
 - title: <i>The Metamorphosis</i> (1915)
@@ -714,6 +956,14 @@
   category: lit
 
 - title: <i>The Population Bomb</i> (1968)
+  flag: us
+  category: lit
+
+- title: The Quran
+  flag: sa
+  category: lit
+
+- title: <i>The Road</i> (2006)
   flag: us
   category: lit
 
@@ -747,6 +997,10 @@
 
 - title: <i>Twenty Thousand Leagues Under the Seas</i> (1872)
   flag: fr
+  category: lit
+
+- title: <i>V for Vendetta</i> (1982–1989)
+  flag: gb
   category: lit
 
 - title: <i>We</i> (1924)
@@ -803,6 +1057,10 @@
   flag: ca
   category: places
 
+- title: Germany (1910s–1940s)
+  flag: de
+  category: places
+
 - title: Greater Toronto Area
   flag: ca
   category: places
@@ -813,6 +1071,10 @@
 
 - title: Home Depot superstores, Ontario
   flag: ca
+  category: places
+
+- title: Indus Valley Civilization
+  flag: pk
   category: places
 
 - title: Iran (1950s–1970s)
@@ -859,6 +1121,10 @@
   flag: ph
   category: places
 
+- title: Rhodesia
+  flag: zw
+  category: places
+
 - title: Russia (1910s–1950s)
   flag: ru
   category: places
@@ -873,6 +1139,10 @@
 
 - title: South Africa
   flag: za
+  category: places
+
+- title: South Korea (1960s–1970s)
+  flag: kr
   category: places
 
 - title: Syria (2000s–2010s)
@@ -912,6 +1182,10 @@
 
 # Televison
 
+- title: <i>Beavis and Butt-Head</i> (1993–1997)
+  flag: us
+  category: tv
+
 - title: <i>Black Mirror</i> (2011–2017)
   flag: gb
   category: tv
@@ -922,6 +1196,18 @@
 
 - title: <i>Dead Set</i> (2008)
   flag: gb
+  category: tv
+
+- title: <i>Doctor Who</i> (2005–2010)
+  flag: gb
+  category: tv
+
+- title: <i>Futurama</i> (2008–2013)
+  flag: us
+  category: tv
+
+- title: <i>South Park</i>
+  flag: us
   category: tv
 
 - title: <i>Squid Game</i> (2021)

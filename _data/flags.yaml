@@ -31,6 +31,9 @@
 - title: de
   country: Germany
 
+- title: dk
+  country: Denmark
+
 - title: es
   country: Spain
 
@@ -45,6 +48,9 @@
 
 - title: gr
   country: Greece
+
+- title: hu
+  country: Hungary
 
 - title: il
   country: Israel
@@ -97,6 +103,9 @@
 - title: ph
   country: Philippines
 
+- title: pk
+  country: Pakistan
+
 - title: rs
   country: Serbia
 
@@ -105,6 +114,9 @@
 
 - title: rw
   country: Rwanda
+
+- title: sa
+  country: Saudi Arabia
 
 - title: se
   country: Sweden
@@ -126,3 +138,6 @@
 
 - title: za
   country: South Africa
+
+- title: zw
+  country: Zimbabwe
