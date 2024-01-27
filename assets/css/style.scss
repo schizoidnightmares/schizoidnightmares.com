@@ -132,7 +132,7 @@ code { white-space: nowrap; }
     text-align: center !important;
 }
 
-.cols2, .cols3 { column-gap: 3rem; }
+.cols2, .cols3, .cols4 { column-gap: 3rem; }
 
 // two-column lists
 .cols2 {
@@ -144,6 +144,12 @@ code { white-space: nowrap; }
 .cols3 { 
     column-count: 3;
     font-size: 1.3rem;
+}
+
+// four-column lists
+.cols4 {
+    column-count: 4;
+    font-size: 1.2rem;
 }
 
 // color boxes
