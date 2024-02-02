@@ -34,11 +34,11 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 ## Statistics
 Below are the top ten national origin percentages of all credits.
 
-{% include origin.html flag="us" perc="54.97" %}
-{% include origin.html flag="gb" perc="12.43" %}
-{% include origin.html flag="ca" perc="5.25" %}
-{% include origin.html flag="de" perc="2.49" %}
-{% include origin.html flag="fr" perc="2.21" %}
+{% include origin.html flag="us" perc="55.10" %}
+{% include origin.html flag="gb" perc="12.40" %}
+{% include origin.html flag="ca" perc="5.23" %}
+{% include origin.html flag="de" perc="2.48" %}
+{% include origin.html flag="fr" perc="2.20" %}
 {% include origin.html flag="ru" perc="1.93" %}
 {% include origin.html flag="au" perc="1.38" %}
 {% include origin.html flag="jp" perc="1.38" %}
