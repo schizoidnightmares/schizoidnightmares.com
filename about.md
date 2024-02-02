@@ -17,9 +17,8 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 - <a href="https://belletristica.com/en/users/5706-schizoid-nightmares" target="_blank">Belletristica ⧉</a>
 - <a href="https://www.fictionpress.com/~schizoidnightmares" target="_blank">FictionPress ⧉</a>
 - <a href="https://freemusicarchive.org/music/schizoid-nightmares/" target="_blank">Free Music Archive ⧉</a>
-- <a href="https://geeke.app/_/api/user/schizoidnightmares" target="_blank">Geeke ⧉</a>[^2]
 - <a href="https://github.com/schizoidnightmares" target="_blank">GitHub ⧉</a>
-- <a href="https://archive.org/details/@schizoid_nightmares" target="_blank">Internet Archive ⧉</a>[^3]
+- <a href="https://archive.org/details/@schizoid_nightmares" target="_blank">Internet Archive ⧉</a>[^2]
 - <a href="https://mastodon.social/@schizoidnightmares" target="_blank">Mastodon ⧉</a>
 - <a href="https://schizoidnightmares.medium.com/" target="_blank">Medium ⧉</a>
 - <a href="https://neovel.io/user/66358/schizoid-nightmares" target="_blank">Neovel ⧉</a>
@@ -29,14 +28,13 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 - <a href="https://www.royalroad.com/profile/357196" target="_blank">Royal Road ⧉</a>
 - <a href="https://www.scribblehub.com/profile/125707/schizoidnightmares/" target="_blank">Scribble Hub ⧉</a>
 - <a href="https://soundcloud.com/schizoidnightmares" target="_blank">SoundCloud ⧉</a>
-- <a href="https://stackoverflow.com/users/21422760/schizoid-nightmares" target="_blank">Stack Overflow ⧉</a>[^4]
+- <a href="https://stackoverflow.com/users/21422760/schizoid-nightmares" target="_blank">Stack Overflow ⧉</a>[^3]
 - <a href="https://schizoidnightmares.tumblr.com/" target="_blank">Tumblr ⧉</a>
 - <a href="https://www.wattpad.com/user/schizoidnightmares" target="_blank">Wattpad ⧉</a>
-- <a href="https://en.wikipedia.org/wiki/User:SchizoidNightmares" target="_blank">Wikipedia ⧉</a>[^5]
+- <a href="https://en.wikipedia.org/wiki/User:SchizoidNightmares" target="_blank">Wikipedia ⧉</a>[^4]
 - <a href="https://www.youtube.com/@schizoidnightmares" target="_blank">YouTube ⧉</a>
-{: .cols2}
+{: .cols3}
 
-[^2]: You must log in to view my profile.
-[^3]: My account on the Internet Archive has archives (under "WEB ARCHIVES") of my earlier works.
-[^4]: I use my account on Stack Overflow exclusively for programming-related problem-solving, sometimes entirely unrelated to my works.
-[^5]: I use my account on Wikipedia as a volunteer for the encyclopedic project, not for my creative projects.
+[^2]: My account on the Internet Archive has archives (under "WEB ARCHIVES") of my earlier works.
+[^3]: I use my account on Stack Overflow exclusively for programming-related problem-solving, sometimes entirely unrelated to my works.
+[^4]: I use my account on Wikipedia as a volunteer for the encyclopedic project, not for my creative projects.
