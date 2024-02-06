@@ -1,16 +1,15 @@
 {% if include.size == 'small' %}
-{% assign size = 'small' %}
 <ul class="cols2">
-{% elsif include.size == 'smallest' %}
-{% assign size = 'smallest' %}
+{% elsif include.size == 'smaller' %}
 <ul class="cols3">
+{% elsif include.size == 'smallest' %}
+<ul class="cols4">
 {% else %}
-{% assign size = 'normal' %}
 <ul>
 {% endif %}
     {% for item in site.data.inspirations %}
     {% if item.category == include.category %}
-    <li>{% if item.flag %}{% capture flag %}{{ item.flag }}{% endcapture %}{% include flag.html flag=flag size=size %}{% endif %}{{ item.title }}</li>
+    <li>{% if item.flag %}{% capture flag %}{{ item.flag }}{% endcapture %}{% include flag.html flag=flag %}{% endif %}{{ item.title }}</li>
     {% endif %}
     {% endfor %}
 </ul>

@@ -5,12 +5,6 @@
 {% capture format %}jpg{% endcapture %}
 {% endif %}
 {% if include.flag == flag.title %}
-{% if include.size == 'smallest' %}
-<img style="display: inline" src="/assets/images/flags/{{ include.flag }}.{{ format }}" title="{{ flag.country }}" height=10>
-{% elsif include.size == 'small' %}
-<img style="display: inline" src="/assets/images/flags/{{ include.flag }}.{{ format }}" title="{{ flag.country }}" height=11>
-{% else %}
-<img style="display: inline" src="/assets/images/flags/{{ include.flag }}.{{ format }}" title="{{ flag.country }}" height=13>
-{% endif %}
+<img class="flag" src="/assets/images/flags/{{ include.flag }}.{{ format }}" title="{{ flag.country }}" height=13>
 {% endif %}
 {% endfor %}

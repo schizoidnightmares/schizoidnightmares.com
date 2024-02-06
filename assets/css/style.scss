@@ -81,6 +81,8 @@ ol ol { list-style-type: lower-alpha; }
 
 code { white-space: nowrap; }
 
+.flag { display: inline; }
+
 .table { 
     overflow-x: auto;
     margin: 1.5rem auto;
@@ -96,8 +98,18 @@ code { white-space: nowrap; }
                 padding: 1rem;
             } 
         }
-        &.small { font-size: 1.5rem; }
-        &.smallest { font-size: 1.3rem; }
+        &.small {
+            font-size: 1.5rem;
+            .flag { height: 1.1rem; }
+        }
+        &.smaller {
+            font-size: 1.3rem;
+            .flag { height: 1rem; }
+        }
+        &.smallest {
+            font-size: 1.2rem;
+            .flag { height: .9rem; }
+        }
     }
 }
 
@@ -132,24 +144,28 @@ code { white-space: nowrap; }
     text-align: center !important;
 }
 
+// column lists
 .cols2, .cols3, .cols4 { column-gap: 3rem; }
 
 // two-column lists
 .cols2 {
     column-count: 2;
     font-size: 1.5rem;
+    .flag { height: 1.1rem; }
 }
 
 // three-column lists
 .cols3 { 
     column-count: 3;
     font-size: 1.3rem;
+    .flag { height: 1rem; }
 }
 
 // four-column lists
 .cols4 {
     column-count: 4;
     font-size: 1.2rem;
+    .flag { height: .9rem; }
 }
 
 // color boxes
@@ -181,12 +197,7 @@ code { white-space: nowrap; }
 .story p {
     text-align: justify;
     hyphens: auto;
-    + p, + .caption + p { text-indent: 4rem; }
-    img {
-        max-width: 700px;
-        display: block;
-        margin: 0 auto;
-    }
+    + p { text-indent: 4rem; }
 }
 
 .gallery {

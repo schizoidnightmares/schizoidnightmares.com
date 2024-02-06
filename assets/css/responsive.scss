@@ -21,11 +21,17 @@
                 text-align: center;
                 div h1 { font-size: 3.8rem; }
             }
-            .content > img, .content > p img {
-                max-width: 100%;
-                max-height: 175px;
+            .content {
+                & > img, .content > p img {
+                    max-width: 100%;
+                    max-height: 175px;
+                }
+                .cols3, .cols4 {
+                    column-count: 2;
+                    font-size: 1.5rem;
+                    .flag { height: 1.1rem; }
+                }
             }
-            .story p img { max-width: 100%; }
         }
         .bottom {
             font-size: 1.4rem;
