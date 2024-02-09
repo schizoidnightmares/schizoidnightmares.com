@@ -15,6 +15,7 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 - <a href="https://archiveofourown.org/users/schizoidnightmares/" target="_blank">Archive of Our Own ⧉</a>
 - <a href="https://schizoidnightmares.bandcamp.com/" target="_blank">Bandcamp ⧉</a>
 - <a href="https://belletristica.com/en/users/5706-schizoid-nightmares" target="_blank">Belletristica ⧉</a>
+- <a href="https://bsky.app/profile/schizoidnightmares.com" target="_blank">Bluesky ⧉</a>
 - <a href="https://www.fictionpress.com/~schizoidnightmares" target="_blank">FictionPress ⧉</a>
 - <a href="https://freemusicarchive.org/music/schizoid-nightmares/" target="_blank">Free Music Archive ⧉</a>
 - <a href="https://github.com/schizoidnightmares" target="_blank">GitHub ⧉</a>
