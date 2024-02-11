@@ -152,6 +152,10 @@
   flag: us
   category: films
 
+- title: "<i>Gremlins</i> & <i>Gremlins 2: The New Batch</i> (1984, 1990)"
+  flag: us
+  category: films
+
 - title: <i>I, Robot</i> (2004)
   flag: us
   category: films
@@ -324,6 +328,10 @@
   flag: us
   category: films
 
+- title: <i>The Day After</i> (1983)
+  flag: us
+  category: films
+
 - title: <i>The Dead Don’t Die</i> (2019)
   flag: us
   category: films
@@ -417,6 +425,10 @@
   category: films
 
 - title: <i>Things to Come</i> (1936)
+  flag: gb
+  category: films
+
+- title: <i>Threads</i> (1984)
   flag: gb
   category: films
 
