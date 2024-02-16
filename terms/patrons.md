@@ -1,6 +1,7 @@
 ---
 title: Patrons
 description: Terms for patrons
+last_modified_at: January 12, 2024
 return: Terms
 return-url: /terms/
 ---

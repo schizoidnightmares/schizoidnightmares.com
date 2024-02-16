@@ -1,6 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
+last_modified_at: December 16, 2023
 layout: header
 header: header_blur.jpg
 header-title: Schizoid Nightmares

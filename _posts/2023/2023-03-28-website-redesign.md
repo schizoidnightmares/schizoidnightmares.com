@@ -1,6 +1,7 @@
 ---
 title: Website redesign
 description: I finally got around to redesigning my website from the ground up
+last_modified_at: September 26, 2023
 ---
 
 I finally got around to redesigning my website from the ground up.

@@ -29,13 +29,11 @@ defaults:
       type: pages
     values:
       layout: default
-      info: true
   -
     scope:
       type: posts
     values:
       layout: post
-      info: true
       category: news
 
 # extras      
@@ -66,4 +64,3 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-sitemap
   - jekyll-tidy
-  - jekyll-last-modified-at

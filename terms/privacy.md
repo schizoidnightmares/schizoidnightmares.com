@@ -1,6 +1,7 @@
 ---
 title: Privacy
 description: Privacy policy
+last_modified_at: December 16, 2023
 return: Terms
 return-url: /terms/
 ---

@@ -1,6 +1,7 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
+last_modified_at: December 16, 2023
 ---
 
 # Gallery

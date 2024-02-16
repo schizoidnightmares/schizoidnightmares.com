@@ -1,6 +1,7 @@
 ---
 title: Disclaimers
 description: Content disclaimers
+last_modified_at: October 7, 2023
 return: Terms
 return-url: /terms/
 ---

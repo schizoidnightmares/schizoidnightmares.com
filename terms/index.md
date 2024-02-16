@@ -1,6 +1,7 @@
 ---
 title: Terms
 description: General terms for users
+last_modified_at: September 26, 2023
 ---
 
 # Terms
