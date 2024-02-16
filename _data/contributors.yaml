@@ -121,12 +121,6 @@
   usage: Static site generator for schizoidnightmares.com and absurdrealms.com
   notes: Free under the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
 
-- title: jekyll-last-modified-at
-  flag: us
-  url: https://github.com/gjtorikian/jekyll-last-modified-at
-  usage: Page last modified Liquid tag
-  notes: Free under the <a href="https://github.com/gjtorikian/jekyll-last-modified-at/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
-
 - title: jekyll-paginate-v2
   flag: is
   url: https://github.com/sverrirs/jekyll-paginate-v2
