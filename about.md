@@ -1,7 +1,7 @@
 ---
 title: About
 description: About me and my works
-last_modified_at: February 9, 2024
+last_modified_at: February 16, 2024
 ---
 
 # About
@@ -31,6 +31,7 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 - <a href="https://www.scribblehub.com/profile/125707/schizoidnightmares/" target="_blank">Scribble Hub ⧉</a>
 - <a href="https://soundcloud.com/schizoidnightmares" target="_blank">SoundCloud ⧉</a>
 - <a href="https://stackoverflow.com/users/21422760/schizoid-nightmares" target="_blank">Stack Overflow ⧉</a>[^3]
+- <a href="https://schizoidnightmares.substack.com/" target="_blank">Substack ⧉</a>
 - <a href="https://schizoidnightmares.tumblr.com/" target="_blank">Tumblr ⧉</a>
 - <a href="https://www.wattpad.com/user/schizoidnightmares" target="_blank">Wattpad ⧉</a>
 - <a href="https://en.wikipedia.org/wiki/User:SchizoidNightmares" target="_blank">Wikipedia ⧉</a>[^4]
