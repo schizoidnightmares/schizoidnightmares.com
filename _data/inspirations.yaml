@@ -915,6 +915,10 @@
   flag: us
   category: lit
 
+- title: <i>The 100</i> (2013–2016)
+  flag: us
+  category: lit
+
 - title: <i>The Art of War</i> (5th century BC)
   flag: cn
   category: lit
@@ -1239,6 +1243,10 @@
   category: tv
 
 - title: <i>Survivor</i> (2000s)
+  flag: us
+  category: tv
+
+- title: <i>The 100</i> (2014–2020)
   flag: us
   category: tv
 

@@ -44,11 +44,6 @@
   usage: Online articles on airships
   notes: Free reference
 
-- title: David Merfield
-  url: https://github.com/davidmerfield
-  usage: <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons ⧉</a>
-  notes: Free under <a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 ⧉</a>
-
 - title: ElevenLabs
   flag: us
   url: https://elevenlabs.io/
@@ -220,12 +215,6 @@
   flag: us
   url: https://www.markdownguide.org/
   usage: Markdown syntax reference
-  notes: Free service
-
-- title: Thales Group
-  flag: fr
-  url: https://www.thalesgroup.com/
-  usage: <a href="https://cpl.thalesgroup.com/software-monetization/software-versioning-basics" target="_blank">Software versioning guide ⧉</a>
   notes: Free service
 
 - title: Thesaurus.com
