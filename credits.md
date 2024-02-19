@@ -1,7 +1,7 @@
 ---
 title: Credits
 description: Acknowledging sources that helped make my work possible
-last_modified_at: February 16, 2024
+last_modified_at: February 18, 2024
 ---
 
 # Credits
@@ -35,13 +35,13 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 ## Statistics
 Below are the top ten national origin percentages of all credits.
 
-{% include origin.html flag="us" perc="55.46" %}
-{% include origin.html flag="gb" perc="12.57" %}
-{% include origin.html flag="ca" perc="5.19" %}
-{% include origin.html flag="de" perc="2.46" %}
+{% include origin.html flag="us" perc="55.59" %}
+{% include origin.html flag="gb" perc="12.53" %}
+{% include origin.html flag="ca" perc="5.18" %}
+{% include origin.html flag="de" perc="2.45" %}
 {% include origin.html flag="fr" perc="1.91" %}
 {% include origin.html flag="ru" perc="1.91" %}
-{% include origin.html flag="au" perc="1.37" %}
-{% include origin.html flag="jp" perc="1.37" %}
+{% include origin.html flag="au" perc="1.36" %}
+{% include origin.html flag="jp" perc="1.36" %}
 {% include origin.html flag="cn" perc="1.09" %}
 {% include origin.html flag="nz" perc="1.09" %}
