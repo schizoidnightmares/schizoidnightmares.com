@@ -905,6 +905,7 @@
   category: lit
 
 - title: SCP Foundation
+  flag: us
   category: lit
 
 - title: <i>Silent Spring</i> (1962)
@@ -1174,6 +1175,7 @@
   category: places
 
 - title: The Himalayas
+  flag: np
   category: places
 
 - title: Tibet

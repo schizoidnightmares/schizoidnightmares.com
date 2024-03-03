@@ -1,5 +1,6 @@
 - title: au
   country: Australia
+  color: 3cb44b
 
 - title: be
   country: Belgium
@@ -15,12 +16,14 @@
 
 - title: ca
   country: Canada
+  color: '800000'
 
 - title: cl
   country: Chile
 
 - title: cn
   country: China
+  color: ffe119
 
 - title: cu
   country: Cuba
@@ -30,6 +33,7 @@
 
 - title: de
   country: Germany
+  color: '000000'
 
 - title: dk
   country: Denmark
@@ -39,9 +43,11 @@
 
 - title: fr
   country: France
+  color: '000075'
 
 - title: gb
   country: United Kingdom
+  color: e6194B
 
 - title: ge
   country: Georgia
@@ -66,6 +72,7 @@
 
 - title: jp
   country: Japan
+  color: fabed4
 
 - title: kn
   country: Saint Kitts and Nevis
@@ -96,6 +103,7 @@
 
 - title: nz
   country: New Zealand
+  color: a9a9a9
 
 - title: pe
   country: Peru
@@ -106,11 +114,15 @@
 - title: pk
   country: Pakistan
 
+- title: pl
+  country: Poland
+
 - title: rs
   country: Serbia
 
 - title: ru
   country: Russia
+  color: ffffff
 
 - title: rw
   country: Rwanda
@@ -135,6 +147,7 @@
 
 - title: us
   country: United States
+  color: 4363d8
 
 - title: za
   country: South Africa

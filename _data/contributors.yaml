@@ -16,6 +16,7 @@
   notes: Freemium service
 
 - title: colordesigner.io
+  flag: pl
   url: https://colordesigner.io/
   usage: Colour tools
   notes: Free service
@@ -97,6 +98,13 @@
   url: https://www.grammarly.com/
   usage: Proofreading
   notes: Freemium service
+
+- title: Grey Liliy
+  flag: us
+  url: https://www.patreon.com/greyliliy
+  usage: Constructive feedback for <i>Schizoid Nightmares Anthology I</i>
+  notes: Unpaid contributor
+  direct: true
 
 - title: iMovie
   flag: us
@@ -195,9 +203,16 @@
   notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
 
 - title: RubyGems
+  flag: us
   url: https://rubygems.org/
   usage: Ruby packages
   notes: Free service
+
+- title: Sasha Trubetskoy
+  flag: us
+  url: https://sashamaps.net/
+  usage: <a href="https://sashamaps.net/docs/resources/20-colors/" target="_blank">List of 20 Simple, Distinct Colors ⧉</a>
+  notes: Free resource
 
 - title: Shaping Design Blog
   flag: il
@@ -252,6 +267,7 @@
   url: https://vladmomotart.tumblr.com/
   usage: Cover artist for <i>Schizoid Nightmares Anthology I</i> and <i>The Flippers</i>
   notes: Paid contributor; art produced for me licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0 ⧉</a>
+  direct: true
 
 - title: W3Schools
   flag: 'no'

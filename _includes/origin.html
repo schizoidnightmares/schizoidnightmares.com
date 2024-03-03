@@ -1,4 +1,8 @@
 <div class="origin" markdown=0>
-    {% capture flag %}{{ include.flag }}{% endcapture %}
-    <span style="width: {{ include.perc }}%">&nbsp;</span> {% include flag.html flag=flag %} {{ include.perc }}%
+    {% for flag in site.data.flags %}
+    {% if flag.title == include.flag %}
+    {% assign color = flag.color %}
+    {% endif %}
+    {% endfor %}
+    <span style="background: #{{ color }}; width: {{ include.perc }}%">&nbsp;</span> {% include flag.html flag=include.flag %} {{ include.perc }}%
 </div>
