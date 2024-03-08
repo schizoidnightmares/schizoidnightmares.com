@@ -12,6 +12,11 @@
         grid-area: 1 / 2 / 2 / 3;
         text-transform: lowercase;
         margin-left: .7rem;
+        a, a:active, a:visited {
+            text-decoration: none;
+            &[target="_blank"]::after { content: none; }
+            &[href]:where([href^="https"])::after { content: none; }
+        }
         ul {
             display: flex;
             margin: 0;
@@ -20,7 +25,8 @@
             align-items: center;
             li a, .active { padding: 0 .7rem; }
             .active {
-                text-decoration: underline;
+                text-decoration: $color-primary underline 8%;
+                text-underline-offset: 8%;
                 cursor: default;
             }
         }

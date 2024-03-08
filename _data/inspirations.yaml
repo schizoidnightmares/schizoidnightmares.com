@@ -1278,21 +1278,21 @@
 
 # Websites
 
-- title: '<a href="https://8values.github.io/" target="_blank">8values ⧉</a>'
+- title: '<a href="https://8values.github.io/" target="_blank">8values</a>'
   category: web
 
-- title: '<a href="https://www.fandom.com/" target="_blank">Fandom ⧉</a>'
+- title: '<a href="https://www.fandom.com/" target="_blank">Fandom</a>'
   flag: us
   category: web
 
-- title: '<a href="https://www.isidewith.com/" target="_blank">iSideWith ⧉</a>'
+- title: '<a href="https://www.isidewith.com/" target="_blank">iSideWith</a>'
   flag: us
   category: web
 
-- title: '<a href="https://www.politicalcompass.org/" target="_blank">The Political Compass ⧉</a>'
+- title: '<a href="https://www.politicalcompass.org/" target="_blank">The Political Compass</a>'
   flag: nz
   category: web
 
-- title: '<a href="https://www.wikipedia.org/" target="_blank">Wikipedia ⧉</a>'
+- title: '<a href="https://www.wikipedia.org/" target="_blank">Wikipedia</a>'
   flag: us
   category: web

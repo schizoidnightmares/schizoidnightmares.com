@@ -31,7 +31,7 @@
   flag: ru
   url: https://www.pexels.com/@cottonbro/
   usage: Stock videos
-  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
 - title: Creative Commons
   flag: us
@@ -67,7 +67,7 @@
   flag: us
   url: https://fontawesome.com/
   usage: Free icons (derived)
-  notes: Free icons licensed under <a href="https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt" target="_blank">CC BY 4.0 ⧉</a>
+  notes: Free icons licensed under <a href="https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt" target="_blank">CC BY 4.0</a>
 
 - title: GarageBand
   flag: us
@@ -122,31 +122,31 @@
   flag: us
   url: https://jekyllrb.com/
   usage: Static site generator for schizoidnightmares.com and absurdrealms.com
-  notes: Licensed under the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
+  notes: Licensed under the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank">MIT License</a>
 
 - title: jekyll-paginate-v2
   flag: is
   url: https://github.com/sverrirs/jekyll-paginate-v2
   usage: News pagination
-  notes: Licensed under the <a href="https://github.com/sverrirs/jekyll-paginate-v2/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
+  notes: Licensed under the <a href="https://github.com/sverrirs/jekyll-paginate-v2/blob/master/LICENSE" target="_blank">MIT License</a>
 
 - title: jekyll-tidy
   flag: us
   url: https://github.com/apsislabs/jekyll-tidy
   usage: Plugin for tidying up HTML
-  notes: Licensed under the <a href="https://github.com/apsislabs/jekyll-tidy/blob/master/LICENSE.txt" target="_blank">MIT License ⧉</a>
+  notes: Licensed under the <a href="https://github.com/apsislabs/jekyll-tidy/blob/master/LICENSE.txt" target="_blank">MIT License</a>
 
 - title: Kelly Lacy
   flag: us
   url: https://www.pexels.com/@kelly-1179532/
   usage: Stock videos
-  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
   usage: Font; used in branding; used on schizoidnightmares.com and absurdrealms.com
-  notes: Licensed under the <a href="http://cyreal.org/license/" target="_blank">OFL ⧉</a>
+  notes: Licensed under the <a href="http://cyreal.org/license/" target="_blank">OFL</a>
 
 - title: Material Theme Builder
   flag: us
@@ -158,13 +158,13 @@
   flag: mx
   url: https://www.pexels.com/@padrinan/
   usage: Stock videos
-  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
 - title: Nathan Vaughn
   flag: us
   url: https://nathanv.me/
-  usage: 'GitHub action for cache purging: <a href="https://github.com/NathanVaughn/actions-cloudflare-purge" target="_blank">actions-cloudflare-purge ⧉</a>'
-  notes: GitHub action licensed under the <a href="https://github.com/NathanVaughn/actions-cloudflare-purge/blob/master/LICENSE" target="_blank">MIT License ⧉</a>
+  usage: 'GitHub action for cache purging: <a href="https://github.com/NathanVaughn/actions-cloudflare-purge" target="_blank">actions-cloudflare-purge</a>'
+  notes: GitHub action licensed under the <a href="https://github.com/NathanVaughn/actions-cloudflare-purge/blob/master/LICENSE" target="_blank">MIT License</a>
 
 - title: NightCafe Studio
   flag: au
@@ -182,7 +182,7 @@
   flag: us
   url: https://fonts.google.com/specimen/Open+Sans
   usage: Font; used on schizoidnightmares.com, absurdrealms.com, and schizoidnightmares.net
-  notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL ⧉</a>
+  notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
 
 - title: Pages
   flag: us
@@ -194,13 +194,13 @@
   flag: de
   url: https://www.pexels.com/
   usage: Stock videos
-  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
 - title: Pixabay
   flag: de
   url: https://www.pexels.com/@pixabay/
   usage: Stock videos
-  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
 - title: RubyGems
   flag: us
@@ -211,13 +211,13 @@
 - title: Sasha Trubetskoy
   flag: us
   url: https://sashamaps.net/
-  usage: <a href="https://sashamaps.net/docs/resources/20-colors/" target="_blank">List of 20 Simple, Distinct Colors ⧉</a>
+  usage: <a href="https://sashamaps.net/docs/resources/20-colors/" target="_blank">List of 20 Simple, Distinct Colors</a>
   notes: Free resource
 
 - title: Shaping Design Blog
   flag: il
   url: https://www.editorx.com/shaping-design
-  usage: <a href="https://www.editorx.com/shaping-design/article/font-size" target="_blank">Font size guidelines ⧉</a>
+  usage: <a href="https://www.editorx.com/shaping-design/article/font-size" target="_blank">Font size guidelines</a>
   notes: Free service
 
 - title: Stack Overflow
@@ -254,7 +254,7 @@
   flag: us
   url: https://www.pexels.com/@tomfisk/
   usage: Stock videos
-  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License ⧉</a>
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
 - title: Visual Studio Code
   flag: us
@@ -266,7 +266,7 @@
   flag: ru
   url: https://vladmomotart.tumblr.com/
   usage: Cover artist for <i>Schizoid Nightmares Anthology I</i> and <i>The Flippers</i>
-  notes: Paid contributor; art produced for me licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0 ⧉</a>
+  notes: Paid contributor; art produced for me licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
   direct: true
 
 - title: W3Schools

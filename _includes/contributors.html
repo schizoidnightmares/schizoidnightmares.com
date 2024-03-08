@@ -9,7 +9,7 @@
         {% if include.direct %}
         {% if contributor.direct %}
         <tr>
-            <td style="white-space: nowrap">{% if contributor.flag %}{% capture flag %}{{ contributor.flag }}{% endcapture %}{% include flag.html flag=flag %}{% endif %}{% if contributor.url %}<a href="{{ contributor.url }}" target="_blank">{% endif %}{{ contributor.title }}{% if contributor.url %} ⧉</a>{% endif %}</td>
+            <td style="white-space: nowrap">{% if contributor.flag %}{% capture flag %}{{ contributor.flag }}{% endcapture %}{% include flag.html flag=flag %}{% endif %}{% if contributor.url %}<a href="{{ contributor.url }}" target="_blank">{% endif %}{{ contributor.title }}{% if contributor.url %}</a>{% endif %}</td>
             <td>{{ contributor.usage }}</td>
             <td>{{ contributor.notes }}</td>
         </tr>
@@ -17,7 +17,7 @@
         {% else %}
         {% if contributor.direct != true %}
         <tr>
-            <td style="white-space: nowrap">{% if contributor.flag %}{% capture flag %}{{ contributor.flag }}{% endcapture %}{% include flag.html flag=flag %}{% endif %}{% if contributor.url %}<a href="{{ contributor.url }}" target="_blank">{% endif %}{{ contributor.title }}{% if contributor.url %} ⧉</a>{% endif %}</td>
+            <td style="white-space: nowrap">{% if contributor.flag %}{% capture flag %}{{ contributor.flag }}{% endcapture %}{% include flag.html flag=flag %}{% endif %}{% if contributor.url %}<a href="{{ contributor.url }}" target="_blank">{% endif %}{{ contributor.title }}{% if contributor.url %}</a>{% endif %}</td>
             <td>{{ contributor.usage }}</td>
             <td>{{ contributor.notes }}</td>
         </tr>

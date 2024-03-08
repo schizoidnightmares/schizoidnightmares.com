@@ -8,10 +8,10 @@ style: news
     {% if paginator.total_pages > 1 %}
     <div class="pagenav">
         {% if paginator.previous_page %}
-        <p class="return"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a></p>
+        <p class="return">← <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a></p>
         {% endif %}
         {% if paginator.next_page %}
-        <p class="advance"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older →</a></p>
+        <p class="advance"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a> →</p>
         {% endif %}
     </div>
     {% endif %}
@@ -31,10 +31,10 @@ style: news
     {% if paginator.total_pages > 1 %}
     <div class="pagenav">
         {% if paginator.previous_page %}
-        <p class="return"><a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">← Newer</a></p>
+        <p class="return">← <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}">Newer</a></p>
         {% endif %}
         {% if paginator.next_page %}
-        <p class="advance"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older →</a></p>
+        <p class="advance"><a href="{{ paginator.next_page_path | prepend: site.baseurl }}">Older</a> →</p>
         {% endif %}
     </div>
     {% endif %}

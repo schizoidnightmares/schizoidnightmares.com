@@ -5,7 +5,7 @@ style: post
 
 <div class="content">
     <div class="pagenav">
-        <p class="return"><a href="/{{ page.category }}/">← {{ page.category }}</a></p>
+        <p class="return">← <a href="/{{ page.category }}/">{{ page.category }}</a></p>
     </div>
     {% if page.custom-title %}
     <h1>{{ page.custom-title }}</h1>
@@ -19,6 +19,6 @@ style: post
     {% endif %}
     {{ content }}
     <div class="pagenav">
-        <p class="return"><a href="/{{ page.category }}/">← {{ page.category }}</a></p>
+        <p class="return">← <a href="/{{ page.category }}/">{{ page.category }}</a></p>
     </div>
 </div>
