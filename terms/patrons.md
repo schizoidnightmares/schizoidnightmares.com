@@ -1,5 +1,5 @@
 ---
-title: Patrons
+title: Patrons - Terms
 description: Terms for patrons
 last_modified_at: January 12, 2024
 return: Terms

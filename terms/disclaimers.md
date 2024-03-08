@@ -1,5 +1,5 @@
 ---
-title: Disclaimers
+title: Disclaimers - Terms
 description: Content disclaimers
 last_modified_at: October 7, 2023
 return: Terms
