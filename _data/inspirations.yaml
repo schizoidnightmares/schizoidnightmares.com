@@ -1,540 +1,540 @@
 # films
 
-- title: "<i>2001: A Space Odyssey</i> (1968)"
+- title: "<i>2001: A Space Odyssey</i> <small>(1968)</small>"
   flag: us
   category: films
 
-- title: <i>2081</i> (2009)
+- title: <i>2081</i> <small>(2009)</small>
   flag: us
   category: films
 
-- title: <i>28 Days Later</i> (2002)
+- title: <i>28 Days Later</i> <small>(2002)</small>
   flag: gb
   category: films
 
-- title: <i>A.I. Artificial Intelligence</i> (2001)
+- title: <i>A.I. Artificial Intelligence</i> <small>(2001)</small>
   flag: us
   category: films
 
-- title: <i>Ad Astra</i> (1974)
+- title: <i>Ad Astra</i> <small>(1974)</small>
   flag: us
   category: films
 
-- title: <i>Akira</i> (1988)
+- title: <i>Akira</i> <small>(1988)</small>
   flag: jp
   category: films
 
-- title: <i>Alien</i> & <i>Aliens</i> (1979, 1986)
+- title: <i>Alien</i> & <i>Aliens</i> <small>(1979, 1986)</small>
   flag: us
   category: films
 
-- title: <i>Alien vs. Predator</i> (2004)
+- title: <i>Alien vs. Predator</i> <small>(2004)</small>
   flag: us
   category: films
 
-- title: <i>Annihilation</i> (2018)
+- title: <i>Annihilation</i> <small>(2018)</small>
   flag: us
   category: films
 
-- title: "<i>Atlantis: The Lost Empire</i> (2001)"
+- title: "<i>Atlantis: The Lost Empire</i> <small>(2001)</small>"
   flag: us
   category: films
 
-- title: <i>Avatar</i> (2009)
+- title: <i>Avatar</i> <small>(2009)</small>
   flag: us
   category: films
 
-- title: <i>Back to the Future</i> (1985–1990)
+- title: <i>Back to the Future</i> <small>(1985–1990)</small>
   flag: us
   category: films
 
-- title: <i>Ben-Hur</i> (1959)
+- title: <i>Ben-Hur</i> <small>(1959)</small>
   flag: us
   category: films
 
-- title: <i>Bionicle</i> (2003–2005)
+- title: <i>Bionicle</i> <small>(2003–2005)</small>
   flag: dk
   category: films
 
-- title: <i>Blade Runner</i> & <i>Blade Runner 2049</i> (1982, 2017)
+- title: <i>Blade Runner</i> & <i>Blade Runner 2049</i> <small>(1982, 2017)</small>
   flag: us
   category: films
 
-- title: <i>Bourne</i> (2002–2007)
+- title: <i>Bourne</i> <small>(2002–2007)</small>
   flag: us
   category: films
 
-- title: <i>Brazil</i> (1985)
+- title: <i>Brazil</i> <small>(1985)</small>
   flag: gb
   category: films
 
-- title: <i>Cargo</i> (2017)
+- title: <i>Cargo</i> <small>(2017)</small>
   flag: au
   category: films
 
-- title: <i>Children of Men</i> (2006)
+- title: <i>Children of Men</i> <small>(2006)</small>
   flag: us
   category: films
 
-- title: "<i>Colossus: The Forbin Project</i> (1970)"
+- title: "<i>Colossus: The Forbin Project</i> <small>(1970)</small>"
   flag: us
   category: films
 
-- title: <i>Cube</i> (1997)
+- title: <i>Cube</i> <small>(1997)</small>
   flag: ca
   category: films
 
-- title: <i>Dawn of the Dead</i> (1978, 2004)
+- title: <i>Dawn of the Dead</i> <small>(1978, 2004)</small>
   flag: us
   category: films
 
-- title: <i>Day of the Dead</i> (1985)
+- title: <i>Day of the Dead</i> <small>(1985)</small>
   flag: us
   category: films
 
-- title: <i>Dead Alive</i> (1992)
+- title: <i>Dead Alive</i> <small>(1992)</small>
   flag: nz
   category: films
 
-- title: <i>Death Race 2000</i> (1975)
+- title: <i>Death Race 2000</i> <small>(1975)</small>
   flag: us
   category: films
 
-- title: <i>Death Wish</i> (1979)
+- title: <i>Death Wish</i> <small>(1979)</small>
   flag: us
   category: films
 
-- title: <i>Dirty Harry</i> (1971–1988)
+- title: <i>Dirty Harry</i> <small>(1971–1988)</small>
   flag: us
   category: films
 
-- title: <i>District 9</i> (2009)
+- title: <i>District 9</i> <small>(2009)</small>
   flag: us
   category: films
 
-- title: <i>Doomsday</i> (2008)
+- title: <i>Doomsday</i> <small>(2008)</small>
   flag: us
   category: films
 
-- title: <i>Dredd</i> (2012)
+- title: <i>Dredd</i> <small>(2012)</small>
   flag: gb
   category: films
 
-- title: <i>Edge of Tomorrow</i> (2014)
+- title: <i>Edge of Tomorrow</i> <small>(2014)</small>
   flag: us
   category: films
 
-- title: <i>Escape from New York</i> & <i>Escape from L.A.</i> (1981, 1996)
+- title: <i>Escape from New York</i> & <i>Escape from L.A.</i> <small>(1981, 1996)</small>
   flag: us
   category: films
 
-- title: <i>Falling Down</i> (1993)
+- title: <i>Falling Down</i> <small>(1993)</small>
   flag: us
   category: films
 
-- title: "<i>Final Fantasy: The Spirits Within</i> (2001)"
+- title: "<i>Final Fantasy: The Spirits Within</i> <small>(2001)</small>"
   flag: us
   category: films
 
-- title: <i>Fire in the Sky</i> (1993)
+- title: <i>Fire in the Sky</i> <small>(1993)</small>
   flag: us
   category: films
 
-- title: <i>Fortress</i> (1992)
+- title: <i>Fortress</i> <small>(1992)</small>
   flag: us
   category: films
 
-- title: <i>Gattaca</i> (1997)
+- title: <i>Gattaca</i> <small>(1997)</small>
   flag: us
   category: films
 
-- title: <i>Gladiator</i> (2000)
+- title: <i>Gladiator</i> <small>(2000)</small>
   flag: us
   category: films
 
-- title: "<i>Gremlins</i> & <i>Gremlins 2: The New Batch</i> (1984, 1990)"
+- title: "<i>Gremlins</i> & <i>Gremlins 2: The New Batch</i> <small>(1984, 1990)</small>"
   flag: us
   category: films
 
-- title: <i>I, Robot</i> (2004)
+- title: <i>I, Robot</i> <small>(2004)</small>
   flag: us
   category: films
 
-- title: <i>Idiocracy</i> (2006)
+- title: <i>Idiocracy</i> <small>(2006)</small>
   flag: us
   category: films
 
-- title: <i>Jaws</i> (1975–1987)
+- title: <i>Jaws</i> <small>(1975–1987)</small>
   flag: us
   category: films
 
-- title: <i>John Carter</i> (2012)
+- title: <i>John Carter</i> <small>(2012)</small>
   flag: us
   category: films
 
-- title: <i>Joker</i> (2019)
+- title: <i>Joker</i> <small>(2019)</small>
   flag: us
   category: films
 
-- title: <i>Judge Dredd</i> (1995)
+- title: <i>Judge Dredd</i> <small>(1995)</small>
   flag: us
   category: films
 
-- title: <i>Jurassic Park</i> (1993–2001)
+- title: <i>Jurassic Park</i> <small>(1993–2001)</small>
   flag: us
   category: films
 
-- title: <i>K2</i> (1991)
+- title: <i>K2</i> <small>(1991)</small>
   flag: us
   category: films
 
-- title: <i>King Kong</i> (1933, 2005)
+- title: <i>King Kong</i> <small>(1933, 2005)</small>
   flag: us
   category: films
 
-- title: <i>Lord of the Flies</i> (1990)
+- title: <i>Lord of the Flies</i> <small>(1990)</small>
   flag: us
   category: films
 
-- title: <i>Mad Max</i> (1979–1985)
+- title: <i>Mad Max</i> <small>(1979–1985)</small>
   flag: au
   category: films
 
-- title: <i>Meet the Robinsons</i> (2007)
+- title: <i>Meet the Robinsons</i> <small>(2007)</small>
   flag: us
   category: films
 
-- title: <i>Monty Python and the Holy Grail</i> (1975)
+- title: <i>Monty Python and the Holy Grail</i> <small>(1975)</small>
   flag: gb
   category: films
 
-- title: <i>Monty Python's Life of Brian</i> (1979)
+- title: <i>Monty Python's Life of Brian</i> <small>(1979)</small>
   flag: gb
   category: films
 
-- title: <i>Nineteen Eighty-Four</i> (1984)
+- title: <i>Nineteen Eighty-Four</i> <small>(1984)</small>
   flag: gb
   category: films
 
-- title: <i>Nope</i> (2022)
+- title: <i>Nope</i> <small>(2022)</small>
   flag: us
   category: films
 
-- title: <i>Oblivion</i> (2013)
+- title: <i>Oblivion</i> <small>(2013)</small>
   flag: us
   category: films
 
-- title: <i>Pandorum</i> (2009)
+- title: <i>Pandorum</i> <small>(2009)</small>
   flag: de
   category: films
 
-- title: <i>Planet of the Apes</i> (1968–1973)
+- title: <i>Planet of the Apes</i> <small>(1968–1973)</small>
   flag: us
   category: films
 
-- title: <i>Poltergeist</i> (1985)
+- title: <i>Poltergeist</i> <small>(1985)</small>
   flag: us
   category: films
 
-- title: <i>Predator</i> & <i>Predator 2</i> (1987, 1990)
+- title: <i>Predator</i> & <i>Predator 2</i> <small>(1987, 1990)</small>
   flag: us
   category: films
 
-- title: <i>Quarantine</i> (2008)
+- title: <i>Quarantine</i> <small>(2008)</small>
   flag: us
   category: films
 
-- title: <i>Raiders of the Lost Ark</i> (1981)
+- title: <i>Raiders of the Lost Ark</i> <small>(1981)</small>
   flag: us
   category: films
 
-- title: <i>Rec</i> & <i>Rec 2</i> (2007, 2009)
+- title: <i>Rec</i> & <i>Rec 2</i> <small>(2007, 2009)</small>
   flag: es
   category: films
 
-- title: <i>RoboCop</i> (1987, 1990, 2014)
+- title: <i>RoboCop</i> <small>(1987, 1990, 2014)</small>
   flag: us
   category: films
 
-- title: <i>Robots</i> (2005)
+- title: <i>Robots</i> <small>(2005)</small>
   flag: us
   category: films
 
-- title: <i>Scarface</i> (1983)
+- title: <i>Scarface</i> <small>(1983)</small>
   flag: us
   category: films
 
-- title: <i>Shaun of the Dead</i> (2004)
+- title: <i>Shaun of the Dead</i> <small>(2004)</small>
   flag: gb
   category: films
 
-- title: "<i>Sicario</i> & <i>Sicario: Day of the Soldado</i> (2015, 2018)"
+- title: "<i>Sicario</i> & <i>Sicario: Day of the Soldado</i> <small>(2015, 2018)</small>"
   flag: us
   category: films
 
-- title: <i>Silent Running</i> (1972)
+- title: <i>Silent Running</i> <small>(1972)</small>
   flag: us
   category: films
 
-- title: <i>Sky Captain and the World of Tomorrow</i> (2004)
+- title: <i>Sky Captain and the World of Tomorrow</i> <small>(2004)</small>
   flag: us
   category: films
 
-- title: <i>Soldier</i> (1998)
+- title: <i>Soldier</i> <small>(1998)</small>
   flag: us
   category: films
 
-- title: <i>Soylent Green</i> (1973)
+- title: <i>Soylent Green</i> <small>(1973)</small>
   flag: us
   category: films
 
-- title: <i>Spartacus</i> (1960)
+- title: <i>Spartacus</i> <small>(1960)</small>
   flag: us
   category: films
 
-- title: <i>Star Wars</i> (1977–2005 Skywalker Saga)
+- title: <i>Star Wars</i> <small>(1977–2005 Skywalker Saga)</small>
   flag: us
   category: films
 
-- title: <i>Starship Troopers</i> (1997)
+- title: <i>Starship Troopers</i> <small>(1997)</small>
   flag: us
   category: films
 
-- title: <i>Taken</i> (2008)
+- title: <i>Taken</i> <small>(2008)</small>
   flag: fr
   category: films
 
-- title: <i>Taxi Driver</i> (1976)
+- title: <i>Taxi Driver</i> <small>(1976)</small>
   flag: us
   category: films
 
-- title: <i>Terminator</i> (1984–2003)
+- title: <i>Terminator</i> <small>(1984–2003)</small>
   flag: us
   category: films
 
-- title: <i>The Beach House</i> (2019)
+- title: <i>The Beach House</i> <small>(2019)</small>
   flag: us
   category: films
 
-- title: <i>The Blob</i> (1988)
+- title: <i>The Blob</i> <small>(1988)</small>
   flag: us
   category: films
 
-- title: <i>The Chronicles of Riddick</i> (2004)
+- title: <i>The Chronicles of Riddick</i> <small>(2004)</small>
   flag: us
   category: films
 
-- title: <i>The Circle</i> (2017)
+- title: <i>The Circle</i> <small>(2017)</small>
   flag: us
   category: films
 
-- title: <i>The Day After</i> (1983)
+- title: <i>The Day After</i> <small>(1983)</small>
   flag: us
   category: films
 
-- title: <i>The Dead Don’t Die</i> (2019)
+- title: <i>The Dead Don’t Die</i> <small>(2019)</small>
   flag: us
   category: films
 
-- title: <i>The Descent</i> (2005)
+- title: <i>The Descent</i> <small>(2005)</small>
   flag: gb
   category: films
 
-- title: <i>The Fifth Element</i> (1997)
+- title: <i>The Fifth Element</i> <small>(1997)</small>
   flag: fr
   category: films
 
-- title: <i>The Fly</i> (1986)
+- title: <i>The Fly</i> <small>(1986)</small>
   flag: us
   category: films
 
-- title: <i>The Girl with All the Gifts</i> (2016)
+- title: <i>The Girl with All the Gifts</i> <small>(2016)</small>
   flag: gb
   category: films
 
-- title: <i>The Hitchhiker’s Guide to the Galaxy</i> (2005)
+- title: <i>The Hitchhiker’s Guide to the Galaxy</i> <small>(2005)</small>
   flag: us
   category: films
 
-- title: <i>The Land Before Time</i> (1988)
+- title: <i>The Land Before Time</i> <small>(1988)</small>
   flag: us
   category: films
 
-- title: <i>The Lord of the Rings</i> (2001–2003)
+- title: <i>The Lord of the Rings</i> <small>(2001–2003)</small>
   flag: us
   category: films
 
-- title: <i>The Matrix</i> (1999–2003)
+- title: <i>The Matrix</i> <small>(1999–2003)</small>
   flag: us
   category: films
 
-- title: <i>The Mist</i> (2007)
+- title: <i>The Mist</i> <small>(2007)</small>
   flag: us
   category: films
 
-- title: <i>The Mosquito Coast</i> (1986)
+- title: <i>The Mosquito Coast</i> <small>(1986)</small>
   flag: us
   category: films
 
-- title: <i>The Mouse That Roared</i> (1959)
+- title: <i>The Mouse That Roared</i> <small>(1959)</small>
   flag: gb
   category: films
 
-- title: <i>The Mummy Returns</i> (2001)
+- title: <i>The Mummy Returns</i> <small>(2001)</small>
   flag: us
   category: films
 
-- title: <i>The Night Eats the World</i> (2018)
+- title: <i>The Night Eats the World</i> <small>(2018)</small>
   flag: fr
   category: films
 
-- title: <i>The Platform</i> (2019)
+- title: <i>The Platform</i> <small>(2019)</small>
   flag: es
   category: films
 
-- title: <i>The Return of the Living Dead</i> (1985)
+- title: <i>The Return of the Living Dead</i> <small>(1985)</small>
   flag: us
   category: films
 
-- title: <i>The Road</i> (2009)
+- title: <i>The Road</i> <small>(2009)</small>
   flag: us
   category: films
 
-- title: <i>The Star Chamber</i> (1983)
+- title: <i>The Star Chamber</i> <small>(1983)</small>
   flag: us
   category: films
 
-- title: <i>The Stuff</i> (1985)
+- title: <i>The Stuff</i> <small>(1985)</small>
   flag: us
   category: films
 
-- title: <i>The Time Machine</i> (1960, 2002)
+- title: <i>The Time Machine</i> <small>(1960, 2002)</small>
   flag: us
   category: films
 
-- title: <i>The Thing</i> (1982)
+- title: <i>The Thing</i> <small>(1982)</small>
   flag: us
   category: films
 
-- title: <i>The War of the Worlds</i> & <i>War of the Worlds</i> (1953, 2005)
+- title: <i>The War of the Worlds</i> & <i>War of the Worlds</i> <small>(1953, 2005)</small>
   flag: us
   category: films
 
-- title: <i>They Live</i> (1988)
+- title: <i>They Live</i> <small>(1988)</small>
   flag: us
   category: films
 
-- title: <i>Things to Come</i> (1936)
+- title: <i>Things to Come</i> <small>(1936)</small>
   flag: gb
   category: films
 
-- title: <i>Threads</i> (1984)
+- title: <i>Threads</i> <small>(1984)</small>
   flag: gb
   category: films
 
-- title: <i>THX 1138</i> (1971)
+- title: <i>THX 1138</i> <small>(1971)</small>
   flag: us
   category: films
 
-- title: <i>Tides</i> (2021)
+- title: <i>Tides</i> <small>(2021)</small>
   flag: de
   category: films
 
-- title: <i>Tomorrowland</i> (2015)
+- title: <i>Tomorrowland</i> <small>(2015)</small>
   flag: us
   category: films
 
-- title: <i>Transcendence</i> (2014)
+- title: <i>Transcendence</i> <small>(2014)</small>
   flag: us
   category: films
 
-- title: <i>Underwater</i> (2020)
+- title: <i>Underwater</i> <small>(2020)</small>
   flag: us
   category: films
 
-- title: <i>V for Vendetta</i> (2005)
+- title: <i>V for Vendetta</i> <small>(2005)</small>
   flag: us
   category: films
 
-- title: <i>Virus</i> (1999)
+- title: <i>Virus</i> <small>(1999)</small>
   flag: us
   category: films
 
-- title: <i>Waterworld</i> (1995)
+- title: <i>Waterworld</i> <small>(1995)</small>
   flag: us
   category: films
 
-- title: <i>Zombie Movie</i> (2005)
+- title: <i>Zombie Movie</i> <small>(2005)</small>
   flag: nz
   category: films
 
-- title: <i>Zombi 2</i> (1979)
+- title: <i>Zombi 2</i> <small>(1979)</small>
   flag: it
   category: films
 
-- title: <i>Z.P.G.</i> (1972)
+- title: <i>Z.P.G.</i> <small>(1972)</small>
   flag: us
   category: films
 
 # games
 
-- title: <i>Aliens Versus Predator 2</i> (2001)
+- title: <i>Aliens Versus Predator 2</i> <small>(2001)</small>
   flag: us
   category: games
 
-- title: <i>Aliens vs. Predator</i> (2010)
+- title: <i>Aliens vs. Predator</i> <small>(2010)</small>
   flag: gb
   category: games
 
-- title: <i>Arma</i> (2009–2013)
+- title: <i>Arma</i> <small>(2009–2013)</small>
   flag: cz
   category: games
 
-- title: <i>Assassin's Creed</i> (2007–2009)
+- title: <i>Assassin's Creed</i> <small>(2007–2009)</small>
   flag: ca
   category: games
 
-- title: <i>Atomic Heart</i> (2023)
+- title: <i>Atomic Heart</i> <small>(2023)</small>
   flag: ru
   category: games
 
-- title: <i>Beneath a Steel Sky</i> (1994)
+- title: <i>Beneath a Steel Sky</i> <small>(1994)</small>
   flag: gb
   category: games
 
-- title: <i>BioShock</i> (2007)
+- title: <i>BioShock</i> <small>(2007)</small>
   flag: us
   category: games
 
-- title: <i>Citystate</i> (2018)
+- title: <i>Citystate</i> <small>(2018)</small>
   flag: it
   category: games
 
-- title: "<i>Crimson Skies: High Road to Revenge</i> (2003)"
+- title: "<i>Crimson Skies: High Road to Revenge</i> <small>(2003)</small>"
   flag: us
   category: games
 
-- title: <i>Crysis</i> (2007–2011)
+- title: <i>Crysis</i> <small>(2007–2011)</small>
   flag: de
   category: games
 
-- title: <i>Dead Rising</i> (2006)
+- title: <i>Dead Rising</i> <small>(2006)</small>
   flag: jp
   category: games
 
-- title: <i>Dead Space</i> (2008)
+- title: <i>Dead Space</i> <small>(2008)</small>
   flag: us
   category: games
 
-- title: <i>Democracy 3</i> (2013)
+- title: <i>Democracy 3</i> <small>(2013)</small>
   flag: gb
   category: games
 
-- title: <i>Dishonored</i> (2012)
+- title: <i>Dishonored</i> <small>(2012)</small>
   flag: fr
   category: games
 
-- title: <i>Doom 3</i> (2004)
+- title: <i>Doom 3</i> <small>(2004)</small>
   flag: us
   category: games
 
@@ -542,75 +542,75 @@
   flag: us
   category: games
 
-- title: <i>Dwarf Fortress</i> (2006)
+- title: <i>Dwarf Fortress</i> <small>(2006)</small>
   flag: us
   category: games
 
-- title: Fallout (1997–2015)
+- title: Fallout <small>(1997–2015)</small>
   flag: us
   category: games
 
-- title: <i>Far Cry 4</i> (2014)
+- title: <i>Far Cry 4</i> <small>(2014)</small>
   flag: ca
   category: games
 
-- title: <i>G String</i> (2020)
+- title: <i>G String</i> <small>(2020)</small>
   flag: us
   category: games
 
-- title: <i>Gears of War</i> (2006)
+- title: <i>Gears of War</i> <small>(2006)</small>
   flag: us
   category: games
 
-- title: <i>Half-Life</i> (1998–2007)
+- title: <i>Half-Life</i> <small>(1998–2007)</small>
   flag: us
   category: games
 
-- title: <i>Halo</i> (2001–2007)
+- title: <i>Halo</i> <small>(2001–2007)</small>
   flag: us
   category: games
 
-- title: <i>Harvester</i> (1996)
+- title: <i>Harvester</i> <small>(1996)</small>
   flag: us
   category: games
 
-- title: <i>High on Life</i> (2022)
+- title: <i>High on Life</i> <small>(2022)</small>
   flag: us
   category: games
 
-- title: <i>I Have No Mouth, and I Must Scream</i> (1995)
+- title: <i>I Have No Mouth, and I Must Scream</i> <small>(1995)</small>
   flag: us
   category: games
 
-- title: <i>Jade Empire</i> (2005)
+- title: <i>Jade Empire</i> <small>(2005)</small>
   flag: ca
   category: games
 
-- title: <i>Jaws Unleashed</i> (2006)
+- title: <i>Jaws Unleashed</i> <small>(2006)</small>
   flag: hu
   category: games
 
-- title: "<i>Judge Dredd: Dredd vs. Death</i> (2005)"
+- title: "<i>Judge Dredd: Dredd vs. Death</i> <small>(2005)</small>"
   flag: gb
   category: games
 
-- title: <i>Kenshi</i> (2018)
+- title: <i>Kenshi</i> <small>(2018)</small>
   flag: us
   category: games
 
-- title: <i>King Kong</i> (2005)
+- title: <i>King Kong</i> <small>(2005)</small>
   flag: fr
   category: games
 
-- title: <i>Left 4 Dead</i> (2008–2009)
+- title: <i>Left 4 Dead</i> <small>(2008–2009)</small>
   flag: us
   category: games
 
-- title: <i>Mass Effect</i> (2007–2012)
+- title: <i>Mass Effect</i> <small>(2007–2012)</small>
   flag: ca
   category: games
 
-- title: <i>Myst</i> (1993–2001)
+- title: <i>Myst</i> <small>(1993–2001)</small>
   flag: us
   category: games
 
@@ -618,19 +618,19 @@
   flag: au
   category: games
 
-- title: <i>Night of the Consumers</i> (2020)
+- title: <i>Night of the Consumers</i> <small>(2020)</small>
   flag: gb
   category: games
 
-- title: <i>Oddworld</i> (1997–2005)
+- title: <i>Oddworld</i> <small>(1997–2005)</small>
   flag: us
   category: games
 
-- title: <i>Overgrowth</i> (2017)
+- title: <i>Overgrowth</i> <small>(2017)</small>
   flag: us
   category: games
 
-- title: "<i>P.A.M.E.L.A.</i> (2020)"
+- title: "<i>P.A.M.E.L.A.</i> <small>(2020)</small>"
   flag: ca
   category: games
 
@@ -638,7 +638,7 @@
   flag: us
   category: games
 
-- title: <i>Pariah</i> (2005)
+- title: <i>Pariah</i> <small>(2005)</small>
   flag: ca
   category: games
 
@@ -646,39 +646,39 @@
   flag: be
   category: games
 
-- title: "<i>Predator: Concrete Jungle</i> (2005)"
+- title: "<i>Predator: Concrete Jungle</i> <small>(2005)</small>"
   flag: gb
   category: games
 
-- title: <i>Prey</i> (2017)
+- title: <i>Prey</i> <small>(2017)</small>
   flag: fr
   category: games
 
-- title: <i>Prison Architect</i> (2015)
+- title: <i>Prison Architect</i> <small>(2015)</small>
   flag: gb
   category: games
 
-- title: <i>Project Zomboid</i> (2013)
+- title: <i>Project Zomboid</i> <small>(2013)</small>
   flag: gb
   category: games
 
-- title: "<i>Red Dead Redemption: Undead Nightmare</i> (2010)"
+- title: "<i>Red Dead Redemption: Undead Nightmare</i> <small>(2010)</small>"
   flag: us
   category: games
 
-- title: <i>RimWorld</i> (2018)
+- title: <i>RimWorld</i> <small>(2018)</small>
   flag: ca
   category: games
 
-- title: <i>Scorn</i> (2022)
+- title: <i>Scorn</i> <small>(2022)</small>
   flag: rs
   category: games
 
-- title: <i>Scrapland</i> (2005)
+- title: <i>Scrapland</i> <small>(2005)</small>
   flag: es
   category: games
 
-- title: <i>Shenmue</i> & <i>Shenmue II</i> (1999, 2001)
+- title: <i>Shenmue</i> & <i>Shenmue II</i> <small>(1999, 2001)</small>
   flag: jp
   category: games
 
@@ -686,81 +686,81 @@
   flag: us
   category: games
 
-- title: <i>SimEarth</i> (1990)
+- title: <i>SimEarth</i> <small>(1990)</small>
   flag: us
   category: games
 
-- title: <i>Soma</i> (2015)
+- title: <i>Soma</i> <small>(2015)</small>
   flag: se
   category: games
 
-- title: <i>Spore</i> (2008)
+- title: <i>Spore</i> <small>(2008)</small>
   flag: us
   category: games
 
-- title: "<i>Star Wars: Battlefront</i> & <i>Star Wars: Battlefront II</i> (2004, 2005)"
+- title: "<i>Star Wars: Battlefront</i> & <i>Star Wars: Battlefront II</i> <small>(2004, 2005)</small>"
   flag: us
   category: games
 
-- title: "<i>Star Wars: Knights of the Old Republic</i> (2003)"
+- title: "<i>Star Wars: Knights of the Old Republic</i> <small>(2003)</small>"
   flag: ca
   category: games
 
-- title: <i>Startopia</i> (2001)
+- title: <i>Startopia</i> <small>(2001)</small>
   flag: gb
   category: games
 
-- title: <i>Stubbs the Zombie in Rebel Without a Pulse</i> (2005)
+- title: <i>Stubbs the Zombie in Rebel Without a Pulse</i> <small>(2005)</small>
   flag: us
   category: games
 
-- title: <i>System Shock 2</i> (1999)
+- title: <i>System Shock 2</i> <small>(1999)</small>
   flag: us
   category: games
 
-- title: "<i>Terminator 3: The Redemption</i> (2004)"
+- title: "<i>Terminator 3: The Redemption</i> <small>(2004)</small>"
   flag: us
   category: games
 
-- title: <i>The Forest</i> (early access)
+- title: <i>The Forest</i> <small>(early access)</small>
   flag: ca
   category: games
 
-- title: "<i>The Longest Journey</i> & <i>Dreamfall: The Longest Journey</i> (1999, 2006)"
+- title: "<i>The Longest Journey</i> & <i>Dreamfall: The Longest Journey</i> <small>(1999, 2006)</small>"
   flag: "no"
   category: games
 
-- title: <i>Tropico 3</i> & <i>Tropico 4</i> (2009, 2011)
+- title: <i>Tropico 3</i> & <i>Tropico 4</i> <small>(2009, 2011)</small>
   flag: bg
   category: games
 
-- title: "<i>Unreal II: The Awakening</i> (2004)"
+- title: "<i>Unreal II: The Awakening</i> <small>(2004)</small>"
   flag: us
   category: games
 
-- title: <i>Unreal Tournament</i> (1999)
+- title: <i>Unreal Tournament</i> <small>(1999)</small>
   flag: us
   category: games
 
 # literature
 
-- title: “Harrison Bergeron” (1961)
+- title: “Harrison Bergeron” <small>(1961)</small>
   flag: us
   category: lit
 
-- title: “I Have No Mouth, and I Must Scream” (1967)
+- title: “I Have No Mouth, and I Must Scream” <small>(1967)</small>
   flag: us
   category: lit
 
-- title: “The Concentration City” (1957)
+- title: “The Concentration City” <small>(1957)</small>
   flag: gb
   category: lit
 
-- title: “The Lottery” (1948)
+- title: “The Lottery” <small>(1948)</small>
   flag: us
   category: lit
 
-- title: “The Marching Morons” (1951)
+- title: “The Marching Morons” <small>(1951)</small>
   flag: us
   category: lit
 
@@ -768,7 +768,7 @@
   flag: gb
   category: lit
 
-- title: <i>Akira</i> (1982–1990)
+- title: <i>Akira</i> <small>(1982–1990)</small>
   flag: jp
   category: lit
 
@@ -776,131 +776,131 @@
   flag: jp
   category: lit
 
-- title: <i>Animal Farm</i> (1945)
+- title: <i>Animal Farm</i> <small>(1945)</small>
   flag: gb
   category: lit
 
-- title: <i>Annihilation</i> (2014)
+- title: <i>Annihilation</i> <small>(2014)</small>
   flag: us
   category: lit
 
-- title: <i>Anthem</i> (1938)
+- title: <i>Anthem</i> <small>(1938)</small>
   flag: ru
   category: lit
 
-- title: <i>Atlas Shrugged</i> (1957)
+- title: <i>Atlas Shrugged</i> <small>(1957)</small>
   flag: ru
   category: lit
 
-- title: <i>Bourne</i> (1980–1990)
+- title: <i>Bourne</i> <small>(1980–1990)</small>
   flag: us
   category: lit
 
-- title: <i>Brave New World</i> (1932)
+- title: <i>Brave New World</i> <small>(1932)</small>
   flag: gb
   category: lit
 
-- title: <i>Captive Universe</i> (1969)
+- title: <i>Captive Universe</i> <small>(1969)</small>
   flag: us
   category: lit
 
-- title: <i>Childhood’s End</i> (1953)
+- title: <i>Childhood’s End</i> <small>(1953)</small>
   flag: gb
   category: lit
 
-- title: <i>Colossus</i> (1966)
+- title: <i>Colossus</i> <small>(1966)</small>
   flag: gb
   category: lit
 
-- title: <i>Concrete Island</i> (1974)
+- title: <i>Concrete Island</i> <small>(1974)</small>
   flag: gb
   category: lit
 
-- title: <i>Das Kapital</i> (1887)
+- title: <i>Das Kapital</i> <small>(1887)</small>
   flag: de
   category: lit
 
-- title: <i>Do Androids Dream of Electric Sheep?</i> (1968)
+- title: <i>Do Androids Dream of Electric Sheep?</i> <small>(1968)</small>
   flag: us
   category: lit
 
-- title: <i>Dune</i> (1965)
+- title: <i>Dune</i> <small>(1965)</small>
   flag: us
   category: lit
 
-- title: <i>Ender’s Game</i> (1985)
+- title: <i>Ender’s Game</i> <small>(1985)</small>
   flag: us
   category: lit
 
-- title: <i>Fahrenheit 451</i> (1953)
+- title: <i>Fahrenheit 451</i> <small>(1953)</small>
   flag: us
   category: lit
 
-- title: <i>Frankenstein</i> (1818)
+- title: <i>Frankenstein</i> <small>(1818)</small>
   flag: gb
   category: lit
 
-- title: <i>Future Shock</i> (1970)
+- title: <i>Future Shock</i> <small>(1970)</small>
   flag: us
   category: lit
 
-- title: <i>Goosebumps</i> (1992–1997)
+- title: <i>Goosebumps</i> <small>(1992–1997)</small>
   flag: us
   category: lit
 
-- title: <i>Holes</i> (1998)
+- title: <i>Holes</i> <small>(1998)</small>
   flag: us
   category: lit
 
-- title: <i>I, Robot</i> (1950)
+- title: <i>I, Robot</i> <small>(1950)</small>
   flag: us
   category: lit
 
-- title: <i>Industrial Society and Its Future</i> (1995)
+- title: <i>Industrial Society and Its Future</i> <small>(1995)</small>
   flag: us
   category: lit
 
-- title: <i>Inverted World</i> (1974)
+- title: <i>Inverted World</i> <small>(1974)</small>
   flag: gb
   category: lit
 
-- title: <i>Jennifer Government</i> (2003)
+- title: <i>Jennifer Government</i> <small>(2003)</small>
   flag: au
   category: lit
 
-- title: <i>Jurassic Park</i> (1990)
+- title: <i>Jurassic Park</i> <small>(1990)</small>
   flag: us
   category: lit
 
-- title: <i>Leviathan</i> (1651)
+- title: <i>Leviathan</i> <small>(1651)</small>
   flag: gb
   category: lit
 
-- title: <i>Lord of the Flies</i> (1954)
+- title: <i>Lord of the Flies</i> <small>(1954)</small>
   flag: gb
   category: lit
 
-- title: <i>Make Room! Make Room!</i> (1966)
+- title: <i>Make Room! Make Room!</i> <small>(1966)</small>
   flag: us
   category: lit
 
-- title: <i>Marvel Zombies</i> (2005–2006)
+- title: <i>Marvel Zombies</i> <small>(2005–2006)</small>
   flag: us
   category: lit
 
-- title: <i>Nineteen Eighty-Four</i> (1949)
+- title: <i>Nineteen Eighty-Four</i> <small>(1949)</small>
   flag: gb
   category: lit
 
-- title: <i>Non-Stop</i> (1958)
+- title: <i>Non-Stop</i> <small>(1958)</small>
   flag: gb
   category: lit
 
-- title: <i>Orphans of the Sky</i> (1963)
+- title: <i>Orphans of the Sky</i> <small>(1963)</small>
   flag: us
   category: lit
 
-- title: <i>Republic</i> (375 BC)
+- title: <i>Republic</i> <small>(375 BC)</small>
   flag: gr
   category: lit
 
@@ -908,19 +908,19 @@
   flag: us
   category: lit
 
-- title: <i>Silent Spring</i> (1962)
+- title: <i>Silent Spring</i> <small>(1962)</small>
   flag: us
   category: lit
 
-- title: <i>Starship Troopers</i> (1959)
+- title: <i>Starship Troopers</i> <small>(1959)</small>
   flag: us
   category: lit
 
-- title: <i>The 100</i> (2013–2016)
+- title: <i>The 100</i> <small>(2013–2016)</small>
   flag: us
   category: lit
 
-- title: <i>The Art of War</i> (5th century BC)
+- title: <i>The Art of War</i> <small>(5th century BC)</small>
   flag: cn
   category: lit
 
@@ -928,19 +928,19 @@
   flag: il
   category: lit
 
-- title: <i>The Children of Men</i> (1992)
+- title: <i>The Children of Men</i> <small>(1992)</small>
   flag: gb
   category: lit
 
-- title: <i>The Circle</i> (2013)
+- title: <i>The Circle</i> <small>(2013)</small>
   flag: us
   category: lit
 
-- title: <i>The Communist Manifesto</i> (1850)
+- title: <i>The Communist Manifesto</i> <small>(1850)</small>
   flag: de
   category: lit
 
-- title: <i>The Edict</i> (1971)
+- title: <i>The Edict</i> <small>(1971)</small>
   flag: us
   category: lit
 
@@ -948,7 +948,7 @@
   flag: cn
   category: lit
 
-- title: <i>The Girl with All the Gifts</i> (2014)
+- title: <i>The Girl with All the Gifts</i> <small>(2014)</small>
   flag: gb
   category: lit
 
@@ -956,27 +956,27 @@
   flag: gb
   category: lit
 
-- title: <i>The Lord of the Rings</i> (1954–1955)
+- title: <i>The Lord of the Rings</i> <small>(1954–1955)</small>
   flag: gb
   category: lit
 
-- title: <i>The Metamorphosis</i> (1915)
+- title: <i>The Metamorphosis</i> <small>(1915)</small>
   flag: cz
   category: lit
 
-- title: <i>The Mist</i> (1980)
+- title: <i>The Mist</i> <small>(1980)</small>
   flag: us
   category: lit
 
-- title: <i>The Mosquito Coast</i> (1981)
+- title: <i>The Mosquito Coast</i> <small>(1981)</small>
   flag: us
   category: lit
 
-- title: <i>The Mouse That Roared</i> (1955)
+- title: <i>The Mouse That Roared</i> <small>(1955)</small>
   flag: us
   category: lit
 
-- title: <i>The Population Bomb</i> (1968)
+- title: <i>The Population Bomb</i> <small>(1968)</small>
   flag: us
   category: lit
 
@@ -984,51 +984,51 @@
   flag: sa
   category: lit
 
-- title: <i>The Road</i> (2006)
+- title: <i>The Road</i> <small>(2006)</small>
   flag: us
   category: lit
 
-- title: <i>The Shape of Things to Come</i> (1933)
+- title: <i>The Shape of Things to Come</i> <small>(1933)</small>
   flag: gb
   category: lit
 
-- title: <i>The Time Machine</i> (1895)
+- title: <i>The Time Machine</i> <small>(1895)</small>
   flag: gb
   category: lit
 
-- title: <i>The Trial</i> (1925)
+- title: <i>The Trial</i> <small>(1925)</small>
   flag: cz
   category: lit
 
-- title: <i>The War of the Worlds</i> (1897)
+- title: <i>The War of the Worlds</i> <small>(1897)</small>
   flag: gb
   category: lit
 
-- title: "<i>The World of Kong: A Natural History of Skull Island</i> (2005)"
+- title: "<i>The World of Kong: A Natural History of Skull Island</i> <small>(2005)</small>"
   flag: nz
   category: lit
 
-- title: <i>The Zombie Survival Guide</i> (2003)
+- title: <i>The Zombie Survival Guide</i> <small>(2003)</small>
   flag: us
   category: lit
 
-- title: <i>To Kill a Mockingbird</i> (1960)
+- title: <i>To Kill a Mockingbird</i> <small>(1960)</small>
   flag: us
   category: lit
 
-- title: <i>Twenty Thousand Leagues Under the Seas</i> (1872)
+- title: <i>Twenty Thousand Leagues Under the Seas</i> <small>(1872)</small>
   flag: fr
   category: lit
 
-- title: <i>V for Vendetta</i> (1982–1989)
+- title: <i>V for Vendetta</i> <small>(1982–1989)</small>
   flag: gb
   category: lit
 
-- title: <i>We</i> (1924)
+- title: <i>We</i> <small>(1924)</small>
   flag: ru
   category: lit
 
-- title: <i>Who Goes There?</i> (1938)
+- title: <i>Who Goes There?</i> <small>(1938)</small>
   flag: us
   category: lit
 
@@ -1050,11 +1050,11 @@
   flag: bt
   category: places
 
-- title: Burkina Faso (1980s)
+- title: Burkina Faso <small>(1980s)</small>
   flag: bf
   category: places
 
-- title: Chile (1970s–1980s)
+- title: Chile <small>(1970s–1980s)</small>
   flag: cl
   category: places
 
@@ -1078,7 +1078,7 @@
   flag: ca
   category: places
 
-- title: Germany (1910s–1940s)
+- title: Germany <small>(1910s–1940s)</small>
   flag: de
   category: places
 
@@ -1098,7 +1098,7 @@
   flag: pk
   category: places
 
-- title: Iran (1950s–1970s)
+- title: Iran <small>(1950s–1970s)</small>
   flag: ir
   category: places
 
@@ -1106,11 +1106,11 @@
   flag: us
   category: places
 
-- title: Libya (1960s–2010s)
+- title: Libya <small>(1960s–2010s)</small>
   flag: ly
   category: places
 
-- title: McDonald’s restaurants, Ontario (1990s–2000s)
+- title: McDonald’s restaurants, Ontario <small>(1990s–2000s)</small>
   flag: ca
   category: places
 
@@ -1130,7 +1130,7 @@
   flag: np
   category: places
 
-- title: Paramount Canada’s Wonderland (1993–2006)
+- title: Paramount Canada’s Wonderland <small>(1993–2006)</small>
   flag: ca
   category: places
 
@@ -1138,7 +1138,7 @@
   flag: pe
   category: places
 
-- title: Philippines (1960s–1980s)
+- title: Philippines <small>(1960s–1980s)</small>
   flag: ph
   category: places
 
@@ -1146,7 +1146,7 @@
   flag: zw
   category: places
 
-- title: Russia (1910s–1950s)
+- title: Russia <small>(1910s–1950s)</small>
   flag: ru
   category: places
 
@@ -1162,11 +1162,11 @@
   flag: za
   category: places
 
-- title: South Korea (1960s–1970s)
+- title: South Korea <small>(1960s–1970s)</small>
   flag: kr
   category: places
 
-- title: Syria (2000s–2010s)
+- title: Syria <small>(2000s–2010s)</small>
   flag: sy
   category: places
 
@@ -1186,7 +1186,7 @@
   flag: de
   category: places
 
-- title: Turkey (1920s–1930s)
+- title: Turkey <small>(1920s–1930s)</small>
   flag: tr
   category: places
 
@@ -1194,7 +1194,7 @@
   flag: ca
   category: places
 
-- title: Walt Disney World (1970s–2000s)
+- title: Walt Disney World <small>(1970s–2000s)</small>
   flag: us
   category: places
 
@@ -1204,31 +1204,31 @@
 
 # Televison
 
-- title: <i>Beavis and Butt-Head</i> (1993–1997)
+- title: <i>Beavis and Butt-Head</i> <small>(1993–1997)</small>
   flag: us
   category: tv
 
-- title: <i>Black Mirror</i> (2011–2017)
+- title: <i>Black Mirror</i> <small>(2011–2017)</small>
   flag: gb
   category: tv
 
-- title: <i>Daybreak</i> (2019)
+- title: <i>Daybreak</i> <small>(2019)</small>
   flag: us
   category: tv
 
-- title: <i>Dead Set</i> (2008)
+- title: <i>Dead Set</i> <small>(2008)</small>
   flag: gb
   category: tv
 
-- title: <i>Doctor Who</i> (2005–2010)
+- title: <i>Doctor Who</i> <small>(2005–2010)</small>
   flag: gb
   category: tv
 
-- title: <i>Futurama</i> (2008–2013)
+- title: <i>Futurama</i> <small>(2008–2013)</small>
   flag: us
   category: tv
 
-- title: <i>Kingdom</i> (2019–2020)
+- title: <i>Kingdom</i> <small>(2019–2020)</small>
   flag: kr
   category: tv
 
@@ -1236,43 +1236,43 @@
   flag: us
   category: tv
 
-- title: <i>Squid Game</i> (2021)
+- title: <i>Squid Game</i> <small>(2021)</small>
   flag: kr
   category: tv
 
-- title: "<i>Star Trek: The Next Generation</i> (1987–1994)"
+- title: "<i>Star Trek: The Next Generation</i> <small>(1987–1994)</small>"
   flag: us
   category: tv
 
-- title: <i>Survivor</i> (2000s)
+- title: <i>Survivor</i> <small>(2000s)</small>
   flag: us
   category: tv
 
-- title: <i>The 100</i> (2014–2020)
+- title: <i>The 100</i> <small>(2014–2020)</small>
   flag: us
   category: tv
 
-- title: <i>The Last of Us</i> (2023)
+- title: <i>The Last of Us</i> <small>(2023)</small>
   flag: us
   category: tv
 
-- title: <i>The Magic School Bus</i> (1994–1997)
+- title: <i>The Magic School Bus</i> <small>(1994–1997)</small>
   flag: us
   category: tv
 
-- title: <i>The Simpsons</i> (1989–1999)
+- title: <i>The Simpsons</i> <small>(1989–1999)</small>
   flag: us
   category: tv
 
-- title: <i>The Twilight Zone</i> (1959–2003)
+- title: <i>The Twilight Zone</i> <small>(1959–2003)</small>
   flag: us
   category: tv
 
-- title: <i>The Walking Dead</i> (2010–2021)
+- title: <i>The Walking Dead</i> <small>(2010–2021)</small>
   flag: us
   category: tv
 
-- title: <i>Wipeout</i> (2008–2014)
+- title: <i>Wipeout</i> <small>(2008–2014)</small>
   flag: us
   category: tv
 
