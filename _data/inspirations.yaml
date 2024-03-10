@@ -96,6 +96,10 @@
   flag: nz
   category: films
 
+- title: "<i>Dead Space: Downfall</i> <small>(2008)</small>"
+  flag: us
+  category: films
+
 - title: <i>Death Race 2000</i> <small>(1975)</small>
   flag: us
   category: films
@@ -116,12 +120,20 @@
   flag: us
   category: films
 
+- title: <i>Dr. Strangelove</i> <small>(1964)</small>
+  flag: gb
+  category: films
+
 - title: <i>Dredd</i> <small>(2012)</small>
   flag: gb
   category: films
 
 - title: <i>Edge of Tomorrow</i> <small>(2014)</small>
   flag: us
+  category: films
+
+- title: <i>Empire of Dust</i> <small>(2011)</small>
+  flag: be
   category: films
 
 - title: <i>Escape from New York</i> & <i>Escape from L.A.</i> <small>(1981, 1996)</small>
@@ -260,6 +272,10 @@
   flag: us
   category: films
 
+- title: <i>Rollerball</i> <small>(1975)</small>
+  flag: us
+  category: films
+
 - title: <i>Scarface</i> <small>(1983)</small>
   flag: us
   category: films
@@ -338,6 +354,10 @@
 
 - title: <i>The Descent</i> <small>(2005)</small>
   flag: gb
+  category: films
+
+- title: <i>The Hindenburg</i> <small>(1975)</small>
+  flag: us
   category: films
 
 - title: <i>The Fifth Element</i> <small>(1997)</small>
@@ -448,6 +468,10 @@
   flag: us
   category: films
 
+- title: <i>Triumph of the Will</i> <small>(1935)</small>
+  flag: de
+  category: films
+
 - title: <i>Underwater</i> <small>(2020)</small>
   flag: us
   category: films
@@ -522,7 +546,7 @@
   flag: jp
   category: games
 
-- title: <i>Dead Space</i> <small>(2008)</small>
+- title: "<i>Dead Space</i>, <i>Dead Space: Extraction</i>, & <i>Dead Space 2</i> <small>(2008, 2009, 2011)</small>"
   flag: us
   category: games
 
@@ -546,7 +570,7 @@
   flag: us
   category: games
 
-- title: Fallout <small>(1997–2015)</small>
+- title: <i>Fallout</i> <small>(1997–2015)</small>
   flag: us
   category: games
 

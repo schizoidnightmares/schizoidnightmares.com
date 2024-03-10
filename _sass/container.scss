@@ -15,7 +15,7 @@
         a, a:active, a:visited {
             text-decoration: none;
             &[target="_blank"]::after { content: none; }
-            &[href]:where([href^="https"])::after { content: none; }
+            &[href]:where([href^="http"])::after { content: none; }
         }
         ul {
             display: flex;

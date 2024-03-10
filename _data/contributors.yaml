@@ -45,6 +45,12 @@
   usage: Online articles on airships
   notes: Free reference
 
+- title: David Merfield
+  flag: us
+  url: https://lllllllllllllllll.com/
+  usage: <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a> (derived)
+  notes: Licensed under <a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>
+
 - title: ElevenLabs
   flag: us
   url: https://elevenlabs.io/
@@ -74,6 +80,12 @@
   url: https://www.apple.com/mac/garageband/
   usage: Music production
   notes: Free software
+
+- title: Gideon Greenspan
+  flag: il
+  url: https://www.gidgreen.com/
+  usage: <a href="https://familyecho.com/" target="_blank">Family Echo</a>
+  notes: Free service
 
 - title: GIMP
   flag: us
@@ -105,6 +117,18 @@
   usage: Constructive feedback for <i>Schizoid Nightmares Anthology I</i>
   notes: Unpaid contributor
   direct: true
+
+- title: Hayk An
+  flag: es
+  url: https://github.com/hihayk
+  usage: <a href="https://hihayk.github.io/scale/" target="_blank">Scale</a>
+  notes: Free tool
+
+- title: hcodes
+  flag: ru
+  url: https://github.com/hcodes
+  usage: <a href="https://github.com/fast-average-color/fast-average-color" target="_blank">fast-average-color</a>
+  notes: Licensed under the <a href="https://github.com/fast-average-color/fast-average-color/blob/master/LICENSE" target="_blank">MIT License</a>
 
 - title: iMovie
   flag: us

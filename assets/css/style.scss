@@ -55,7 +55,7 @@ h1, h2, h3, h4, h5, h6 {
     a, a:active, a:visited {
         text-decoration: none;
         &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="https"])::after { content: none; }
+        &[href]:where([href^="http"])::after { content: none; }
     }
 }
 h1 {
@@ -82,7 +82,7 @@ a, a:active, a:visited {
     // internal _blank
     &[target="_blank"]::after { content: ' ❐'; }
     // external link
-    &[href]:where([href^="https"])::after { content: ' ⧉'; }
+    &[href]:where([href^="http"])::after { content: ' ⧉'; }
 }
 a:hover { color: $color-primary; }
 
@@ -139,7 +139,7 @@ code { white-space: nowrap; }
     a, a:active, a:visited {
         text-decoration: none;
         &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="https"])::after { content: none; }
+        &[href]:where([href^="http"])::after { content: none; }
     }
     ~ h1 { margin-top: 1rem; }
 }
@@ -208,7 +208,7 @@ code { white-space: nowrap; }
     font-size: 1.5rem;
     margin: .2rem 0;
     span {
-        border: .1rem solid $color-border;
+        background: $color-primary;
         display: inline-block;
         cursor: default;
     }
@@ -233,7 +233,7 @@ code { white-space: nowrap; }
     a, a:active, a:visited {
         text-decoration: none;
         &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="https"])::after { content: none; }
+        &[href]:where([href^="http"])::after { content: none; }
     }
     a:hover img { opacity: .75; }
     img {
@@ -260,7 +260,7 @@ code { white-space: nowrap; }
             a, a:active, a:visited {
                 text-decoration: none;
                 &[target="_blank"]::after { content: none; }
-                &[href]:where([href^="https"])::after { content: none; }
+                &[href]:where([href^="http"])::after { content: none; }
             }
         }
     }
@@ -277,7 +277,7 @@ code { white-space: nowrap; }
         a, a:active, a:visited {
             text-decoration: none;
             &[target="_blank"]::after { content: none; }
-            &[href]:where([href^="https"])::after { content: none; }
+            &[href]:where([href^="http"])::after { content: none; }
         }
     }
     &.option {
@@ -285,7 +285,7 @@ code { white-space: nowrap; }
         width: fit-content;
         text-decoration: none;
         &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="https"])::after { content: none; }
+        &[href]:where([href^="http"])::after { content: none; }
         &:hover img { opacity: .75; }
         p { margin: 0; }
         img, &.cropped img {
