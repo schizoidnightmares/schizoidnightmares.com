@@ -12,7 +12,7 @@ style: post
     {% else %}
     <h1> {{ page.title }}</h1>
     {% endif %}
-    <p class="date">{{ page.date | date: '%B %e, %Y' }}</p>
+    <p class="cap">{{ page.date | date: '%B %e, %Y' }}</p>
     {% if page.src %}
     <img src="{{ page.src }}" alt="{{ page.alt }}">
     {% if page.caption %}<div class="caption"><p>{{ page.caption }}</p></div>{% endif %}

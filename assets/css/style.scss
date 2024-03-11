@@ -47,16 +47,18 @@ body {
     line-height: 1.6;
 }
 
-h1, h2, h3, h4, h5, h6 {
-    font-family: Lora, serif;
-    letter-spacing: .02rem;
-    margin: 1.5rem 0 1rem 0;
-    + p { margin-top: 1rem; }
+h1, h2, h3, h4, h5, h6, p.cap, .gallery, .feature div div, .pagenav {
     a, a:active, a:visited {
         text-decoration: none;
         &[target="_blank"]::after { content: none; }
         &[href]:where([href^="http"])::after { content: none; }
     }
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: Lora, serif;
+    letter-spacing: .02rem;
+    margin: 1.5rem 0 1rem 0;
+    + p { margin-top: 1rem; }
 }
 h1 {
     font-size: 3.2rem;
@@ -71,7 +73,15 @@ h6 {
     font-weight: normal;
 }
 
-p { margin: 1.5rem 0; }
+p { 
+    margin: 1.5rem 0; 
+    // heading captions
+    &.cap { 
+        margin-top: -1rem;
+        color: $color-secondary;
+        font-size: 1.5rem;
+    }
+}
 
 sup { line-height: 0; }
 
@@ -136,11 +146,6 @@ code { white-space: nowrap; }
     margin-top: 1.5rem;
     &:last-child { margin-top: 2rem; }
     p { margin: 0; }
-    a, a:active, a:visited {
-        text-decoration: none;
-        &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="http"])::after { content: none; }
-    }
     ~ h1 { margin-top: 1rem; }
 }
 .return, .advance { cursor: default; }
@@ -230,11 +235,6 @@ code { white-space: nowrap; }
         max-width: 150px;
         margin: .5rem;
     }
-    a, a:active, a:visited {
-        text-decoration: none;
-        &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="http"])::after { content: none; }
-    }
     a:hover img { opacity: .75; }
     img {
         max-height: 150px;
@@ -250,20 +250,10 @@ code { white-space: nowrap; }
     display: flex;
     align-items: center;
     margin: 1.5rem 0;
-    h2 { margin: .5rem 0 .1rem 0; }
-    p {
-        margin: .5rem 0 1rem 0;
-        &.date {
-            margin-top: .1rem;
-            color: $color-secondary;
-            font-size: 1.5rem;
-            a, a:active, a:visited {
-                text-decoration: none;
-                &[target="_blank"]::after { content: none; }
-                &[href]:where([href^="http"])::after { content: none; }
-            }
-        }
+    h2 { margin-top: .5rem;
+        + p:not(.cap) { margin-top: -.5rem; }
     }
+    p:not(.cap) { margin: .5rem 0 1rem 0; }
     img { 
         margin-right: 2.5rem;
         width: 125px;
@@ -274,11 +264,6 @@ code { white-space: nowrap; }
         justify-content: right;
         color: $color-secondary;
         margin-top: 2rem;
-        a, a:active, a:visited {
-            text-decoration: none;
-            &[target="_blank"]::after { content: none; }
-            &[href]:where([href^="http"])::after { content: none; }
-        }
     }
     &.option {
         margin: 1rem 0;

@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: March 10, 2024
+last_modified_at: March 11, 2024
 layout: header
 header: header_blur.jpg
 header-title: Schizoid Nightmares
@@ -13,6 +13,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
     <img src="/assets/images/ar_icon_small.png">
     <div>
         <h2><i><a href="https://absurdrealms.com/" target="_blank">Absurd Realms</a></i></h2>
+        <p class="cap">2023–present</p>
         <p>An absurdist science fantasy series</p>
         <div><a href="https://absurdrealms.com/" target="_blank">visit website</a></div>
     </div>
@@ -31,6 +32,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
     <img src="/assets/images/note_small.png">
     <div>
         <h2><a href="/music/">Music</a></h2>
+        <p class="cap">2020–present</p>
         <p>A free collection of amateur electronic music</p>
         <div><a href="/music/">browse music</a></div>
     </div>
@@ -40,6 +42,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
     <img src="/assets/images/snf_icon_small.png">
     <div>
         <h2><a href="https://schizoidnightmares.net/" target="_blank">Schizoid Nightmares Forums</a></h2>
+        <p class="cap">2023–present</p>
         <p>A public forums for feedback and discussion</p>
         <div><a href="https://schizoidnightmares.net/" target="_blank">visit forums</a></div>
     </div>

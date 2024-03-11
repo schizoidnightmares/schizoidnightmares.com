@@ -22,7 +22,7 @@ style: news
         {% endif %}
         <div>
             <h2 ><a href="{{ post.url }}">{% if post.custom-title %}{{ post.custom-title }}{% else %}{{ post.title }}{% endif %}</a></h2>
-            <p class="date">{{ post.date | date: '%B %e, %Y' }}</p>
+            <p class="cap">{{ post.date | date: '%B %e, %Y' }}</p>
             {{ post.excerpt }}
             {% if post.content.size > post.excerpt.size %}<div><a href="{{ post.url }}">read more</a></div>{% endif %}
         </div>
