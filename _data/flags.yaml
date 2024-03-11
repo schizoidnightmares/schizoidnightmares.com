@@ -34,6 +34,9 @@
 - title: dk
   country: Denmark
 
+- title: eg
+  country: Egypt
+
 - title: es
   country: Spain
 
@@ -54,6 +57,9 @@
 
 - title: il
   country: Israel
+
+- title: iq
+  country: Iraq
 
 - title: ir
   country: Iran

@@ -734,6 +734,10 @@
   flag: gb
   category: games
 
+- title: <i>Stellaris</i> <small>(2016)</small>
+  flag: se
+  category: games
+
 - title: <i>Stubbs the Zombie in Rebel Without a Pulse</i> <small>(2005)</small>
   flag: us
   category: games
@@ -1066,6 +1070,10 @@
   flag: cn
   category: places
 
+- title: Ancient Egypt
+  flag: eg
+  category: places
+
 - title: Ancient Rome
   flag: it
   category: places
@@ -1188,6 +1196,10 @@
 
 - title: South Korea <small>(1960s–1970s)</small>
   flag: kr
+  category: places
+
+- title: Sumer
+  flag: iq
   category: places
 
 - title: Syria <small>(2000s–2010s)</small>
