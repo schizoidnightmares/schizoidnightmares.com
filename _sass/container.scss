@@ -14,9 +14,9 @@
     text-transform: lowercase;
     a, a:active, a:visited {
       text-decoration: none;
-        &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="http"])::after { content: none; }
-      }
+      &[target="_blank"]::after { content: none; }
+      &[href]:where([href^="http"])::after { content: none; }
+    }
     ul {
       align-items: center;
       display: flex;
@@ -36,15 +36,15 @@
     margin: 2rem 0;
     .header {
       display: grid;
-      grid-area: 1 / 2 / 2 / 3; 
+      grid-area: 1 / 2 / 2 / 3;
       grid-template-columns: auto 1fr;
       grid-template-rows: auto;
-      .icon { 
+      .icon {
         grid-area: 1 / 1 / 2 / 2;
         a:hover { opacity: .75; }
-        img { 
+        img {
           display: block;
-          height: 5.0rem;
+          height: 5rem;
         }
       }
     }
@@ -69,7 +69,7 @@
     .footer {
       display: grid;
       grid-area: 1 / 2 / 2 / 3;
-      grid-template-columns: auto; 
+      grid-template-columns: auto;
       grid-template-rows: auto;
       .info { grid-area: 1 / 1 / 2 / 2; }
       .nav { justify-content: right; }

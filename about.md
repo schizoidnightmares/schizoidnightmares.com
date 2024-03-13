@@ -13,6 +13,7 @@ I am a man of English Canadian descent, born, raised, and presently residing in 
 If you have any questions or feedback, be sure to <a href="https://tally.so/r/mOaDRp" target="_blank">contact me</a>.
 
 ## Profiles
+
 - <a href="https://archiveofourown.org/users/schizoidnightmares/" target="_blank">Archive of Our Own</a>
 - <a href="https://schizoidnightmares.bandcamp.com/" target="_blank">Bandcamp</a>
 - <a href="https://belletristica.com/en/users/5706-schizoid-nightmares" target="_blank">Belletristica</a>

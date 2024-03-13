@@ -2,7 +2,7 @@
 title: News
 description: The latest news
 layout: news
-pagination: 
+pagination:
     enabled: true
     category: news
 ---

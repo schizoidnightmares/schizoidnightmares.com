@@ -29,6 +29,14 @@ engines:
         enabled: false
       nesting-depth:
         enabled: false
+      no-important:
+        enabled: false
+      no-misspelled-properties:
+        - 1
+        - 
+          'extra-properties':
+            - 'row-gap'
+            - 'text-underline-offset'
       no-qualifying-elements:
         enabled: false
       quotes:

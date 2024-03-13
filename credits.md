@@ -8,15 +8,15 @@ last_modified_at: March 11, 2024
 This page acknowledges the sources that help(ed) make my work possible.
 
 - [Contributors](#contributors) (/52)
-    - [Direct](#direct) (2)
-    - [Indirect](#indirect) (50)
+  - [Direct](#direct) (2)
+  - [Indirect](#indirect) (50)
 - [Inspirations](#inspirations) (/331)
-    - [Films](#films) (125)
-    - [Games](#games) (67)
-    - [Literature](#literature) (72)
-    - [Places](#places) (44)
-    - [Television](#television) (18)
-    - [Websites](#websites) (5)
+  - [Films](#films) (125)
+  - [Games](#games) (67)
+  - [Literature](#literature) (72)
+  - [Places](#places) (44)
+  - [Television](#television) (18)
+  - [Websites](#websites) (5)
 - [Origins](#origins) (49)
 {: .toc .cols2}
 
