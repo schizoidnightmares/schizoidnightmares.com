@@ -10,8 +10,8 @@
   src: url(../fonts/Lora-VariableFont_wght.ttf);
 }
 @font-face {
-  font-family: Lora;
   font-display: swap;
+  font-family: Lora;
   font-style: italic;
   src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
 }
@@ -41,8 +41,8 @@ html { background: $color-bg; }
 
 body {
   color: $color-primary;
-  font-size: 1.8rem;
   font-family: 'Open Sans', sans-serif;
+  font-size: 1.8rem;
   line-height: 1.6;
   margin: 0;
 }
@@ -73,13 +73,13 @@ h6 {
   font-weight: normal;
 }
 
-p { 
-  margin: 1.5rem 0; 
+p {
+  margin: 1.5rem 0;
   // heading captions
-  &.cap { 
-    margin-top: -1rem;
+  &.cap {
     color: $color-secondary;
     font-size: 1.5rem;
+    margin-top: -1rem;
   }
 }
 
@@ -103,7 +103,7 @@ code { white-space: nowrap; }
 
 .flag { display: inline; }
 
-.table { 
+.table {
   margin: 1.5rem auto;
   overflow-x: auto;
   table {
@@ -112,11 +112,11 @@ code { white-space: nowrap; }
     text-align: left;
     th { background-color: $color-shade; }
     &.full { width: 100%; }
-    &.borders { 
+    &.borders {
       th, td {
         border: .1rem solid $color-border;
         padding: 1rem;
-        } 
+      } 
     }
     &.small {
       font-size: 1.5rem;
@@ -177,7 +177,7 @@ code { white-space: nowrap; }
 }
 
 // three-column lists
-.cols3 { 
+.cols3 {
   column-count: 3;
   font-size: 1.3rem;
   .flag { height: 1rem; }
@@ -203,8 +203,8 @@ code { white-space: nowrap; }
   flex-wrap: wrap;
   row-gap: 1rem;
   .feature.option {
-    width: 16rem;
     margin: 0;
+    width: 16rem;
   }
 }
 
@@ -241,7 +241,7 @@ code { white-space: nowrap; }
     max-height: 150px;
     max-width: 150px;
   }
-  p { 
+  p {
     margin: .1rem 0;
     a { white-space: normal; }
   }
@@ -254,7 +254,7 @@ code { white-space: nowrap; }
   h2 { margin-top: .5rem;
     + p:not(.cap) { margin-top: -.5rem; }
   }
-  p:not(.cap) { margin: .5rem 0 1rem 0; }
+  p:not(.cap) { margin: .5rem 0 1rem; }
   img {
     margin-right: 2.5rem;
     width: 125px;
