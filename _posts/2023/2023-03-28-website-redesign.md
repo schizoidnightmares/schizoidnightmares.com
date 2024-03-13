@@ -18,17 +18,17 @@ My website redesign should be responsive on your device, but you're welcome to <
 I exclusively use a dark theme for my website and prefer it if possible for all my branding. For choosing the right colour scheme, I utilized Google's <a href="https://m3.material.io/" target="_blank">Material Design 3</a>, their <a href="https://www.figma.com/community/plugin/1034969338659738588/Material-Theme-Builder" target="_blank">Material Theme Builder</a> on Figma in particular.
 
 <div class="table" markdown=0>
-    <table style="font-family: monospace">
-        <tr><td>{% include color.html color="#eff1f1" %} #eff1f1 — Neutral-Variant95</td></tr>
-        <tr><td>{% include color.html color="#e1e3e3" %} #e1e3e3 — Neutral-Variant90</td></tr>
-        <tr><td>{% include color.html color="#c4c7c7" %} #c4c7c7 — Neutral-Variant80</td></tr>
-        <tr><td>{% include color.html color="#a9acac" %} #a9acac — Neutral-Variant70</td></tr>
-        <tr><td>{% include color.html color="#8e9192" %} #8e9192 — Neutral-Variant60</td></tr>
-        <tr><td>{% include color.html color="#747878" %} #747878 — Neutral-Variant50</td></tr>
-        <tr><td>{% include color.html color="#5c5f5f" %} #5c5f5f — Neutral-Variant40</td></tr>
-        <tr><td>{% include color.html color="#2e3132" %} #2e3132 — Neutral-Variant20</td></tr>
-        <tr><td>{% include color.html color="#191c1d" %} #191c1d — Neutral-Variant10</td></tr>
-    </table>
+  <table style="font-family: monospace">
+    <tr><td>{% include color.html color="#eff1f1" %} #eff1f1 — Neutral-Variant95</td></tr>
+    <tr><td>{% include color.html color="#e1e3e3" %} #e1e3e3 — Neutral-Variant90</td></tr>
+    <tr><td>{% include color.html color="#c4c7c7" %} #c4c7c7 — Neutral-Variant80</td></tr>
+    <tr><td>{% include color.html color="#a9acac" %} #a9acac — Neutral-Variant70</td></tr>
+    <tr><td>{% include color.html color="#8e9192" %} #8e9192 — Neutral-Variant60</td></tr>
+    <tr><td>{% include color.html color="#747878" %} #747878 — Neutral-Variant50</td></tr>
+    <tr><td>{% include color.html color="#5c5f5f" %} #5c5f5f — Neutral-Variant40</td></tr>
+    <tr><td>{% include color.html color="#2e3132" %} #2e3132 — Neutral-Variant20</td></tr>
+    <tr><td>{% include color.html color="#191c1d" %} #191c1d — Neutral-Variant10</td></tr>
+  </table>
 </div>
 
 As of the time of this post, I only use Neutral-Variant colours. If you select the colour scheme table's text (click and drag), you may notice that all colours except for Neutral-Variant50 have a highlighted background. That is because the highlighted background (appears as ```::selection``` in HTML)[^2] is the same colour as Neutral-Variant50. Highlighted (i.e. selected) text itself appears as Neutral-Variant90.
