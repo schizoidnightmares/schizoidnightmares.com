@@ -3,7 +3,7 @@ engines:
     enabled: true
     checks:
       # first headers should be top-level
-      MD003:
+      MD002:
         enabled: false
       # line length
       MD013:
@@ -17,11 +17,19 @@ engines:
   sass-lint:
     enabled: true
     checks:
+      clean-import-paths:
+        enabled: false
       empty-line-between-blocks:
         enabled: false
-      final-new-line:
+      final-newline:
         enabled: false
       indentation:
         enabled: false
+      nesting-depth:
+        enabled: false
+      no-qualifying-elements:
+        enabled: false
       quotes:
+        enabled: false
+      single-line-per-selector:
         enabled: false
