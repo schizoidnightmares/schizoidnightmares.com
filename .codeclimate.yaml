@@ -1,0 +1,27 @@
+engines:
+  markdownlint:
+    enabled: true
+    checks:
+      # first headers should be top-level
+      MD003:
+        enabled: false
+      # line length
+      MD013:
+        enabled: false
+      # blank lines around headers
+      MD022:
+        enabled: false
+      # inline HTML
+      MD033:
+        enabled: false
+  sass-lint:
+    enabled: true
+    checks:
+      empty-line-between-blocks:
+        enabled: false
+      final-new-line:
+        enabled: false
+      indentation:
+        enabled: false
+      quotes:
+        enabled: false
