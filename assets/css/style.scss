@@ -5,94 +5,94 @@
 
 // Lora font face
 @font-face {
-    font-family: Lora;
-    src: url(../fonts/Lora-VariableFont_wght.ttf);
-    font-display: swap;
+  font-display: swap;
+  font-family: Lora;
+  src: url(../fonts/Lora-VariableFont_wght.ttf);
 }
 @font-face {
-    font-family: Lora;
-    src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
-    font-style: italic;
-    font-display: swap;
+  font-family: Lora;
+  font-display: swap;
+  font-style: italic;
+  src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
 }
 
 // Open Sans font face
 @font-face {
-    font-family: 'Open Sans';
-    src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
-    font-display: swap;
+  font-display: swap;
+  font-family: 'Open Sans';
+  src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
 }
 @font-face {
-    font-family: 'Open Sans';
-    src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
-    font-style: italic;
-    font-display: swap;
+  font-display: swap;
+  font-family: 'Open Sans';
+  font-style: italic;
+  src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
 }
 
 // sets font size to 10px default, useful with rem values
 :root { font-size: 62.5%; }
 
 ::selection {
-    background: $color-highlight-bg;
-    color: $color-highlight;
+  background: $color-highlight-bg;
+  color: $color-highlight;
 }
 
 html { background: $color-bg; }
 
 body {
-    color: $color-primary;
-    font-size: 1.8rem;
-    font-family: 'Open Sans', sans-serif;
-    margin: 0;
-    line-height: 1.6;
+  color: $color-primary;
+  font-size: 1.8rem;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 1.6;
+  margin: 0;
 }
 
 h1, h2, h3, h4, h5, h6, p.cap, .gallery, .feature div div, .pagenav, sup, .toc {
-    a, a:active, a:visited {
-        text-decoration: none;
-        &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="http"])::after { content: none; }
-    }
+  a, a:active, a:visited {
+    text-decoration: none;
+    &[target="_blank"]::after { content: none; }
+    &[href]:where([href^="http"])::after { content: none; }
+  }
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: Lora, serif;
-    letter-spacing: .02rem;
-    margin: 1.5rem 0 1rem 0;
-    + p { margin-top: 1rem; }
+  font-family: Lora, serif;
+  letter-spacing: .02rem;
+  margin: 1.5rem 0 1rem;
+  + p { margin-top: 1rem; }
 }
 h1 {
-    font-size: 3.2rem;
-    ~ .pagenav { margin-bottom: 1.5rem; }
+  font-size: 3.2rem;
+  ~ .pagenav { margin-bottom: 1.5rem; }
 }
 h2 { font-size: 2.4rem; }
 h3 { font-size: 2.1rem; }
 h4 { font-size: 1.9rem; }
 h5 { font-size: 1.8rem; }
 h6 {
-    font-size: 1.8rem;
-    font-weight: normal;
+  font-size: 1.8rem;
+  font-weight: normal;
 }
 
 p { 
-    margin: 1.5rem 0; 
-    // heading captions
-    &.cap { 
-        margin-top: -1rem;
-        color: $color-secondary;
-        font-size: 1.5rem;
-    }
+  margin: 1.5rem 0; 
+  // heading captions
+  &.cap { 
+    margin-top: -1rem;
+    color: $color-secondary;
+    font-size: 1.5rem;
+  }
 }
 
 sup { line-height: 0; }
 
 a, a:active, a:visited {
-    color: $color-link;
-    text-decoration: $color-primary underline 8%;
-    text-underline-offset: 8%;
-    // internal _blank
-    &[target="_blank"]::after { content: ' ❐'; }
-    // external link
-    &[href]:where([href^="http"])::after { content: ' ⧉'; }
+  color: $color-link;
+  text-decoration: $color-primary underline 8%;
+  text-underline-offset: 8%;
+  // internal _blank
+  &[target="_blank"]::after { content: ' ❐'; }
+  // external link
+  &[href]:where([href^="http"])::after { content: ' ⧉'; }
 }
 a:hover { color: $color-primary; }
 
@@ -104,66 +104,66 @@ code { white-space: nowrap; }
 .flag { display: inline; }
 
 .table { 
-    overflow-x: auto;
-    margin: 1.5rem auto;
-    table { 
-        margin: 0 auto;
-        text-align: left;
-        border-collapse: collapse;
-        th { background-color: $color-shade; }
-        &.full { width: 100%; }
-        &.borders { 
-            th, td {
-                border: .1rem solid $color-border;
-                padding: 1rem;
-            } 
-        }
-        &.small {
-            font-size: 1.5rem;
-            .flag { height: 1.1rem; }
-        }
-        &.smaller {
-            font-size: 1.3rem;
-            .flag { height: 1rem; }
-        }
-        &.smallest {
-            font-size: 1.2rem;
-            .flag { height: .9rem; }
-        }
+  margin: 1.5rem auto;
+  overflow-x: auto;
+  table {
+    border-collapse: collapse;
+    margin: 0 auto;
+    text-align: left;
+    th { background-color: $color-shade; }
+    &.full { width: 100%; }
+    &.borders { 
+      th, td {
+        border: .1rem solid $color-border;
+        padding: 1rem;
+        } 
     }
+    &.small {
+      font-size: 1.5rem;
+      .flag { height: 1.1rem; }
+    }
+    &.smaller {
+      font-size: 1.3rem;
+      .flag { height: 1rem; }
+    }
+    &.smallest {
+      font-size: 1.2rem;
+      .flag { height: .9rem; }
+    }
+  }
 }
 
 .footnotes {
-    &::before { content: "Footnotes:"; }
-    clear: both;
-    color: $color-secondary;
-    font-size: 1.3rem;
-    .reversefootnote { text-decoration: none; }
+  clear: both;
+  color: $color-secondary;
+  font-size: 1.3rem;
+  &::before { content: "Footnotes:"; }
+  .reversefootnote { text-decoration: none; }
 }
 
 // Page navigation
 .pagenav {
-    overflow: hidden;
-    margin-top: 1.5rem;
-    &:last-child { margin-top: 2rem; }
-    p { margin: 0; }
-    ~ h1 { margin-top: 1rem; }
+  margin-top: 1.5rem;
+  overflow: hidden;
+  &:last-child { margin-top: 2rem; }
+  p { margin: 0; }
+  ~ h1 { margin-top: 1rem; }
 }
 .return, .advance { cursor: default; }
 .return {
-    float: left;
-    font-size: 1.5rem;
+  float: left;
+  font-size: 1.5rem;
 }
 .advance {
-    float: right;
-    font-size: 1.5rem;
+  float: right;
+  font-size: 1.5rem;
 }
 
 // image captions
 .caption, .caption p {
-    font-size: 1.3rem;
-    color: $color-secondary;
-    text-align: center !important;
+  color: $color-secondary;
+  font-size: 1.3rem;
+  text-align: center !important;
 }
 
 // column lists
@@ -171,125 +171,125 @@ code { white-space: nowrap; }
 
 // two-column lists
 .cols2 {
-    column-count: 2;
-    font-size: 1.5rem;
-    .flag { height: 1.1rem; }
+  column-count: 2;
+  font-size: 1.5rem;
+  .flag { height: 1.1rem; }
 }
 
 // three-column lists
 .cols3 { 
-    column-count: 3;
-    font-size: 1.3rem;
-    .flag { height: 1rem; }
+  column-count: 3;
+  font-size: 1.3rem;
+  .flag { height: 1rem; }
 }
 
 // four-column lists
 .cols4 {
-    column-count: 4;
-    font-size: 1.2rem;
-    .flag { height: .9rem; }
+  column-count: 4;
+  font-size: 1.2rem;
+  .flag { height: .9rem; }
 }
 
 // color boxes
 .color {
-    display: inline-block;
-    border: .1rem solid $color-border;
-    cursor: default;
+  border: .1rem solid $color-border;
+  cursor: default;
+  display: inline-block;
 }
 
 .flexmenu {
-    display: flex;
-    flex-wrap: wrap;
-    column-gap: 1rem;
-    row-gap: 1rem;
-    .feature.option {
-        width: 16rem;
-        margin: 0;
-    }
+  column-gap: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 1rem;
+  .feature.option {
+    width: 16rem;
+    margin: 0;
+  }
 }
 
 // origin statistics for credits
 .origin {
-    width: 75%;
-    font-size: 1.5rem;
-    margin: .2rem 0;
-    span {
-        background: $color-primary;
-        display: inline-block;
-        cursor: default;
-    }
+  font-size: 1.5rem;
+  margin: .2rem 0;
+  width: 75%;
+  span {
+    background: $color-primary;
+    cursor: default;
+    display: inline-block;
+  }
 }
 
 .story p {
-    text-align: justify;
-    hyphens: auto;
-    + p { text-indent: 4rem; }
+  hyphens: auto;
+  text-align: justify;
+  + p { text-indent: 4rem; }
 }
 
 .gallery {
-    margin: 0 auto;
-    display: flex;
-    flex-wrap: wrap;
-    text-align: center;
-    div {
-        width: min-content;
-        max-width: 150px;
-        margin: .5rem;
-    }
-    a:hover img { opacity: .75; }
-    img {
-        max-height: 150px;
-        max-width: 150px;
-    }
-    p { 
-        margin: .1rem 0;
-        a { white-space: normal; }
-    }
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  text-align: center;
+  div {
+    margin: .5rem;
+    max-width: 150px;
+    width: min-content;
+  }
+  a:hover img { opacity: .75; }
+  img {
+    max-height: 150px;
+    max-width: 150px;
+  }
+  p { 
+    margin: .1rem 0;
+    a { white-space: normal; }
+  }
 }
 
 .feature {
+  align-items: center;
+  display: flex;
+  margin: 1.5rem 0;
+  h2 { margin-top: .5rem;
+    + p:not(.cap) { margin-top: -.5rem; }
+  }
+  p:not(.cap) { margin: .5rem 0 1rem 0; }
+  img {
+    margin-right: 2.5rem;
+    width: 125px;
+  }
+  > div { width: 100%; }
+  div div {
+    color: $color-secondary;
     display: flex;
-    align-items: center;
-    margin: 1.5rem 0;
-    h2 { margin-top: .5rem;
-        + p:not(.cap) { margin-top: -.5rem; }
+    justify-content: right;
+    margin-top: 2rem;
+  }
+  &.option {
+    margin: 1rem 0;
+    text-decoration: none;
+    width: fit-content;
+    &[target="_blank"]::after { content: none; }
+    &[href]:where([href^="http"])::after { content: none; }
+    &:hover img { opacity: .75; }
+    p { margin: 0; }
+    img, &.cropped img {
+      height: 50px;
+      margin-right: 1.5rem;
+      width: 50px;
     }
-    p:not(.cap) { margin: .5rem 0 1rem 0; }
-    img { 
-        margin-right: 2.5rem;
-        width: 125px;
+  }
+  &.cropped {
+    img {
+      height: 125px;
+      object-fit: cover;
+      width: 125px;
     }
-    > div { width: 100%; }
-    div div {
-        display: flex;
-        justify-content: right;
-        color: $color-secondary;
-        margin-top: 2rem;
-    }
-    &.option {
-        margin: 1rem 0;
-        width: fit-content;
-        text-decoration: none;
-        &[target="_blank"]::after { content: none; }
-        &[href]:where([href^="http"])::after { content: none; }
-        &:hover img { opacity: .75; }
-        p { margin: 0; }
-        img, &.cropped img {
-            width: 50px;
-            height: 50px;
-            margin-right: 1.5rem;
-        }
-    }
-    &.cropped {
-        img {
-            object-fit: cover;
-            height: 125px;
-            width: 125px;
-        }
-    }
-    &.standout {
-        padding: 2rem 3rem;
-        background: $color-shade;
-        border: .1rem solid $color-border;
-    }
+  }
+  &.standout {
+    background: $color-shade;
+    border: .1rem solid $color-border;
+    padding: 2rem 3rem;
+  }
 }
