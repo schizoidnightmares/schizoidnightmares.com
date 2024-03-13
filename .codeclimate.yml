@@ -23,7 +23,9 @@ engines:
         enabled: false
       final-newline:
         enabled: false
-      indentation:
+      force-element-nesting:
+        enabled: false
+      force-pseudo-nesting:
         enabled: false
       nesting-depth:
         enabled: false
@@ -32,4 +34,6 @@ engines:
       quotes:
         enabled: false
       single-line-per-selector:
+        enabled: false
+      url-quotes:
         enabled: false
