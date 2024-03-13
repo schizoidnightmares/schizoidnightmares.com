@@ -96,6 +96,7 @@ a, a:active, a:visited {
 }
 a:hover { color: $color-primary; }
 
+ul, ol { &.spaced li, &.spaced li ul li, &.spaced li ol li { margin: 1rem 0; } }
 ul, ol { padding-inline-start: 6%; }
 ol ol { list-style-type: lower-alpha; }
 
@@ -163,6 +164,7 @@ code { white-space: nowrap; }
 .caption, .caption p {
   color: $color-secondary;
   font-size: 1.3rem;
+  margin-bottom: 2rem;
   text-align: center !important;
 }
 
@@ -248,10 +250,11 @@ code { white-space: nowrap; }
 }
 
 .feature {
-  align-items: center;
+  align-items: start;
   display: flex;
   margin: 1.5rem 0;
-  h2 { margin-top: .5rem;
+  h2 {
+    margin-top: .5rem;
     + p:not(.cap) { margin-top: -.5rem; }
   }
   p:not(.cap) { margin: .5rem 0 1rem; }
@@ -267,6 +270,7 @@ code { white-space: nowrap; }
     margin-top: 2rem;
   }
   &.option {
+    align-items: center;
     margin: 1rem 0;
     text-decoration: none;
     width: fit-content;
@@ -288,6 +292,7 @@ code { white-space: nowrap; }
     }
   }
   &.standout {
+    align-items: center;
     background: $color-shade;
     border: .1rem solid $color-border;
     padding: 2rem 3rem;

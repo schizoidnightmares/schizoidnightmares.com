@@ -10,6 +10,7 @@ These terms apply to both this website and also <a href="https://absurdrealms.co
 * <a href="/terms/disclaimers/">Disclaimers</a>
 * <a href="/terms/privacy/">Privacy</a>
 * <a href="/terms/patrons/">Patrons</a>
+{: .plainlinks}
 
 ## Licensing
 Unless stated otherwise, the site's contents are available under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>, and its software is under the <a href="https://choosealicense.com/licenses/mit/" target="_blank">MIT License</a>.

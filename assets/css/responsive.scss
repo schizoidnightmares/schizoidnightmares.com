@@ -5,7 +5,9 @@
   td { white-space: normal; }
   .return, .advance { font-size: 1.4rem; }
   .feature {
+    h2 { margin-top: 0; }
     img { width: 100px; }
+    &.option h2 { margin-top: .5rem; }
     &.cropped img { height: 100px; }
   }
   .container {

@@ -20,11 +20,12 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-    <img src="/assets/images/inputium_icon_small.png">
+    <img src="/assets/images/snf_icon_small.png">
     <div>
-        <h2><a href="https://inputium.com/">Inputium</a></h2>
-        <p>A free productivity web app suite</p>
-        <div>TBA</div>
+        <h2><a href="https://schizoidnightmares.net/" target="_blank">Schizoid Nightmares Forums</a></h2>
+        <p class="cap">2023–present</p>
+        <p>A public forums for feedback and discussion</p>
+        <div><a href="https://schizoidnightmares.net/" target="_blank">visit forums</a></div>
     </div>
 </div>
 
@@ -39,11 +40,10 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-    <img src="/assets/images/snf_icon_small.png">
+    <img src="/assets/images/inputium_icon_small.png">
     <div>
-        <h2><a href="https://schizoidnightmares.net/" target="_blank">Schizoid Nightmares Forums</a></h2>
-        <p class="cap">2023–present</p>
-        <p>A public forums for feedback and discussion</p>
-        <div><a href="https://schizoidnightmares.net/" target="_blank">visit forums</a></div>
+        <h2><a href="https://inputium.com/">Inputium</a></h2>
+        <p>A free productivity web app suite</p>
+        <div>TBA</div>
     </div>
 </div>
