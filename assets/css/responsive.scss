@@ -10,7 +10,7 @@
   }
   .container {
     .top, .middle, .bottom {
-      grid-template-columns: auto auto auto
+      grid-template-columns: auto auto auto;
     }
     .top .header {
       font-size: 1.6rem;
