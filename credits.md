@@ -7,9 +7,9 @@ last_modified_at: March 11, 2024
 # Credits
 This page acknowledges the sources that help(ed) make my work possible.
 
-- [Contributors](#contributors) (/52)
+- [Contributors](#contributors) (/53)
   - [Direct](#direct) (2)
-  - [Indirect](#indirect) (50)
+  - [Indirect](#indirect) (51)
 - [Inspirations](#inspirations) (/331)
   - [Films](#films) (125)
   - [Games](#games) (67)
@@ -21,7 +21,7 @@ This page acknowledges the sources that help(ed) make my work possible.
 {: .toc .cols2}
 
 ## Contributors
-52 contributors in total
+53 contributors in total
 {: .cap}
 
 ### Direct
@@ -33,7 +33,7 @@ Below are direct contributors — listed in alphabetical order.
 {% include contributors.html direct=1 %}
 
 ### Indirect
-50 contributors
+51 contributors
 {: .cap}
 
 Below are indirect contributors — listed in alphabetical order.
@@ -88,7 +88,7 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 
 The national origins of all credits
 
-{% include origin.html flag="us" perc="55.5" %}
+{% include origin.html flag="us" perc="55.6" %}
 {% include origin.html flag="gb" perc="12.3" %}
 {% include origin.html flag="ca" perc="5.0" %}
 {% include origin.html flag="de" perc="2.6" %}

@@ -15,6 +15,12 @@
   usage: Host for schizoidnightmares.com and absurdrealms.com
   notes: Freemium service
 
+- title: Code Climate
+  flag: us
+  url: https://codeclimate.com/
+  usage: Code analysis
+  notes: Freemium service
+
 - title: colordesigner.io
   flag: pl
   url: https://colordesigner.io/
