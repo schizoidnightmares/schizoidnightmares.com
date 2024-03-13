@@ -1,12 +1,12 @@
 ---
 title: Website redesign
 description: I finally got around to redesigning my website from the ground up
-last_modified_at: September 26, 2023
+last_modified_at: August 1, 2023
 ---
 
 I finally got around to redesigning my website from the ground up.
 
-**UPDATE 2023-08-01: I have updated my website since this post. Some details may be out of date.**
+**Updated August 1, 2023: I have updated my website since this post. Some details may be out of date.**
 
 I designed my previous website using the drag-and-drop online editor <a href="https://weebly.com/" target="_blank">Weebly</a>, with customized CSS.[^1] After experimenting with different drag-and-drop tools (attracted to their ease of use), I settled on <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> instead. My goal with the redesign is minimalism and user-friendliness. Since Jekyll provides me greater control than Weebly, it serves this goal well.
 
