@@ -47,7 +47,7 @@ body {
   margin: 0;
 }
 
-h1, h2, h3, h4, h5, h6, p.cap, .gallery, .feature div div, .pagenav, sup, .toc {
+h1, h2, h3, h4, h5, h6, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks {
   a, a:active, a:visited {
     text-decoration: none;
     &[target="_blank"]::after { content: none; }

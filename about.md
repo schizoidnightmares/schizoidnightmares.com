@@ -37,7 +37,7 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 - <a href="https://www.wattpad.com/user/schizoidnightmares" target="_blank">Wattpad</a>
 - <a href="https://en.wikipedia.org/wiki/User:SchizoidNightmares" target="_blank">Wikipedia</a>[^4]
 - <a href="https://www.youtube.com/@schizoidnightmares" target="_blank">YouTube</a>
-{: .cols3}
+{: .plainlinks .cols3}
 
 [^2]: My account on the Internet Archive has archives (under "WEB ARCHIVES") of my earlier works.
 [^3]: I use my account on Stack Overflow exclusively for programming-related problem-solving, sometimes entirely unrelated to my works.
