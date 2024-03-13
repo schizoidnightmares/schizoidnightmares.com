@@ -18,7 +18,7 @@ This page acknowledges the sources that help(ed) make my work possible.
     - [Television](#television) (18)
     - [Websites](#websites) (5)
 - [Origins](#origins) (49)
-{: .cols2}
+{: .toc .cols2}
 
 ## Contributors
 52 contributors in total
