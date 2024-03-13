@@ -11,6 +11,9 @@ engines:
       # blank lines around headers
       MD022:
         enabled: false
+      # surround lists with blank lines
+      MD032:
+        enabled: false
       # inline HTML
       MD033:
         enabled: false
@@ -32,7 +35,7 @@ engines:
       no-important:
         enabled: false
       no-misspelled-properties:
-        extra-properties: ['row-gap', 'text-underline-offset']
+        enabled: false
       no-qualifying-elements:
         enabled: false
       quotes:
