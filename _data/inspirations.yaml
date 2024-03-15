@@ -236,6 +236,10 @@
   flag: us
   category: films
 
+- title: <i>Osmosis Jones</i> <small>(2001)</small>
+  flag: us
+  category: films
+
 - title: <i>Pandorum</i> <small>(2009)</small>
   flag: de
   category: films
@@ -464,6 +468,10 @@
   flag: us
   category: films
 
+- title: <i>Total Recall</i> <small>(1990)</small>
+  flag: us
+  category: films
+
 - title: <i>Transcendence</i> <small>(2014)</small>
   flag: us
   category: films
@@ -552,6 +560,10 @@
 
 - title: <i>Democracy 3</i> <small>(2013)</small>
   flag: gb
+  category: games
+
+- title: "<i>Detroit: Become Human</i> <small>(2018)</small>"
+  flag: fr
   category: games
 
 - title: <i>Dishonored</i> <small>(2012)</small>
@@ -646,6 +658,10 @@
   flag: gb
   category: games
 
+- title: <i>Observer</i> <small>(2017)</small>
+  flag: pl
+  category: games
+
 - title: <i>Oddworld</i> <small>(1997–2005)</small>
   flag: us
   category: games
@@ -668,6 +684,10 @@
 
 - title: <i>Particracy</i>
   flag: be
+  category: games
+
+- title: <i>Postal 2</i> <small>(2003)</small>
+  flag: us
   category: games
 
 - title: "<i>Predator: Concrete Jungle</i> <small>(2005)</small>"
@@ -1054,6 +1074,10 @@
 
 - title: <i>We</i> <small>(1924)</small>
   flag: ru
+  category: lit
+
+- title: <i>We Can Remember It for You Wholesale</i> <small>(1966)</small>
+  flag: us
   category: lit
 
 - title: <i>Who Goes There?</i> <small>(1938)</small>
