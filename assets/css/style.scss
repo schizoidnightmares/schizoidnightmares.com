@@ -90,8 +90,10 @@ a, a:active, a:visited {
 }
 a:hover { color: $color-primary; }
 
-ul, ol { &.spaced li, &.spaced li ul li, &.spaced li ol li { margin: 1rem 0; } }
-ul, ol { padding-inline-start: 6%; }
+ul, ol { 
+  padding-inline-start: 6%;
+  &.spaced li, &.spaced li ul li, &.spaced li ol li { margin: 1rem 0; }
+}
 ol ol { list-style-type: lower-alpha; }
 
 code { white-space: nowrap; }
