@@ -42,7 +42,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 <div class="feature" markdown=0>
     <img src="/assets/images/inputium_icon_small.png">
     <div>
-        <h2><a href="https://inputium.com/">Inputium</a></h2>
+        <h2>Inputium</h2>
         <p>A free productivity web app suite</p>
         <div>TBA</div>
     </div>

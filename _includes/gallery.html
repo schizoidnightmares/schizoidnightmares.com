@@ -3,7 +3,7 @@
     {% if item.author == include.author %}
     <div>
         <a href="{{ item.src }}" target="_blank"><img src="{{ item.thumb }}"></a>
-        <p class="caption">{% if item.url %}<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %} <small>({{ item.date }})</small></p>
+        <p class="caption">{% if item.url %}<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %} <br><small>({{ item.date }})</small></p>
     </div>
     {% endif %}
     {% endfor %}

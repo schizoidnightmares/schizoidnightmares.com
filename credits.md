@@ -7,18 +7,18 @@ last_modified_at: March 15, 2024
 # Credits
 This page acknowledges the sources that help(ed) make my work possible.
 
-- [Contributors](#contributors) (/53)
-  - [Direct](#direct) (2)
-  - [Indirect](#indirect) (51)
-- [Inspirations](#inspirations) (/337)
-  - [Films](#films) (127)
-  - [Games](#games) (70)
-  - [Literature](#literature) (73)
-  - [Places](#places) (44)
-  - [Television](#television) (18)
-  - [Websites](#websites) (5)
-- [Origins](#origins) (49)
-{: .toc .cols2}
+- [Contributors](#contributors)
+  - [Direct](#direct)
+  - [Indirect](#indirect)
+- [Inspirations](#inspirations)
+  - [Films](#films)
+  - [Games](#games)
+  - [Literature](#literature)
+  - [Places](#places)
+  - [Television](#television)
+  - [Websites](#websites)
+- [Origins](#origins)
+{: .toc}
 
 ## Contributors
 53 contributors in total
