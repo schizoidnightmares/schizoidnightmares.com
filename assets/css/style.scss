@@ -143,6 +143,10 @@ code { white-space: nowrap; }
     font-weight: bold;
   }
   li {
+    &:not(ul li ul li, li:not(:has(ul)) + li) {
+      padding-inline-start: 1rem;
+      &::before { content: '↳ '; }
+    }
     &:not(:has(ul)) {
       display: inline;
       &::after { content: ' · '; }
