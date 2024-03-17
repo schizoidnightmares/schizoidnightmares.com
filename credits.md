@@ -21,7 +21,7 @@ This page acknowledges the sources that help(ed) make my work possible.
 {: .toc}
 
 ## Contributors
-53 contributors in total
+55 contributors in total
 {: .cap}
 
 ### Direct
@@ -33,7 +33,7 @@ Below are direct contributors — listed in alphabetical order.
 {% include contributors.html direct=1 %}
 
 ### Indirect
-51 contributors
+53 contributors
 {: .cap}
 
 Below are indirect contributors — listed in alphabetical order.
@@ -83,17 +83,17 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 {% include inspirations.html category='web' %}
 
 ## Origins
-51 origins
+52 origins
 {: .cap}
 
 The national origins of all credits
 
 {% include origin.html flag="us" perc="55.6" %}
-{% include origin.html flag="gb" perc="12.1" %}
-{% include origin.html flag="ca" perc="4.9" %}
+{% include origin.html flag="gb" perc="12.0" %}
+{% include origin.html flag="ca" perc="4.8" %}
 {% include origin.html flag="de" perc="2.6" %}
-{% include origin.html flag="fr" perc="2.1" %}
-{% include origin.html flag="ru" perc="2.1" %}
+{% include origin.html flag="fr" perc="2.0" %}
+{% include origin.html flag="ru" perc="2.0" %}
 {% include origin.html flag="au" perc="1.3" %}
 {% include origin.html flag="jp" perc="1.3" %}
 {% include origin.html flag="cn" perc="1.0" %}
@@ -121,6 +121,7 @@ The national origins of all credits
 {% include origin.html flag="ge" perc="0.3" %}
 {% include origin.html flag="hu" perc="0.3" %}
 {% include origin.html flag="is" perc="0.3" %}
+{% include origin.html flag="in" perc="0.3" %}
 {% include origin.html flag="ir" perc="0.3" %}
 {% include origin.html flag="iq" perc="0.3" %}
 {% include origin.html flag="lv" perc="0.3" %}

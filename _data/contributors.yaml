@@ -184,6 +184,12 @@
   usage: Website colour scheme generator
   notes: Free tool
 
+- title: MDN Web Docs
+  flag: us
+  url: https://developer.mozilla.org/
+  usage: Web development reference
+  notes: Free service
+
 - title: Miguel Á. Padriñán
   flag: mx
   url: https://www.pexels.com/@padrinan/
@@ -199,7 +205,7 @@
 - title: NightCafe Studio
   flag: au
   url: https://creator.nightcafe.studio/
-  usage: A.I. art generator
+  usage: AI art generator
   notes: Freemium service
 
 - title: Njalla
@@ -285,6 +291,12 @@
   url: https://www.pexels.com/@tomfisk/
   usage: Stock videos
   notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
+
+- title: Tutorialspoint
+  flag: in
+  url: https://www.tutorialspoint.com/
+  usage: Web development reference
+  notes: Free service
 
 - title: Visual Studio Code
   flag: us
