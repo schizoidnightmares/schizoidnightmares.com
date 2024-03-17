@@ -646,6 +646,10 @@
   flag: ca
   category: games
 
+- title: <i>Minecraft</i>
+  flag: se
+  category: games
+
 - title: <i>Myst</i> <small>(1993–2001)</small>
   flag: us
   category: games

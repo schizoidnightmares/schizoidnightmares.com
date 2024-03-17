@@ -1,7 +1,7 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: March 15, 2024
+last_modified_at: March 17, 2024
 ---
 
 # Credits
@@ -41,7 +41,7 @@ Below are indirect contributors — listed in alphabetical order.
 {% include contributors.html %}
 
 ## Inspirations
-337 inspirations
+338 inspirations
 {: .cap}
 
 Below are my sources of inspiration — listed by type in alphabetical order.
@@ -53,7 +53,7 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 {% include inspirations.html category='films' size='smallest' %}
 
 ### Games
-70 inspirations
+71 inspirations
 {: .cap}
 
 {% include inspirations.html category='games' size='smallest' %}
@@ -83,12 +83,12 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 {% include inspirations.html category='web' %}
 
 ## Origins
-49 origins
+51 origins
 {: .cap}
 
 The national origins of all credits
 
-{% include origin.html flag="us" perc="55.8" %}
+{% include origin.html flag="us" perc="55.6" %}
 {% include origin.html flag="gb" perc="12.1" %}
 {% include origin.html flag="ca" perc="4.9" %}
 {% include origin.html flag="de" perc="2.6" %}
@@ -104,12 +104,12 @@ The national origins of all credits
 {% include origin.html flag="il" perc="0.8" %}
 {% include origin.html flag="it" perc="0.8" %}
 {% include origin.html flag="kr" perc="0.8" %}
+{% include origin.html flag="se" perc="0.8" %}
 {% include origin.html flag="gr" perc="0.5" %}
 {% include origin.html flag="mx" perc="0.5" %}
 {% include origin.html flag="np" perc="0.5" %}
 {% include origin.html flag="no" perc="0.5" %}
 {% include origin.html flag="pl" perc="0.5" %}
-{% include origin.html flag="se" perc="0.5" %}
 {% include origin.html flag="bt" perc="0.3" %}
 {% include origin.html flag="bg" perc="0.3" %}
 {% include origin.html flag="bf" perc="0.3" %}
@@ -128,6 +128,7 @@ The national origins of all credits
 {% include origin.html flag="mn" perc="0.3" %}
 {% include origin.html flag="mm" perc="0.3" %}
 {% include origin.html flag="pk" perc="0.3" %}
+{% include origin.html flag="pe" perc="0.3" %}
 {% include origin.html flag="ph" perc="0.3" %}
 {% include origin.html flag="rw" perc="0.3" %}
 {% include origin.html flag="kn" perc="0.3" %}
@@ -135,5 +136,6 @@ The national origins of all credits
 {% include origin.html flag="rs" perc="0.3" %}
 {% include origin.html flag="sg" perc="0.3" %}
 {% include origin.html flag="za" perc="0.3" %}
+{% include origin.html flag="sy" perc="0.3" %}
 {% include origin.html flag="tr" perc="0.3" %}
 {% include origin.html flag="zw" perc="0.3" %}
