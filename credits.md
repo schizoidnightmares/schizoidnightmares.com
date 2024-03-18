@@ -5,7 +5,7 @@ last_modified_at: March 17, 2024
 ---
 
 # Credits
-This page acknowledges the sources that help(ed) make my work possible.
+Contributors and inspirations that help(ed) make my work possible (currently 393)
 
 - [Contributors](#contributors)
   - [Direct](#direct)

@@ -5,7 +5,7 @@ last_modified_at: March 11, 2024
 ---
 
 # Gallery
-A gallery of 6 images (excluding real country flags) present on the website
+A gallery of the images on the website (currently 6)
 
 ## Schizoid Nightmares
 4 images
