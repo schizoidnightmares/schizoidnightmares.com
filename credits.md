@@ -5,7 +5,10 @@ last_modified_at: March 23, 2024
 ---
 
 # Credits
-Contributors and inspirations that help(ed) make my work possible (currently 394)
+394 credits in total
+{: .cap}
+
+Contributors and inspirations that help(ed) make [my](/about/) work possible
 
 - [Contributors](#contributors)
   - [Direct](#direct)

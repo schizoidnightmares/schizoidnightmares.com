@@ -5,7 +5,10 @@ last_modified_at: March 11, 2024
 ---
 
 # Gallery
-A gallery of the images on the website (currently 6)
+6 images in total
+{: .cap}
+
+A gallery of the images on the website
 
 ## Schizoid Nightmares
 4 images
