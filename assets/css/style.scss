@@ -135,6 +135,7 @@ code { white-space: nowrap; }
 .toc {
   border-bottom: .1rem solid $color-border;
   border-top: .1rem solid $color-border;
+  cursor: default;
   font-size: 1.5rem;
   list-style-type: none;
   margin-bottom: 2rem;
