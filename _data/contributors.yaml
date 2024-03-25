@@ -178,6 +178,11 @@
   usage: Plugin for tidying up HTML
   notes: Licensed under the <a href="https://github.com/apsislabs/jekyll-tidy/blob/master/LICENSE.txt" target="_blank">MIT License</a>
 
+- title: KandooAI
+  url: https://civitai.com/user/KandooAI
+  usage: <a href="https://civitai.com/models/133005/juggernaut-xl" target="_blank">Juggernaut XL</a>
+  notes: Free software under the <a href="https://github.com/Stability-AI/generative-models/blob/main/model_licenses/LICENSE-SDXL1.0" target="_blank">Stability AI CreativeML Open RAIL++-M License</a>
+
 - title: Kelly Lacy
   flag: us
   url: https://www.pexels.com/@kelly-1179532/
