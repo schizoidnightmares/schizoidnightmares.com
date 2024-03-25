@@ -33,6 +33,12 @@
   usage: PNG file compression
   notes: Free service
 
+- title: CompVis
+  flag: de
+  url: https://ommer-lab.com/
+  usage: Stable Diffusion
+  notes: Research group at the Ludwig Maximilian University of Munich
+
 - title: cottonbro studio
   flag: ru
   url: https://www.pexels.com/@cottonbro/
@@ -56,6 +62,12 @@
   url: https://lllllllllllllllll.com/
   usage: <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a> (derived)
   notes: Licensed under <a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>
+
+- title: EleutherAI
+  flag: us
+  url: https://www.eleuther.ai/
+  usage: Stable Diffusion
+  notes: Non-profit organization
 
 - title: ElevenLabs
   flag: us
@@ -172,6 +184,12 @@
   usage: Stock videos
   notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
+- title: LAION
+  flag: de
+  url: https://laion.ai/
+  usage: Stable Diffusion
+  notes: Non-profit organization
+
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
@@ -244,6 +262,12 @@
   usage: Ruby packages
   notes: Free service
 
+- title: Runway AI, Inc.
+  flag: us
+  url: https://runwayml.com/
+  usage: Stable Diffusion
+  notes: Private company
+
 - title: Sasha Trubetskoy
   flag: us
   url: https://sashamaps.net/
@@ -255,6 +279,12 @@
   url: https://www.editorx.com/shaping-design
   usage: <a href="https://www.editorx.com/shaping-design/article/font-size" target="_blank">Font size guidelines</a>
   notes: Free service
+
+- title: Stability AI
+  flag: gb
+  url: https://stability.ai/
+  usage: Stable Diffusion
+  notes: Private company
 
 - title: Stack Overflow
   flag: us

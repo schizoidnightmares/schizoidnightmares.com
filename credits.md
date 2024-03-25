@@ -1,11 +1,11 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: March 23, 2024
+last_modified_at: March 25, 2024
 ---
 
 # Credits
-394 credits in total
+399 credits in total
 {: .cap}
 
 Contributors and inspirations that help(ed) make [my](/about/) work possible
@@ -24,7 +24,7 @@ Contributors and inspirations that help(ed) make [my](/about/) work possible
 {: .toc}
 
 ## Contributors
-55 contributors in total
+60 contributors in total
 {: .cap}
 
 ### Direct
@@ -36,7 +36,7 @@ Below are direct contributors — listed in alphabetical order.
 {% include contributors.html direct=1 %}
 
 ### Indirect
-53 contributors
+58 contributors
 {: .cap}
 
 Below are indirect contributors — listed in alphabetical order.
@@ -91,10 +91,10 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 
 The national origins of all credits
 
-{% include origin.html flag="us" perc="55.7" %}
+{% include origin.html flag="us" perc="55.6" %}
 {% include origin.html flag="gb" perc="12.0" %}
 {% include origin.html flag="ca" perc="4.8" %}
-{% include origin.html flag="de" perc="2.5" %}
+{% include origin.html flag="de" perc="3.0" %}
 {% include origin.html flag="fr" perc="2.0" %}
 {% include origin.html flag="ru" perc="2.0" %}
 {% include origin.html flag="au" perc="1.3" %}
