@@ -4,5 +4,5 @@
     {% assign color = flag.color %}
     {% endif %}
     {% endfor %}
-    <span style="background: #{{ color }}; width: {{ include.perc }}%">&nbsp;</span> {% include flag.html flag=include.flag %} {{ include.perc }}%
+    <span style="width: {{ include.perc }}%">&nbsp;</span> {% include flag.html flag=include.flag %} {{ include.perc }}%
 </div>
