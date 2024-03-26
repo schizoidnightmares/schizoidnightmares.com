@@ -201,6 +201,12 @@
   usage: Font; used in branding; used on schizoidnightmares.com and absurdrealms.com
   notes: Licensed under the <a href="http://cyreal.org/license/" target="_blank">OFL</a>
 
+- title: MasterClass
+  flag: us
+  url: https://www.masterclass.com/
+  usage: Writing tutorials
+  notes: Freemium resource
+
 - title: Material Theme Builder
   flag: us
   url: https://www.figma.com/community/plugin/1034969338659738588/Material-Theme-Builder
