@@ -10,7 +10,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 ---
 
 <div class="feature" markdown=0>
-    <img src="/assets/images/ar_icon_small.png">
+    <a href="https://absurdrealms.com/" target="_blank"><img src="/assets/images/ar_icon_small.png"></a>
     <div>
         <h2><i><a href="https://absurdrealms.com/" target="_blank">Absurd Realms</a></i></h2>
         <p class="cap">2023–present</p>
@@ -20,7 +20,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-    <img src="/assets/images/snf_icon_small.png">
+    <a href="https://schizoidnightmares.net/" target="_blank"><img src="/assets/images/snf_icon_small.png"></a>
     <div>
         <h2><a href="https://schizoidnightmares.net/" target="_blank">Schizoid Nightmares Forums</a></h2>
         <p class="cap">2023–present</p>
@@ -30,7 +30,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-    <img src="/assets/images/note_small.png">
+    <a href="/music/"><img src="/assets/images/note_small.png"></a>
     <div>
         <h2><a href="/music/">Music</a></h2>
         <p class="cap">2020–present</p>

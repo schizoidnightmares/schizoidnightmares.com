@@ -15,7 +15,6 @@
   font-style: italic;
   src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
 }
-
 // Open Sans font face
 @font-face {
   font-display: swap;
@@ -47,12 +46,10 @@ body {
   margin: 0;
 }
 
-h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks {
-  a, a:active, a:visited {
-    text-decoration: none;
-    &[target="_blank"]::after { content: none; }
-    &[href]:where([href^="http"])::after { content: none; }
-  }
+:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) {
+  text-decoration: none;
+  &[target="_blank"]::after { content: none; }
+  &[href]:where([href^="http"])::after { content: none; }
 }
 h1, h2, h3 {
   font-family: Lora, serif;
@@ -90,7 +87,10 @@ a, a:active, a:visited {
   // external link
   &[href]:where([href^="http"])::after { content: ' ⧉'; }
 }
-a:hover { color: $color-primary; }
+a:hover {
+  color: $color-primary;
+  img { opacity: .75; }
+}
 
 ul, ol {
   padding-inline-start: 6%;
@@ -264,7 +264,6 @@ code { white-space: nowrap; }
     max-width: 150px;
     width: min-content;
   }
-  a:hover img { opacity: .75; }
   img {
     max-height: 150px;
     max-width: 150px;
@@ -300,7 +299,6 @@ code { white-space: nowrap; }
     width: fit-content;
     &[target="_blank"]::after { content: none; }
     &[href]:where([href^="http"])::after { content: none; }
-    &:hover img { opacity: .75; }
     p { margin: 0; }
     img, &.cropped img {
       height: 50px;

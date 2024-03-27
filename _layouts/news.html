@@ -17,10 +17,10 @@ layout: base
     {% for post in paginator.posts %}
     <div class="feature cropped standout">
         {% if post.src-thumb %}
-        <img src="{{ post.src-thumb }}" alt="{{ post.alt }}">
+        <a href="{{ post.url }}"><img src="{{ post.src-thumb }}" alt="{{ post.alt }}"></a>
         {% endif %}
         <div>
-            <h2 ><a href="{{ post.url }}">{% if post.custom-title %}{{ post.custom-title }}{% else %}{{ post.title }}{% endif %}</a></h2>
+            <h2><a href="{{ post.url }}">{% if post.custom-title %}{{ post.custom-title }}{% else %}{{ post.title }}{% endif %}</a></h2>
             <p class="cap">{{ post.date | date: '%B %e, %Y' }}</p>
             {{ post.excerpt }}
             {% if post.content.size > post.excerpt.size %}<div><a href="{{ post.url }}">read more</a></div>{% endif %}
