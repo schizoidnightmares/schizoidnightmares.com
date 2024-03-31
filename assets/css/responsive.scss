@@ -3,6 +3,11 @@
 
 @media screen and (max-width: 750px) {
   td { white-space: normal; }
+  .left, .right {
+    float: none;
+    margin: 1.5rem auto;
+    width: auto;
+  }
   .return, .advance { font-size: 1.4rem; }
   .feature {
     h2 { margin-top: 0; }

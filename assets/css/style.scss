@@ -107,9 +107,9 @@ code { white-space: nowrap; }
     border-collapse: collapse;
     margin: 0 auto;
     text-align: left;
-    th { background-color: $color-shade; }
     &.full { width: 100%; }
     &.borders {
+      th { background-color: $color-shade; }
       th, td {
         border: .1rem solid $color-border;
         padding: 1rem;
@@ -117,17 +117,31 @@ code { white-space: nowrap; }
     }
     &.small {
       font-size: 1.5rem;
+      th, td { padding: .8rem; }
       .flag { height: 1.1rem; }
     }
     &.smaller {
       font-size: 1.3rem;
+      th, td { padding: .7rem; }
       .flag { height: 1rem; }
     }
     &.smallest {
       font-size: 1.2rem;
+      th, td { padding: .6rem; }
       .flag { height: .9rem; }
     }
   }
+}
+
+// floats
+.left, .right { width: 231px; }
+.left {
+  float: left;
+  margin-right: 1.5rem;
+}
+.right {
+  float: right;
+  margin-left: 1.5rem;
 }
 
 .flag { display: inline; }
@@ -173,6 +187,7 @@ code { white-space: nowrap; }
 
 // Page navigation
 .pagenav {
+  clear: both;
   margin-top: 1.5rem;
   overflow: hidden;
   &:last-child { margin-top: 2rem; }
