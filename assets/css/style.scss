@@ -108,6 +108,7 @@ code { white-space: nowrap; }
     margin: 0 auto;
     text-align: left;
     &.full { width: 100%; }
+    &.inline { margin: 0; }
     &.borders {
       th { background-color: $color-shade; }
       th, td {

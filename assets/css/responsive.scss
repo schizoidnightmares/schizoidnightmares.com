@@ -3,6 +3,7 @@
 
 @media screen and (max-width: 750px) {
   td { white-space: normal; }
+  .table table.inline { width: 100%; }
   .left, .right {
     float: none;
     margin: 1.5rem auto;
