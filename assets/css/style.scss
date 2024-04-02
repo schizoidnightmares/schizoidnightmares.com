@@ -46,8 +46,8 @@ body {
   margin: 0;
 }
 
-:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) {
-  text-decoration: none;
+:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) { text-decoration: none; }
+:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), a:has(img) {
   &[target="_blank"]::after { content: none; }
   &[href]:where([href^="http"])::after { content: none; }
 }
@@ -107,6 +107,8 @@ code { white-space: nowrap; }
     border-collapse: collapse;
     margin: 0 auto;
     text-align: left;
+    th, td { vertical-align: top; }
+    th[colspan="2"], td:has(img) { text-align: center; }
     &.full { width: 100%; }
     &.inline { margin: 0; }
     &.borders {
@@ -135,7 +137,15 @@ code { white-space: nowrap; }
 }
 
 // floats
-.left, .right { width: 231px; }
+.left, .right, .thumb img { width: 231px; }
+.left, .right {
+  clear: both;
+  table img {
+    width: 100%;
+    max-width: 231px;
+  }
+  .caption:not(table .caption) { margin-top: .5rem; }
+}
 .left {
   float: left;
   margin-right: 1.5rem;
@@ -209,9 +219,10 @@ code { white-space: nowrap; }
 .caption, .caption p {
   color: $color-secondary;
   font-size: 1.3rem;
-  margin-bottom: 2rem;
   text-align: center !important;
+  + .table { margin-top: 0; }
 }
+.caption p { margin-bottom: 2rem; }
 
 // column lists
 .cols2, .cols3, .cols4 { column-gap: 3rem; }
