@@ -109,6 +109,7 @@ code { white-space: nowrap; }
     text-align: left;
     th, td { vertical-align: top; }
     th[colspan="2"], td:has(img) { text-align: center; }
+    th small { font-weight: normal; }
     &.full { width: 100%; }
     &.inline { margin: 0; }
     &.borders {
