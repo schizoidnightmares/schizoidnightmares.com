@@ -26,6 +26,8 @@ plugins:
         enabled: false
       final-newline:
         enabled: false
+      force-attribute-nesting:
+        enabled: false
       force-element-nesting:
         enabled: false
       force-pseudo-nesting:

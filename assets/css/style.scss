@@ -142,8 +142,8 @@ code { white-space: nowrap; }
 .left, .right {
   clear: both;
   table img {
-    width: 100%;
     max-width: 231px;
+    width: 100%;
   }
   .caption:not(table .caption) { margin-top: .5rem; }
 }
