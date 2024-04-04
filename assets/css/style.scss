@@ -108,7 +108,7 @@ code { white-space: nowrap; }
     margin: 0 auto;
     text-align: left;
     th, td { vertical-align: top; }
-    th[colspan="2"], td:has(img) { text-align: center; }
+    th[colspan="2"], td:has(img:not(.flag)) { text-align: center; }
     th small { font-weight: normal; }
     &.full { width: 100%; }
     &.inline { margin: 0; }
