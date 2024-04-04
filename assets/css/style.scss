@@ -103,6 +103,7 @@ code { white-space: nowrap; }
 .table {
   margin: 1.5rem auto;
   overflow-x: auto;
+  &.left, &.right { margin-top: 0; }
   table {
     border-collapse: collapse;
     margin: 0 auto;
@@ -145,6 +146,7 @@ code { white-space: nowrap; }
     max-width: 231px;
     width: 100%;
   }
+  // do not add top margin on image captions in tables
   .caption:not(table .caption) { margin-top: .5rem; }
 }
 .left {
@@ -221,7 +223,6 @@ code { white-space: nowrap; }
   color: $color-secondary;
   font-size: 1.3rem;
   text-align: center !important;
-  + .table { margin-top: 0; }
 }
 .caption p { margin-bottom: 2rem; }
 
