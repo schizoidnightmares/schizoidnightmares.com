@@ -69,12 +69,6 @@
   usage: Stable Diffusion
   notes: Non-profit organization
 
-- title: ElevenLabs
-  flag: us
-  url: https://elevenlabs.io/
-  usage: Text-to-speech generator (for proofreading)
-  notes: Freemium service
-
 - title: <i>Encyclopædia Britannica</i>
   flag: us
   url: https://www.britannica.com/

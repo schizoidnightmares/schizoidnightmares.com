@@ -5,7 +5,7 @@ last_modified_at: April 4, 2024
 ---
 
 # Credits
-402 credits in total
+401 credits in total
 {: .cap}
 
 Contributors and inspirations that help(ed) make [my](/about/) work possible
@@ -24,7 +24,7 @@ Contributors and inspirations that help(ed) make [my](/about/) work possible
 {: .toc}
 
 ## Contributors
-62 contributors in total
+61 contributors in total
 {: .cap}
 
 ### Direct
@@ -36,7 +36,7 @@ Below are direct contributors — listed in alphabetical order.
 {% include contributors.html direct=1 %}
 
 ### Indirect
-60 contributors
+59 contributors
 {: .cap}
 
 Below are indirect contributors — listed in alphabetical order.
@@ -91,8 +91,8 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 
 The national origins of all credits
 
-{% include origin.html flag="us" perc="55.7" %}
-{% include origin.html flag="gb" perc="11.9" %}
+{% include origin.html flag="us" perc="55.6" %}
+{% include origin.html flag="gb" perc="12.0" %}
 {% include origin.html flag="ca" perc="4.7" %}
 {% include origin.html flag="de" perc="3.0" %}
 {% include origin.html flag="fr" perc="2.0" %}
