@@ -103,7 +103,6 @@ code { white-space: nowrap; }
 .table {
   margin: 1.5rem auto;
   overflow-x: auto;
-  &.left, &.right { margin-top: 0; }
   table {
     border-collapse: collapse;
     margin: 0 auto;
@@ -145,6 +144,10 @@ code { white-space: nowrap; }
   table img {
     max-width: 231px;
     width: 100%;
+  }
+  &:is(.table) {
+    &:is(.caption + .table) { margin-top: 0; }
+    &:is(.cap + .table) { margin-top: .8rem; }
   }
   // do not add top margin on image captions in tables
   .caption:not(table .caption) { margin-top: .5rem; }
@@ -207,15 +210,15 @@ code { white-space: nowrap; }
   &:last-child { margin-top: 2rem; }
   p { margin: 0; }
   ~ h1 { margin-top: 1rem; }
-}
-.return, .advance { cursor: default; }
-.return {
-  float: left;
-  font-size: 1.5rem;
-}
-.advance {
-  float: right;
-  font-size: 1.5rem;
+  .return, .advance { cursor: default; }
+  .return {
+    float: left;
+    font-size: 1.5rem;
+  }
+  .advance {
+    float: right;
+    font-size: 1.5rem;
+  }
 }
 
 // image captions
