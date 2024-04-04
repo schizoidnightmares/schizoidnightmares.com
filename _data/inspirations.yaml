@@ -128,6 +128,10 @@
   flag: gb
   category: films
 
+- title: "<i>Dune</i> & <i>Dune: Part One</i> <small>(1984, 2021)</small>"
+  flag: us
+  category: films
+
 - title: <i>Edge of Tomorrow</i> <small>(2014)</small>
   flag: us
   category: films
