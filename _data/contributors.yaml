@@ -189,6 +189,12 @@
   usage: Stable Diffusion
   notes: Non-profit organization
 
+- title: Leniolabs
+  flag: us
+  url: https://www.leniolabs.com/
+  usage: <a href="https://layoutit.com/" target="_blank">LayoutIt!</a>
+  notes: Free tool
+
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
@@ -278,6 +284,12 @@
   url: https://sashamaps.net/
   usage: <a href="https://sashamaps.net/docs/resources/20-colors/" target="_blank">List of 20 Simple, Distinct Colors</a>
   notes: Free resource
+
+- title: Self-Publishing School
+  flag: us
+  url: https://self-publishingschool.com/
+  usage: <a href="https://self-publishingschool.com/parts-of-a-book/" target="_blank">Parts of a book</a>
+  notes: Free reference
 
 - title: Shaping Design Blog
   flag: il
