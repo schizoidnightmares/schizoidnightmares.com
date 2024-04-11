@@ -29,10 +29,10 @@ For desired names, they must be the following:
 1. A real name, initials, pseudonym, company, or organization
 1. *Not* impersonate or be confused with another entity
 1. *Not* vulgar or profane
-1. *Not* publicly associated with criminal or adult-restricted activities
+1. *Not* publicly associated with criminal activities
 
 For desired URLs, they must be the following:
 
 1. *Not* shock, exploit, or endanger users
-1. *Not* linked to criminal or adult-restricted activities
+1. *Not* enable criminal or adult-restricted activities
 1. *Not* referral links
