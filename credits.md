@@ -1,11 +1,11 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: April 17, 2024
+last_modified_at: April 28, 2024
 ---
 
 # Credits
-407 credits in total
+413 credits in total
 {: .cap}
 
 Contributors and inspirations that help(ed) make [my](/about/) work possible
@@ -19,12 +19,12 @@ Contributors and inspirations that help(ed) make [my](/about/) work possible
   - [Literature](#literature)
   - [Places](#places)
   - [Television](#television)
-  - [Websites](#websites)
+  - [Web](#web)
 - [Origins](#origins)
 {: .toc}
 
 ## Contributors
-63 contributors in total
+64 contributors in total
 {: .cap}
 
 ### Direct
@@ -36,7 +36,7 @@ Below are direct contributors — listed in alphabetical order.
 {% include contributors.html direct=1 %}
 
 ### Indirect
-61 contributors
+62 contributors
 {: .cap}
 
 Below are indirect contributors — listed in alphabetical order.
@@ -44,13 +44,13 @@ Below are indirect contributors — listed in alphabetical order.
 {% include contributors.html %}
 
 ## Inspirations
-344 inspirations
+349 inspirations
 {: .cap}
 
 Below are my sources of inspiration — listed by type in alphabetical order.
 
 ### Films
-130 inspirations
+133 inspirations
 {: .cap}
 
 {% include inspirations.html category='films' size='smallest' %}
@@ -62,7 +62,7 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 {% include inspirations.html category='games' size='smallest' %}
 
 ### Literature
-76 inspirations
+77 inspirations
 {: .cap}
 
 {% include inspirations.html category='lit' size='smallest' %}
@@ -79,26 +79,26 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 
 {% include inspirations.html category='tv' size='small' %}
 
-### Websites
-5 inspirations
+### Web
+6 inspirations
 {: .cap}
 
 {% include inspirations.html category='web' %}
 
 ## Origins
-52 origins
+53 origins
 {: .cap}
 
 The national origins of all credits
 
-{% include origin.html flag="us" perc="56.0" %}
-{% include origin.html flag="gb" perc="11.8" %}
-{% include origin.html flag="ca" perc="4.7" %}
+{% include origin.html flag="us" perc="55.9" %}
+{% include origin.html flag="gb" perc="11.6" %}
+{% include origin.html flag="ca" perc="4.6" %}
 {% include origin.html flag="de" perc="2.9" %}
-{% include origin.html flag="fr" perc="2.0" %}
-{% include origin.html flag="ru" perc="2.0" %}
+{% include origin.html flag="fr" perc="1.9" %}
+{% include origin.html flag="ru" perc="1.9" %}
 {% include origin.html flag="au" perc="1.5" %}
-{% include origin.html flag="jp" perc="1.2" %}
+{% include origin.html flag="jp" perc="1.5" %}
 {% include origin.html flag="cn" perc="1.0" %}
 {% include origin.html flag="nz" perc="1.0" %}
 {% include origin.html flag="es" perc="1.0" %}
@@ -108,6 +108,7 @@ The national origins of all credits
 {% include origin.html flag="it" perc="0.7" %}
 {% include origin.html flag="kr" perc="0.7" %}
 {% include origin.html flag="se" perc="0.7" %}
+{% include origin.html flag="ge" perc="0.5" %}
 {% include origin.html flag="gr" perc="0.5" %}
 {% include origin.html flag="mx" perc="0.5" %}
 {% include origin.html flag="np" perc="0.5" %}
@@ -117,11 +118,11 @@ The national origins of all credits
 {% include origin.html flag="bg" perc="0.2" %}
 {% include origin.html flag="bf" perc="0.2" %}
 {% include origin.html flag="cl" perc="0.2" %}
+{% include origin.html flag="co" perc="0.2" %}
 {% include origin.html flag="cu" perc="0.2" %}
 {% include origin.html flag="dk" perc="0.2" %}
 {% include origin.html flag="eg" perc="0.2" %}
 {% include origin.html flag="sv" perc="0.2" %}
-{% include origin.html flag="ge" perc="0.2" %}
 {% include origin.html flag="hu" perc="0.2" %}
 {% include origin.html flag="is" perc="0.2" %}
 {% include origin.html flag="in" perc="0.2" %}

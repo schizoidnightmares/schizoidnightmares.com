@@ -9,6 +9,12 @@
   usage: Web archiving
   notes: Free service
 
+- title: Azgaar’s Fantasy Map Generator
+  flag: ge
+  url: https://github.com/Azgaar/Fantasy-Map-Generator
+  usage: For my article “<a href="https://schizoidnightmares.medium.com/how-to-generate-custom-biomes-in-azgaars-fantasy-map-generator-763e726a1093" target="_blank">How to generate custom biomes in Azgaar’s Fantasy Map Generator</a>”
+  notes: Licensed under the <a href="https://github.com/Azgaar/Fantasy-Map-Generator/blob/master/LICENSE" target="_blank">MIT License</a>
+
 - title: Cloudflare, Inc.
   flag: us
   url: https://www.cloudflare.com/

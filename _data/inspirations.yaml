@@ -48,6 +48,10 @@
   flag: us
   category: films
 
+- title: <i>Battle Royale</i> <small>(2000)</small>
+  flag: jp
+  category: films
+
 - title: <i>Ben-Hur</i> <small>(1959)</small>
   flag: us
   category: films
@@ -153,6 +157,10 @@
   category: films
 
 - title: <i>Fire in the Sky</i> <small>(1993)</small>
+  flag: us
+  category: films
+
+- title: <i>First Blood</i> <small>(1982)</small>
   flag: us
   category: films
 
@@ -389,6 +397,10 @@
   category: films
 
 - title: <i>The Hitchhiker’s Guide to the Galaxy</i> <small>(2005)</small>
+  flag: us
+  category: films
+
+- title: <i>The Hunger Games</i> <small>(2012)</small>
   flag: us
   category: films
 
@@ -1028,6 +1040,10 @@
   flag: gb
   category: lit
 
+- title: <i>The Hunger Games</i> <small>(2008)</small>
+  flag: us
+  category: lit
+
 - title: <i>The Inflationary Universe</i> <small>(1997)</small>
   flag: us
   category: lit
@@ -1112,7 +1128,7 @@
   flag: us
   category: lit
 
-# Places
+# places
 
 - title: Ancient Athens
   flag: gr
@@ -1290,7 +1306,7 @@
   flag: ca
   category: places
 
-# Televison
+# televison
 
 - title: <i>Beavis and Butt-Head</i> <small>(1993–1997)</small>
   flag: us
@@ -1364,7 +1380,11 @@
   flag: us
   category: tv
 
-# Websites
+# web
+
+- title: '“<a href="https://www.cartographersguild.com/showthread.php?t=32998" target="_blank">Biome placement for fantasy worlds</a>” <small>(2016)</small>'
+  flag: co
+  category: web
 
 - title: '<a href="https://8values.github.io/" target="_blank">8values</a>'
   category: web
