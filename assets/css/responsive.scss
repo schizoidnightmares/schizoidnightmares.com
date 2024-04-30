@@ -1,6 +1,5 @@
 ---
 ---
-
 @media screen and (max-width: 750px) {
   td { white-space: normal; }
   .table table.inline { width: 100%; }
@@ -11,10 +10,26 @@
   }
   .return, .advance { font-size: 1.4rem; }
   .feature {
-    h2 { margin-top: 0; }
-    img { width: 100px; }
+    &:not(.option) {
+      flex-direction: column;
+      text-align: center;
+      div div {
+        justify-content: center;
+        margin: 0 0 2rem 0;
+      }
+      h2 {
+        margin-top: 0;
+        + p { margin-bottom: 1rem; }
+      }
+      img {
+        margin: 0 0 .5rem 0;
+        width: 100px;
+      }
+      &:last-child div div { margin: 0; }
+      &.cropped img { height: 100px; }
+      &.standout div div { margin: 0; }
+    }
     &.option h2 { margin-top: .5rem; }
-    &.cropped img { height: 100px; }
   }
   .container {
     .top, .middle, .bottom {
