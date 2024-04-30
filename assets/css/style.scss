@@ -80,7 +80,8 @@ sup { line-height: 0; }
 
 a, a:active, a:visited {
   color: $color-link;
-  text-decoration: $color-primary underline 8%;
+  text-decoration: $color-primary underline;
+  text-decoration-thickness: 8%;
   text-underline-offset: 8%;
   // internal _blank
   &[target="_blank"]::after { content: ' ❐'; }
