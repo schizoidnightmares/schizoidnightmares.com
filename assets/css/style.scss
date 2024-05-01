@@ -309,12 +309,13 @@ code { white-space: nowrap; }
 .feature {
   align-items: center;
   display: flex;
-  margin: 1.5rem 0;
+  margin: 2rem 0;
   h2 {
     margin-top: .5rem;
     + p:not(.cap) { margin-top: -.5rem; }
   }
   img {
+    display: block;
     margin-right: 2.5rem;
     width: 125px;
   }
