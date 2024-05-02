@@ -119,17 +119,17 @@ code { white-space: nowrap; }
         padding: 1rem;
       }
     }
-    &.small {
+    &.small, &.small .caption {
       font-size: 1.5rem;
       th, td { padding: .8rem; }
       .flag { height: 1.1rem; }
     }
-    &.smaller {
+    &.smaller, &.smaller .caption {
       font-size: 1.3rem;
       th, td { padding: .7rem; }
       .flag { height: 1rem; }
     }
-    &.smallest {
+    &.smallest, &.smallest .caption {
       font-size: 1.2rem;
       th, td { padding: .6rem; }
       .flag { height: .9rem; }
