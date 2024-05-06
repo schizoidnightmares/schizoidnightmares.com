@@ -1,0 +1,11 @@
+// origin statistics for credits
+.origin {
+  font-size: 1.5rem;
+  margin: .2rem 0;
+  width: 75%;
+  span {
+    background: $color-primary;
+    cursor: default;
+    display: inline-block;
+  }
+}
