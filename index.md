@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: March 11, 2024
+last_modified_at: May 17, 2024
 layout: header
 header: header_blur.jpg
 header-title: Schizoid Nightmares
@@ -36,14 +36,5 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
         <p class="cap">2020–present</p>
         <p>A free collection of amateur electronic music</p>
         <div><a href="/music/">browse music</a></div>
-    </div>
-</div>
-
-<div class="feature" markdown=0>
-    <img src="/assets/images/inputium_icon_small.png">
-    <div>
-        <h2>Inputium</h2>
-        <p>A free productivity web app suite</p>
-        <div>TBA</div>
     </div>
 </div>
