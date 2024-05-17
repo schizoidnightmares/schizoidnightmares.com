@@ -42,7 +42,7 @@ body {
 }
 
 :is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) { text-decoration: none; }
-:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), a:has(img) {
+:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), :is(a, a:active, a:visited):has(img) {
   &[target="_blank"]::after { content: none; }
   &[href]:where([href^="http"])::after { content: none; }
 }
