@@ -1,7 +1,7 @@
 ---
 title: Patrons - Terms
 description: Terms for patrons
-last_modified_at: April 11, 2024
+last_modified_at: May 18, 2024
 return: Terms
 return-url: /terms/
 ---
@@ -36,3 +36,6 @@ For desired URLs, they must be the following:
 1. *Not* shock, exploit, or endanger users
 1. *Not* enable criminal or adult-restricted activities
 1. *Not* referral links
+
+## Forums rank
+I grant patrons a special user rank on <a href="https://schizoidnightmares.net/" target="_blank">the forums</a>, automatically granting <a href="https://schizoidnightmares.net/threads/user-status-and-ranks.6/" target="_blank">full membership privileges</a>. This rank is *conditional* and assumes patrons will comply with the forums' <a href="https://schizoidnightmares.net/help/rules/" target="_blank">rules</a>. Patrons registered on the forums should message me their forums username on Patreon if they want this rank applied to their account.
