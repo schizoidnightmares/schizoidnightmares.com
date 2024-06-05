@@ -1,13 +1,22 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: May 17, 2024
+last_modified_at: June 5, 2024
 layout: header
 header: header_blur.jpg
 header-title: Schizoid Nightmares
 header-subtitle: 2019–present
 caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the cover for <i>Anthology I</i> — art by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as a paid commission
 ---
+
+<div class="feature" markdown=0>
+    <img src="/assets/images/plotbible_icon_small.png" alt="PlotBible icon">
+    <div>
+        <h2>PlotBible</h2>
+        <p>Create, manage, and share fictional worlds with dynamic time-based customizable entities and automatic timelines</p>
+        <div>TBA</div>
+    </div>
+</div>
 
 <div class="feature" markdown=0>
     <a href="https://absurdrealms.com/" target="_blank"><img src="/assets/images/ar_icon_small.png"></a>
