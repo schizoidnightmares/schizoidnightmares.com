@@ -171,10 +171,7 @@ code { white-space: nowrap; }
   }
   li {
     + li::before { content: " · "; }
-    &:is(:first-of-type:not(ul li ul li), li + :has(ul), :has(ul) + li) {
-      padding-inline-start: 1rem;
-      &::before { content: "↳ "; }
-    }
+    &:is(:first-of-type:not(ul li ul li), li + :has(ul), :has(ul) + li)::before { content: "↳ "; }
     &:not(:has(ul)) { display: inline; }
   }
   ul {
