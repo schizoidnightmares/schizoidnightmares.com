@@ -14,6 +14,7 @@ PlotBible, a proprietary online worldbuilding subscription service, is now in ac
 - [Pricing](#pricing)
 - [Refund policy](#refund-policy)
 - [Content policy](#content-policy)
+- [This doesn't change my other projects](#this-doesnt-change-my-other-projects)
 {: .toc}
 
 While admittedly, I'm not very business-orientated, after carefully considering all reasonable options, I have settled on developing my first proprietary service. This breaks from my tradition of exclusively developing open-source/free-cultural content, but financial and technical realities force this change. In truth, it requires me to go against my own instincts or "gut sense." However, I see no other alternatives. Allow me to indulge my reasoning.
@@ -44,3 +45,6 @@ I intend people to use PlotBible for *fictional* works. I do not recommend inc
 My own fiction is not "family-friendly," so it is not like these content restrictions will go overboard. That being said, I have no tolerance for content that glorifies universally condemned material, such as sexual assault (including child molestation) or bestiality, even if it doesn't technically cross the line into illegality.
 
 I expect that the vast majority of users will not encounter difficulties with content policy compliance.
+
+## This doesn't change my other projects
+PlotBible is proprietary because it has to be. *Absurd Realms* and my music releases do not require commercialization and will remain under free cultural licensing.
