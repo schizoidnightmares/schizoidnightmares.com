@@ -34,6 +34,8 @@ plugins:
         enabled: false
       nesting-depth:
         enabled: false
+      no-color-literals:
+        enabled: false
       no-important:
         enabled: false
       no-misspelled-properties:
