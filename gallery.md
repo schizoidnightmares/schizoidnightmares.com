@@ -1,14 +1,20 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: June 5, 2024
+last_modified_at: October 2, 2024
 ---
 
 # Gallery
-6 images in total
+7 images in total
 {: .cap}
 
 A gallery of the images on the website
+
+- [Schizoid Nightmares](#schizoid-nightmares)
+- [Public Icon derivations](#public-icons-derivations)
+- [Vlad Momot](#vlad-momot)
+- [Fair dealing](#fair-dealing)
+{: .toc}
 
 ## Schizoid Nightmares
 4 images
@@ -33,3 +39,11 @@ Artwork derived from <a href="https://lllllllllllllllll.com/" target="_blank">Da
 Artwork from <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as paid commissions
 
 {% include gallery.html author="Vlad Momot" %}
+
+## Fair dealing
+1 image
+{: .cap}
+
+Images that I use but do not have the rights to (I use under fair dealing)
+
+{% include gallery.html author="FD" %}
