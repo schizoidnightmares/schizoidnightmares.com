@@ -1,7 +1,7 @@
 ---
 title: About
 description: About me and my works
-last_modified_at: February 16, 2024
+last_modified_at: October 2, 2024
 ---
 
 # About
@@ -24,7 +24,6 @@ If you have any questions or feedback, be sure to <a href="https://tally.so/r/mO
 - <a href="https://archive.org/details/@schizoid_nightmares" target="_blank">Internet Archive</a>[^2]
 - <a href="https://mastodon.social/@schizoidnightmares" target="_blank">Mastodon</a>
 - <a href="https://schizoidnightmares.medium.com/" target="_blank">Medium</a>
-- <a href="https://neovel.io/user/66358/schizoid-nightmares" target="_blank">Neovel</a>
 - <a href="https://creator.nightcafe.studio/u/schizoidnightmares" target="_blank">NightCafe Creator</a>
 - <a href="https://www.patreon.com/schizoidnightmares" target="_blank">Patreon</a>
 - <a href="https://www.quotev.com/schizoidnightmares" target="_blank">Quotev</a>
