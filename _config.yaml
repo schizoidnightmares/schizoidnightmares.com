@@ -53,8 +53,8 @@ feed:
   excerpt_only: true
   posts_limit: 7
 
-# jekyll-theme-schizoid
-custom_icon: /assets/images/sn_icon_small.png
+# site variables
+custom_icon: /assets/images/sn_icon_2024_symbol_small.png
 
 # also add the plugins in the Gemfile if they have a gem
 # use gem uninstall to remove unwanted gems
