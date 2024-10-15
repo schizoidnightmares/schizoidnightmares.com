@@ -1170,6 +1170,10 @@
   flag: cu
   category: places
 
+- title: Davao City
+  flag: ph
+  category: places
+
 - title: Detroit, Michigan
   flag: us
   category: places
@@ -1204,6 +1208,10 @@
 
 - title: Iran <small>(1950s–1970s)</small>
   flag: ir
+  category: places
+
+- title: Kigali
+  flag: rw
   category: places
 
 - title: Las Vegas, Nevada
@@ -1242,7 +1250,7 @@
   flag: pe
   category: places
 
-- title: Philippines <small>(1960s–1980s)</small>
+- title: Philippines <small>(1960s–1980s, 2016–2022)</small>
   flag: ph
   category: places
 
