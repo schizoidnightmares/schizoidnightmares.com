@@ -4,6 +4,12 @@
   usage: Vector production
   notes: Paid software
 
+- title: 'Anonymous Filipino #1'
+  flag: ph
+  usage: Logo concepts, feedback, and brainstorming
+  notes: Paid and unpaid contributor
+  direct: true
+
 - title: archive.today
   url: https://archive.ph/
   usage: Web archiving
@@ -204,7 +210,7 @@
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
-  usage: Font; used in branding; used on schizoidnightmares.com and absurdrealms.com
+  usage: Font; used on schizoidnightmares.com and absurdrealms.com
   notes: Licensed under the <a href="http://cyreal.org/license/" target="_blank">OFL</a>
 
 - title: MasterClass

@@ -1,11 +1,11 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: October 15, 2024
+last_modified_at: October 16, 2024
 ---
 
 # Credits
-417 credits in total
+418 credits in total
 {: .cap}
 
 Contributors and inspirations that help(ed) make [my](/about/) work possible
@@ -24,11 +24,11 @@ Contributors and inspirations that help(ed) make [my](/about/) work possible
 {: .toc}
 
 ## Contributors
-64 contributors in total
+65 contributors in total
 {: .cap}
 
 ### Direct
-2 contributors
+3 contributors
 {: .cap}
 
 Below are direct contributors — listed in alphabetical order.
@@ -91,9 +91,9 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 
 The national origins of all credits
 
-{% include origin.html flag="us" perc="55.9" %}
+{% include origin.html flag="us" perc="55.7" %}
 {% include origin.html flag="gb" perc="11.5" %}
-{% include origin.html flag="ca" perc="4.6" %}
+{% include origin.html flag="ca" perc="4.5" %}
 {% include origin.html flag="de" perc="2.9" %}
 {% include origin.html flag="fr" perc="1.9" %}
 {% include origin.html flag="ru" perc="1.9" %}
@@ -106,6 +106,7 @@ The national origins of all credits
 {% include origin.html flag="cz" perc="0.7" %}
 {% include origin.html flag="il" perc="0.7" %}
 {% include origin.html flag="it" perc="0.7" %}
+{% include origin.html flag="ph" perc="0.7" %}
 {% include origin.html flag="kr" perc="0.7" %}
 {% include origin.html flag="se" perc="0.7" %}
 {% include origin.html flag="ge" perc="0.5" %}
@@ -113,7 +114,6 @@ The national origins of all credits
 {% include origin.html flag="mx" perc="0.5" %}
 {% include origin.html flag="np" perc="0.5" %}
 {% include origin.html flag="no" perc="0.5" %}
-{% include origin.html flag="ph" perc="0.5" %}
 {% include origin.html flag="pl" perc="0.5" %}
 {% include origin.html flag="rw" perc="0.5" %}
 {% include origin.html flag="bt" perc="0.2" %}
