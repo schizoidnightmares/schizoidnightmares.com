@@ -1,10 +1,11 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: October 16, 2024
+last_modified_at: October 17, 2024
 layout: header
-header: header_blur.jpg
+header: /assets/images/header_blur.jpg
 header-title: Schizoid Nightmares
+header-wordmark: /assets/images/sn_wordmark.png
 header-subtitle: 2019–present
 caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the cover for <i>Anthology I</i> — art by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as a paid commission
 ---
