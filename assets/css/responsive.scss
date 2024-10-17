@@ -43,7 +43,10 @@
       .header, .content { padding: 0 2rem; }
       .header {
         text-align: center;
-        div h1 { font-size: 3.8rem; }
+        div {
+          h1 { font-size: 3.8rem; }
+          img { max-width: 90%; }
+        }
       }
       .content {
         & > img, .content > p img {

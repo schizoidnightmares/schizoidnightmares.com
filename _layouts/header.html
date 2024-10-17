@@ -3,9 +3,13 @@ layout: base
 style: header
 ---
 
-<div class="header" style="background-image: url('/assets/images/{{ page.header }}')">
+<div class="header" style="background-image: url('{{ page.header }}')">
     <div>
-        {% if page.header-title %}<h1>{{ page.header-title }}</h1>{% endif %}
+        {% if page.header-title and page.header-wordmark %}
+        <img src="{{ page.header-wordmark }}" alt="{{ page.header-title }}">
+        {% elsif page.header-title %}
+        <h1>{{ page.header-title }}</h1>
+        {% endif %}
         {% if page.header-subtitle %}<p class="subtitle">{{ page.header-subtitle }}</p>{% endif %}
     </div>
 </div>
