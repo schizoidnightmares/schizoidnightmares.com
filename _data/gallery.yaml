@@ -4,7 +4,7 @@
   thumb: /assets/images/sn_icon_small.png
   src: /assets/images/sn_icon.png
 
-- title: <i>Absurd Realms</i> icon
+- title: <i>Absurd Realms</i> icon (old)
   author: SN
   date: 2023
   thumb: /assets/images/ar_icon_small.png
@@ -59,3 +59,9 @@
   date: 2024
   thumb: /assets/images/sn_wordmark_small.png
   src: /assets/images/sn_wordmark.png
+
+- title: <i>Absurd Realms</i> icon (current)
+  author: SN
+  date: 2024
+  thumb: /assets/images/ar_icon_2024_small.png
+  src: /assets/images/ar_icon_2024.png

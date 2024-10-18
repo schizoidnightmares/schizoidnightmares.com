@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: October 17, 2024
+last_modified_at: October 18, 2024
 layout: header
 header: /assets/images/header_blur.jpg
 header-title: Schizoid Nightmares
@@ -20,7 +20,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-    <a href="https://absurdrealms.com/" target="_blank"><img src="/assets/images/ar_icon_small.png"></a>
+    <a href="https://absurdrealms.com/" target="_blank"><img src="/assets/images/ar_icon_2024_small.png"></a>
     <div>
         <h2><i><a href="https://absurdrealms.com/" target="_blank">Absurd Realms</a></i></h2>
         <p class="cap">2023–present</p>
