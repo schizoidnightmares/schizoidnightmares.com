@@ -237,12 +237,6 @@
   usage: Stock videos
   notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
-- title: Nathan Vaughn
-  flag: us
-  url: https://nathanv.me/
-  usage: 'GitHub action for cache purging: <a href="https://github.com/NathanVaughn/actions-cloudflare-purge" target="_blank">actions-cloudflare-purge</a>'
-  notes: GitHub action licensed under the <a href="https://github.com/NathanVaughn/actions-cloudflare-purge/blob/master/LICENSE" target="_blank">MIT License</a>
-
 - title: NightCafe Studio
   flag: au
   url: https://creator.nightcafe.studio/
