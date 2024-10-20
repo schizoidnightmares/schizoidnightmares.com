@@ -11,6 +11,8 @@ last_modified_at: October 19, 2024
 A gallery of the images on the website
 
 - [Schizoid Nightmares](#schizoid-nightmares)
+  - [Creative Commons](#creative-commons)
+  - [Copyrighted](#copyrighted)
 - [Public Icon derivations](#public-icons-derivations)
 - [Vlad Momot](#vlad-momot)
 - [Fair dealing](#fair-dealing)
@@ -22,7 +24,21 @@ A gallery of the images on the website
 
 Artwork by Schizoid Nightmares
 
+### Creative Commons
+8 images
+{: .cap}
+
+Artwork by Schizoid Nightmares under [CC](/terms#licensing)
+
 {% include gallery.html author="SN" %}
+
+### Copyrighted
+1 image
+{: .cap}
+
+Copyrighted artwork (non-CC) by Schizoid Nightmares
+
+{% include gallery.html author="SNC" %}
 
 ## Public Icons derivations
 1 image
