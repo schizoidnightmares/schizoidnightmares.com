@@ -30,7 +30,7 @@
   thumb: /assets/images/snf_icon_small.png
   src: /assets/images/snf_icon.png
 
-- title: PlotBible icon
+- title: PlotBible icon (old)
   author: SN
   date: 2024
   thumb: /assets/images/plotbible_icon_small.png
@@ -65,3 +65,9 @@
   date: 2024
   thumb: /assets/images/ar_icon_2024_small.png
   src: /assets/images/ar_icon_2024.png
+
+- title: PlotBible icon (current)
+  author: SN
+  date: 2024
+  thumb: /assets/images/plotbible_icon_oct2024_small.png
+  src: /assets/images/plotbible_icon_oct2024.png
