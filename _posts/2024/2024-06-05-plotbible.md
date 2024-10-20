@@ -9,6 +9,8 @@ caption: The <a href="/assets/images/plotbible_icon.png" target="_blank">icon</a
 
 PlotBible, a proprietary online worldbuilding subscription service, is now in active development.
 
+**Parts of this post may become out of date in the future.**
+
 - [My own worldbuilding needs demand it](#my-own-worldbuilding-needs-demand-it)
 - [Features at launch](#features-at-launch)
 - [Pricing](#pricing)
