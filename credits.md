@@ -44,7 +44,7 @@ Below are indirect contributors — listed in alphabetical order.
 {% include contributors.html %}
 
 ## Inspirations
-356 inspirations
+357 inspirations
 {: .cap}
 
 Below are my sources of inspiration — listed by type in alphabetical order.
