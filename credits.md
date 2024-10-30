@@ -1,7 +1,7 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: October 29, 2024
+last_modified_at: October 30, 2024
 ---
 
 # Credits

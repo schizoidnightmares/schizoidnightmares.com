@@ -10,7 +10,7 @@
   thumb: /assets/images/ar_icon_small.png
   src: /assets/images/ar_icon.png
 
-- title: Music note symbol
+- title: Music note symbol (old)
   url: https://github.com/davidmerfield/Public-Icons/blob/master/source/icons/note.svg
   author: DIP
   date: 2023
@@ -71,3 +71,10 @@
   date: 2024
   thumb: /assets/images/plotbible_icon_oct2024_small.png
   src: /assets/images/plotbible_icon_oct2024.png
+
+- title: Music note symbol (current)
+  url: https://github.com/davidmerfield/Public-Icons/blob/master/source/icons/note.svg
+  author: DIP
+  date: 2024
+  thumb: /assets/images/note_2024_small.png
+  src: /assets/images/note_2024.png

@@ -1,11 +1,11 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: October 19, 2024
+last_modified_at: October 30, 2024
 ---
 
 # Gallery
-12 images in total
+13 images in total
 {: .cap}
 
 A gallery of the images on the website
@@ -19,7 +19,7 @@ A gallery of the images on the website
 {: .toc}
 
 ## Schizoid Nightmares
-9 images
+11 images
 {: .cap}
 
 Artwork by Schizoid Nightmares
@@ -40,11 +40,11 @@ Copyrighted artwork (non-CC) by Schizoid Nightmares
 
 {% include gallery.html author="SNC" %}
 
-## Public Icons derivations
-1 image
+### Public Icons derivations
+2 images
 {: .cap}
 
-Artwork derived from <a href="https://lllllllllllllllll.com/" target="_blank">David Merfield</a>’s <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a> (<a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>)
+Artwork (not originally) by Schizoid Nightmares derived from <a href="https://lllllllllllllllll.com/" target="_blank">David Merfield</a>’s <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a> (<a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>)
 
 {% include gallery.html author="DIP" %}
 

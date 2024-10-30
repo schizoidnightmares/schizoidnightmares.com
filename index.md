@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: October 19, 2024
+last_modified_at: October 30, 2024
 layout: header
 header: /assets/images/header_blur.jpg
 header-title: Schizoid Nightmares
@@ -32,7 +32,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 <div class="feature" markdown=0>
     <a href="https://schizoidnightmares.net/" target="_blank"><img src="/assets/images/snf_icon_2024_small.png"></a>
     <div>
-        <h2><a href="https://schizoidnightmares.net/" target="_blank">Schizoid Nightmares Forums</a></h2>
+        <h2><a href="https://schizoidnightmares.net/" target="_blank">Forums</a></h2>
         <p class="cap">2023–present</p>
         <p>A public forums for feedback and discussion</p>
         <div><a href="https://schizoidnightmares.net/" target="_blank">visit forums</a></div>
@@ -40,7 +40,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-    <a href="/music/"><img src="/assets/images/note_small.png"></a>
+    <a href="/music/"><img src="/assets/images/note_2024_small.png"></a>
     <div>
         <h2><a href="/music/">Music</a></h2>
         <p class="cap">2020–present</p>
