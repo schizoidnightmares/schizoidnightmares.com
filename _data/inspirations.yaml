@@ -590,6 +590,10 @@
   flag: gb
   category: games
 
+- title: <i>Destroy All Humans!</i> <small>(2005)</small>
+  flag: us
+  category: games
+
 - title: "<i>Detroit: Become Human</i> <small>(2018)</small>"
   flag: fr
   category: games
@@ -616,6 +620,10 @@
 
 - title: <i>Far Cry 4</i> <small>(2014)</small>
   flag: ca
+  category: games
+
+- title: <i>Frostpunk 2</i> <small>(2024)</small>
+  flag: pl
   category: games
 
 - title: <i>G String</i> <small>(2020)</small>
@@ -746,6 +754,10 @@
   flag: ca
   category: games
 
+- title: "<i>Rome: Total War</i> <small>(2004)</small>"
+  flag: gb
+  category: games
+
 - title: <i>Scorn</i> <small>(2022)</small>
   flag: rs
   category: games
@@ -759,6 +771,10 @@
   category: games
 
 - title: <i>Sid Meier’s Civilization</i>
+  flag: us
+  category: games
+
+- title: <i>SimCity</i>
   flag: us
   category: games
 

@@ -1,11 +1,11 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: October 19, 2024
+last_modified_at: October 29, 2024
 ---
 
 # Credits
-417 credits in total
+421 credits in total
 {: .cap}
 
 Contributors and inspirations that help(ed) make [my](/about/) work possible
@@ -44,7 +44,7 @@ Below are indirect contributors — listed in alphabetical order.
 {% include contributors.html %}
 
 ## Inspirations
-353 inspirations
+356 inspirations
 {: .cap}
 
 Below are my sources of inspiration — listed by type in alphabetical order.
@@ -56,7 +56,7 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 {% include inspirations.html category='films' size='smallest' %}
 
 ### Games
-71 inspirations
+75 inspirations
 {: .cap}
 
 {% include inspirations.html category='games' size='smallest' %}
@@ -92,8 +92,8 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 The national origins of all credits
 
 {% include origin.html flag="us" perc="55.6" %}
-{% include origin.html flag="gb" perc="11.5" %}
-{% include origin.html flag="ca" perc="4.6" %}
+{% include origin.html flag="gb" perc="11.6" %}
+{% include origin.html flag="ca" perc="4.5" %}
 {% include origin.html flag="de" perc="2.9" %}
 {% include origin.html flag="fr" perc="1.9" %}
 {% include origin.html flag="ru" perc="1.9" %}
@@ -107,6 +107,7 @@ The national origins of all credits
 {% include origin.html flag="il" perc="0.7" %}
 {% include origin.html flag="it" perc="0.7" %}
 {% include origin.html flag="ph" perc="0.7" %}
+{% include origin.html flag="pl" perc="0.7" %}
 {% include origin.html flag="kr" perc="0.7" %}
 {% include origin.html flag="se" perc="0.7" %}
 {% include origin.html flag="ge" perc="0.5" %}
@@ -114,7 +115,6 @@ The national origins of all credits
 {% include origin.html flag="mx" perc="0.5" %}
 {% include origin.html flag="np" perc="0.5" %}
 {% include origin.html flag="no" perc="0.5" %}
-{% include origin.html flag="pl" perc="0.5" %}
 {% include origin.html flag="rw" perc="0.5" %}
 {% include origin.html flag="bt" perc="0.2" %}
 {% include origin.html flag="bg" perc="0.2" %}
