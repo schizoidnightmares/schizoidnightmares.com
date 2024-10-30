@@ -13,7 +13,7 @@ A gallery of the images on the website
 - [Schizoid Nightmares](#schizoid-nightmares)
   - [Creative Commons](#creative-commons)
   - [Copyrighted](#copyrighted)
-- [Public Icon derivations](#public-icons-derivations)
+  - [Public Icon derivations](#public-icons-derivations)
 - [Vlad Momot](#vlad-momot)
 - [Fair dealing](#fair-dealing)
 {: .toc}
