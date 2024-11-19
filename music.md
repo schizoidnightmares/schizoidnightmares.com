@@ -1,7 +1,7 @@
 ---
 title: Music
 description: My electronic music tracks
-last_modified_at: November 26, 2023
+last_modified_at: November 19, 2024
 ---
 
 # Music
@@ -70,6 +70,20 @@ My electronic music tracks, all available under <a href="https://creativecommons
                 <a href="https://www.patreon.com/posts/world-peace-93363428" target="_blank">Patreon video</a><br>
                 <a href="https://soundcloud.com/schizoidnightmares/world-peace" target="_blank">SoundCloud</a><br>
                 <a href="https://www.youtube.com/watch?v=ImiHI3jg0QQ" target="_blank">YouTube</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Plastic Nightmare</td>
+            <td>
+                November 19, 2024
+            </td>
+            <td>
+                <a href="https://freemusicarchive.org/music/schizoid-nightmares/single/plastic-nightmare-1/" target="_blank">FMA</a><br>
+                <a href="https://schizoidnightmares.bandcamp.com/track/plastic-nightmare" target="_blank">Bandcamp</a><br>
+                <a href="https://www.patreon.com/posts/plastic-official-116304517" target="_blank">Patreon audio</a><br>
+                <a href="https://www.patreon.com/posts/plastic-official-1163029168" target="_blank">Patreon video</a><br>
+                <a href="https://soundcloud.com/schizoidnightmares/plastic-nightmare" target="_blank">SoundCloud</a><br>
+                <a href="https://www.youtube.com/watch?v=3z8FoCcvqjk" target="_blank">YouTube</a>
             </td>
         </tr>
     </table>
