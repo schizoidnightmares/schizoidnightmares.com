@@ -1,13 +1,11 @@
 ---
 title: About
 description: About me and my works
-last_modified_at: October 2, 2024
+last_modified_at: November 20, 2024
 ---
 
 # About
-I am a man of English Canadian descent, born, raised, and presently residing in Ontario, Canada. I was first clinically diagnosed with schizoid personality disorder[^1] after entering adulthood. Since 2019, I have been creating amateur <a href="https://freedomdefined.org/Definition" target="_blank">free-cultural works</a> under the pseudonym Schizoid Nightmares. My works are partly a coping mechanism for my mental illness.
-
-[^1]: Schizoid personality disorder is not the same as schizophrenia.
+I am an amateur content creator from Canada. Since 2019, I have been releasing my work pseudonymously as Schizoid Nightmares. My work includes fiction writing, graphic design, web development, and electronic music composition.
 
 ## Communications
 If you have any questions or feedback, be sure to <a href="https://tally.so/r/mOaDRp" target="_blank">contact me</a>.
