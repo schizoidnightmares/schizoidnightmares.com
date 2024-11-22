@@ -1,7 +1,7 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: November 19, 2024
+last_modified_at: November 22, 2024
 ---
 
 # Gallery
@@ -29,7 +29,7 @@ Artwork by Schizoid Nightmares
 8 images
 {: .cap}
 
-Artwork by Schizoid Nightmares under [CC](/terms#licensing)
+Artwork by Schizoid Nightmares under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 {% include gallery.html author="SN" %}
 
@@ -53,7 +53,7 @@ Artwork (not originally) by Schizoid Nightmares derived from <a href="https://ll
 1 image
 {: .cap}
 
-Artwork by Schizoid Nightmares under [CC](/terms#licensing), derived from AI
+Artwork by Schizoid Nightmares under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>, derived from AI
 
 {% include gallery.html author="AID" %}
 
@@ -61,7 +61,7 @@ Artwork by Schizoid Nightmares under [CC](/terms#licensing), derived from AI
 1 image
 {: .cap}
 
-Artwork from <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as paid commissions
+Artwork from <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as paid commissions (<a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>)
 
 {% include gallery.html author="Vlad Momot" %}
 
