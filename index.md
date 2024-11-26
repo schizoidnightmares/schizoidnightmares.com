@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: October 30, 2024
+last_modified_at: November 26, 2024
 layout: header
 header: /assets/images/header_blur.jpg
 header-title: Schizoid Nightmares
@@ -14,7 +14,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
     <img src="/assets/images/plotbible_icon_oct2024_small.png" alt="PlotBible icon">
     <div>
         <h2>PlotBible</h2>
-        <p>Create, manage, and share fictional worlds with dynamic time-based customizable entities and automatic timelines</p>
+        <p>Read, create, and publish bibles on fiction or other subjects of your choosing, using detailed chronological features</p>
         <div>TBA</div>
     </div>
 </div>
