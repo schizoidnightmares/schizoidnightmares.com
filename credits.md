@@ -1,11 +1,11 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: November 19, 2024
+last_modified_at: November 26, 2024
 ---
 
 # Credits
-422 credits in total
+427 credits in total
 {: .cap}
 
 Contributors and inspirations that help(ed) make [my](/about/) work possible
@@ -24,7 +24,7 @@ Contributors and inspirations that help(ed) make [my](/about/) work possible
 {: .toc}
 
 ## Contributors
-65 contributors in total
+68 contributors in total
 {: .cap}
 
 ### Direct
@@ -36,7 +36,7 @@ Below are direct contributors — listed in alphabetical order.
 {% include contributors.html direct=1 %}
 
 ### Indirect
-62 contributors
+65 contributors
 {: .cap}
 
 Below are indirect contributors — listed in alphabetical order.
@@ -44,7 +44,7 @@ Below are indirect contributors — listed in alphabetical order.
 {% include contributors.html %}
 
 ## Inspirations
-357 inspirations
+359 inspirations
 {: .cap}
 
 Below are my sources of inspiration — listed by type in alphabetical order.
@@ -68,7 +68,7 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 {% include inspirations.html category='lit' size='smallest' %}
 
 ### Places
-46 inspirations
+48 inspirations
 {: .cap}
 
 {% include inspirations.html category='places' size='smallest' %}
@@ -91,22 +91,22 @@ Below are my sources of inspiration — listed by type in alphabetical order.
 
 The national origins of all credits
 
-{% include origin.html flag="us" perc="55.5" %}
-{% include origin.html flag="gb" perc="11.6" %}
-{% include origin.html flag="ca" perc="4.5" %}
+{% include origin.html flag="us" perc="54.8" %}
+{% include origin.html flag="gb" perc="11.5" %}
+{% include origin.html flag="ca" perc="4.4" %}
 {% include origin.html flag="de" perc="2.8" %}
 {% include origin.html flag="fr" perc="1.9" %}
 {% include origin.html flag="ru" perc="1.9" %}
+{% include origin.html flag="ph" perc="1.6" %}
 {% include origin.html flag="au" perc="1.4" %}
 {% include origin.html flag="jp" perc="1.4" %}
-{% include origin.html flag="cn" perc="1.0" %}
-{% include origin.html flag="nz" perc="1.0" %}
-{% include origin.html flag="es" perc="1.0" %}
+{% include origin.html flag="cn" perc="0.9" %}
+{% include origin.html flag="nz" perc="0.9" %}
+{% include origin.html flag="es" perc="0.9" %}
 {% include origin.html flag="be" perc="0.7" %}
 {% include origin.html flag="cz" perc="0.7" %}
 {% include origin.html flag="il" perc="0.7" %}
 {% include origin.html flag="it" perc="0.7" %}
-{% include origin.html flag="ph" perc="0.7" %}
 {% include origin.html flag="pl" perc="0.7" %}
 {% include origin.html flag="kr" perc="0.7" %}
 {% include origin.html flag="se" perc="0.7" %}

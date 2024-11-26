@@ -1,11 +1,11 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: November 22, 2024
+last_modified_at: November 26, 2024
 ---
 
 # Gallery
-14 images in total
+15 images in total
 {: .cap}
 
 A gallery of the images on the website
@@ -14,13 +14,14 @@ A gallery of the images on the website
   - [Creative Commons](#creative-commons)
   - [Copyrighted](#copyrighted)
   - [Public Icon derivations](#public-icons-derivations)
+  - [Pexels derivations](#pexels-derivations)
   - [AI derivations](#ai-derivations)
 - [Vlad Momot](#vlad-momot)
 - [Fair dealing](#fair-dealing)
 {: .toc}
 
 ## Schizoid Nightmares
-12 images
+13 images
 {: .cap}
 
 Artwork by Schizoid Nightmares
@@ -48,6 +49,14 @@ Copyrighted artwork (non-CC) by Schizoid Nightmares
 Artwork (not originally) by Schizoid Nightmares derived from <a href="https://lllllllllllllllll.com/" target="_blank">David Merfield</a>’s <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a> (<a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>)
 
 {% include gallery.html author="DIP" %}
+
+### Pexels derivations
+1 image
+{: .cap}
+
+Artwork by Schizoid Nightmares under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>, derived from <a href="https://www.pexels.com/" target="_blank">Pexels</a>
+
+{% include gallery.html author="PXD" %}
 
 ### AI derivations
 1 image

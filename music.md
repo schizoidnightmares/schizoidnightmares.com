@@ -1,7 +1,7 @@
 ---
 title: Music
 description: My electronic music tracks
-last_modified_at: November 19, 2024
+last_modified_at: November 26, 2024
 ---
 
 # Music
@@ -46,9 +46,7 @@ My electronic music tracks, all available under <a href="https://creativecommons
         </tr>
         <tr>
             <td>DIOS</td>
-            <td>
-                November 21, 2023
-            </td>
+            <td>November 21, 2023</td>
             <td>
                 <a href="https://freemusicarchive.org/music/schizoid-nightmares/single/dios/" target="_blank">FMA</a><br>
                 <a href="https://schizoidnightmares.bandcamp.com/track/dios" target="_blank">Bandcamp</a><br>
@@ -60,9 +58,7 @@ My electronic music tracks, all available under <a href="https://creativecommons
         </tr>
         <tr>
             <td>World Peace</td>
-            <td>
-                November 22, 2023
-            </td>
+            <td>November 22, 2023</td>
             <td>
                 <a href="https://freemusicarchive.org/music/schizoid-nightmares/single/world-peace/" target="_blank">FMA</a><br>
                 <a href="https://schizoidnightmares.bandcamp.com/track/world-peace" target="_blank">Bandcamp</a><br>
@@ -74,9 +70,7 @@ My electronic music tracks, all available under <a href="https://creativecommons
         </tr>
         <tr>
             <td>Plastic Nightmare</td>
-            <td>
-                November 19, 2024
-            </td>
+            <td>November 19, 2024</td>
             <td>
                 <a href="https://freemusicarchive.org/music/schizoid-nightmares/single/plastic-nightmare-1/" target="_blank">FMA</a><br>
                 <a href="https://schizoidnightmares.bandcamp.com/track/plastic-nightmare" target="_blank">Bandcamp</a><br>
@@ -84,6 +78,18 @@ My electronic music tracks, all available under <a href="https://creativecommons
                 <a href="https://www.patreon.com/posts/plastic-official-1163029168" target="_blank">Patreon video</a><br>
                 <a href="https://soundcloud.com/schizoidnightmares/plastic-nightmare" target="_blank">SoundCloud</a><br>
                 <a href="https://www.youtube.com/watch?v=3z8FoCcvqjk" target="_blank">YouTube</a>
+            </td>
+        </tr>
+        <tr>
+            <td>Concrete Amazon</td>
+            <td>November 26, 2024</td>
+            <td>
+                <a href="https://freemusicarchive.org/music/schizoid-nightmares/single/concrete-amazon-1/" target="_blank">FMA</a><br>
+                <a href="https://schizoidnightmares.bandcamp.com/track/concrete-amazon" target="_blank">Bandcamp</a><br>
+                <a href="https://www.patreon.com/posts/concrete-amazon-116753580" target="_blank">Patreon audio</a><br>
+                <a href="https://www.patreon.com/posts/concrete-amazon-116729435" target="_blank">Patreon video</a><br>
+                <a href="https://soundcloud.com/schizoidnightmares/concrete-amazon" target="_blank">SoundCloud</a><br>
+                <a href="https://www.youtube.com/watch?v=f1TFhKwc4MA" target="_blank">YouTube</a>
             </td>
         </tr>
     </table>

@@ -80,7 +80,15 @@
   src: /assets/images/note_2024.png
 
 - title: Plastic Nightmare cover image
+  url: https://creator.nightcafe.studio/creation/i4iyokWMnqMEkxU3m49m
   author: AID
   date: 2024
   thumb: /assets/images/news/plastic_nightmare_small.jpg
   src: /assets/images/news/plastic_nightmare.jpg
+
+- title: Concrete Amazon cover image
+  url: https://www.pexels.com/video/traffic-in-centrum-of-manilla-19946592/
+  author: PXD
+  date: 2024
+  thumb: /assets/images/news/concrete_amazon_small.jpg
+  src: /assets/images/news/concrete_amazon.jpg

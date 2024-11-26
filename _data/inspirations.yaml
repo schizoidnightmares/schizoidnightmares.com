@@ -1254,6 +1254,10 @@
   flag: mm
   category: places
 
+- title: National Capital Region
+  flag: ph
+  category: places
+
 - title: Nepal
   flag: np
   category: places
@@ -1267,6 +1271,10 @@
   category: places
 
 - title: Philippines
+  flag: ph
+  category: places
+
+- title: Province of Cebu
   flag: ph
   category: places
 

@@ -147,6 +147,11 @@
   notes: Unpaid contributor
   direct: true
 
+- title: Hampie
+  url: https://www.pexels.com/@hampie-22210409/
+  usage: Stock videos
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
+
 - title: Hayk An
   flag: es
   url: https://github.com/hihayk
@@ -170,6 +175,12 @@
   url: https://archive.org/
   usage: Web archiving
   notes: Free service
+
+- title: Jay Near
+  flag: ph
+  url: https://www.pexels.com/@jay-near-2862664/
+  usage: Stock videos
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
 - title: Jekyll
   flag: us
@@ -269,6 +280,12 @@
 - title: Pexels
   flag: de
   url: https://www.pexels.com/
+  usage: Stock videos
+  notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
+
+- title: Pinas Update
+  flag: ph
+  url: https://www.pexels.com/@pinas-update-50262714/
   usage: Stock videos
   notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
 
