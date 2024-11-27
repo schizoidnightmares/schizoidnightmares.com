@@ -1,6 +1,6 @@
 ---
 title: “Concrete Amazon” now available
-description: My sixth music track (including music video) release, Concrete Amazon,” is now available
+description: My sixth music track (including music video) release, “Concrete Amazon,” is now available
 src: /assets/images/news/concrete_amazon_med.jpg
 src-thumb: /assets/images/news/concrete_amazon_small.jpg
 alt: Concrete Amazon
