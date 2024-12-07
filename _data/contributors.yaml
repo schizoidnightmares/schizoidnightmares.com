@@ -4,10 +4,15 @@
   usage: Vector production
   notes: Paid software
 
-- title: 'Anonymous Filipino #1'
+- title: 'Anonymous artist #1 (credit as anonymous)'
+  usage: Cover artist for <i>Paralell</i>
+  notes: Paid contributor; art produced for me licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>; requested anonymity
+  direct: true
+
+- title: 'Anonymous Filipino #1 (credit as anonymous)'
   flag: ph
   usage: Creative consultant
-  notes: Paid and unpaid contributor
+  notes: Paid and unpaid contributor; requested anonymity except for origin
   direct: true
 
 - title: archive.today
@@ -103,6 +108,12 @@
   url: https://fontawesome.com/
   usage: Free icons (derived)
   notes: Free icons licensed under <a href="https://github.com/FortAwesome/Font-Awesome/blob/6.x/LICENSE.txt" target="_blank">CC BY 4.0</a>
+
+- title: Fontello
+  flag: il
+  url: https://fontello.com/
+  usage: Icon fonts generator
+  notes: Licensed under the <a href="https://github.com/fontello/fontello/blob/master/LICENSE" target="_blank">MIT License</a>
 
 - title: GarageBand
   flag: us
@@ -228,6 +239,12 @@
   url: http://cyreal.org/fonts/lora/
   usage: Font; used on schizoidnightmares.com and absurdrealms.com
   notes: Licensed under the <a href="http://cyreal.org/license/" target="_blank">OFL</a>
+
+- title: MAMP
+  flag: de
+  url: https://www.mamp.info/
+  usage: Local full-stack development
+  notes: Freemium software
 
 - title: MasterClass
   flag: us
@@ -372,6 +389,12 @@
   url: https://www.tutorialspoint.com/
   usage: Web development reference
   notes: Free service
+
+- title: UnifrakturMaguntia by J. Mach Wust
+  flag: ch
+  url: https://fonts.google.com/specimen/UnifrakturMaguntia
+  usage: Font; used on plotbible.com
+  notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
 
 - title: Visual Studio Code
   flag: us
