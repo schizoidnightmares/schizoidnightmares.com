@@ -51,4 +51,6 @@ I expect that the vast majority of users will not encounter difficulties with co
 ## This doesn't change my other projects
 PlotBible is proprietary because it has to be. *Absurd Realms* and my music releases do not require commercialization and will remain under free cultural licensing.
 
+---
+
 *As this article describes a proprietary service, I do not license it under Creative Commons. Full copyright applies (except for the now-old PlotBible icon above) © Schizoid Nightmares.*

@@ -324,3 +324,7 @@ code { white-space: nowrap; }
     padding: 2rem 3rem;
   }
 }
+
+hr {
+  border: .05rem solid $color-secondary;
+}
