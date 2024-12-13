@@ -1,28 +1,3 @@
-// Lora font face
-@font-face {
-  font-display: swap;
-  font-family: Lora;
-  src: url(../fonts/Lora-VariableFont_wght.ttf);
-}
-@font-face {
-  font-display: swap;
-  font-family: Lora;
-  font-style: italic;
-  src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
-}
-// Open Sans font face
-@font-face {
-  font-display: swap;
-  font-family: 'Open Sans';
-  src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
-}
-@font-face {
-  font-display: swap;
-  font-family: 'Open Sans';
-  font-style: italic;
-  src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
-}
-
 // sets font size to 10px default, useful with rem values
 :root { font-size: 62.5%; }
 
@@ -42,18 +17,23 @@ body {
 }
 
 :is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) { text-decoration: none; }
+
 :is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), :is(a, a:active, a:visited):has(img) {
   &[target="_blank"]::after { content: none; }
   &[href]:where([href^="http"])::after { content: none; }
 }
+
 h1, h2, h3 {
   font-family: Lora, serif;
   letter-spacing: .02rem;
   margin: 1.5rem 0 1rem;
+
   + p { margin-top: 1rem; }
 }
+
 h1 {
   font-size: 3.2rem;
+
   ~ .pagenav { margin-bottom: 1.5rem; }
 }
 h2 { font-size: 2.4rem; }
@@ -61,12 +41,14 @@ h3 { font-size: 1.9rem; }
 
 p {
   margin: 1.5rem 0;
+
   // heading captions
   &.cap {
     color: $color-secondary;
     font-size: 1.5rem;
     margin-bottom: .8rem;
     margin-top: -1rem;
+
     + p { margin: .8rem 0 1rem; }
   }
 }
@@ -77,11 +59,14 @@ a, a:active, a:visited {
   color: $color-link;
   text-decoration: $color-primary underline 8%;
   text-underline-offset: 8%;
+
   // internal _blank
   &[target="_blank"]::after { content: ' ❐'; }
+
   // external link
   &[href]:where([href^="http"])::after { content: ' ⧉'; }
 }
+
 a:hover {
   color: $color-primary;
   img { opacity: .75; }
@@ -325,6 +310,29 @@ code { white-space: nowrap; }
   }
 }
 
-hr {
-  border: .05rem solid $color-secondary;
+/* Fonts */
+
+@font-face {
+  font-display: swap;
+  font-family: Lora;
+  src: url(../fonts/Lora-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Lora;
+  font-style: italic;
+  src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Open Sans';
+  src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Open Sans';
+  font-style: italic;
+  src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
 }
