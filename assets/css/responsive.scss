@@ -49,7 +49,7 @@
         }
       }
       .content {
-        & > img, .content > p img {
+        & > img, & > p img {
           max-height: 175px;
           max-width: 100%;
         }
