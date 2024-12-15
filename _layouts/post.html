@@ -18,6 +18,10 @@ style: post
     {% if page.caption %}<div class="caption"><p>{{ page.caption }}</p></div>{% endif %}
     {% endif %}
     {{ content }}
+    {% if page.copyrighted %}
+    <hr>
+    <small><i>{{ page.copyright | default: "Full copyright applies to this article. © Schizoid&nbsp;Nightmares. All rights reserved." }}</i></small>
+    {% endif %}
     <div class="pagenav">
         <p class="return">← <a href="/{{ page.category }}/">{{ page.category }}</a></p>
     </div>
