@@ -16,12 +16,7 @@ body {
   margin: 0;
 }
 
-:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) { text-decoration: none; }
-
-:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), :is(a, a:active, a:visited):has(img) {
-  &[target="_blank"]::after { content: none; }
-  &[href]:where([href^="http"])::after { content: none; }
-}
+/* Headings */
 
 h1, h2, h3 {
   font-family: Lora, serif;
@@ -36,8 +31,11 @@ h1 {
 
   ~ .pagenav { margin-bottom: 1.5rem; }
 }
+
 h2 { font-size: 2.4rem; }
 h3 { font-size: 1.9rem; }
+
+/* Paragraphs and lists */
 
 p {
   margin: 1.5rem 0;
@@ -46,14 +44,30 @@ p {
   &.cap {
     color: $color-secondary;
     font-size: 1.5rem;
-    margin-bottom: .8rem;
+    margin-bottom: 1.5rem;
     margin-top: -1rem;
-
-    + p { margin: .8rem 0 1rem; }
   }
 }
 
+ul, ol {
+  padding-inline-start: 6%;
+
+  // give spaces between list items like paragraphs
+  &.spaced li, &.spaced li ul li, &.spaced li ol li { margin: 1rem 0; }
+}
+
+ol ol { list-style-type: lower-alpha; }
+
+code { white-space: nowrap; }
+
+small {
+  font-size: 1.5rem;
+  line-height: 1.5;
+}
+
 sup { line-height: 0; }
+
+/* Links */
 
 a, a:active, a:visited {
   color: $color-link;
@@ -69,16 +83,45 @@ a, a:active, a:visited {
 
 a:hover {
   color: $color-primary;
+  
   img { opacity: .75; }
 }
 
-ul, ol {
-  padding-inline-start: 6%;
-  &.spaced li, &.spaced li ul li, &.spaced li ol li { margin: 1rem 0; }
-}
-ol ol { list-style-type: lower-alpha; }
+:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) { text-decoration: none; }
 
-code { white-space: nowrap; }
+:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), :is(a, a:active, a:visited):has(img) {
+  &[target="_blank"]::after { content: none; }
+  &[href]:where([href^="http"])::after { content: none; }
+}
+
+/* Fonts */
+
+@font-face {
+  font-display: swap;
+  font-family: Lora;
+  src: url(../fonts/Lora-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: Lora;
+  font-style: italic;
+  src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-display: swap;
+  font-family: 'Open Sans';
+  src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
+}
+@font-face {
+  font-display: swap;
+  font-family: 'Open Sans';
+  font-style: italic;
+  src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
+}
+
+/* Reorganize later */
 
 .table {
   margin: 1.5rem auto;
@@ -308,31 +351,4 @@ code { white-space: nowrap; }
     border: .1rem solid $color-border;
     padding: 2rem 3rem;
   }
-}
-
-/* Fonts */
-
-@font-face {
-  font-display: swap;
-  font-family: Lora;
-  src: url(../fonts/Lora-VariableFont_wght.ttf);
-}
-
-@font-face {
-  font-display: swap;
-  font-family: Lora;
-  font-style: italic;
-  src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
-}
-
-@font-face {
-  font-display: swap;
-  font-family: 'Open Sans';
-  src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
-}
-@font-face {
-  font-display: swap;
-  font-family: 'Open Sans';
-  font-style: italic;
-  src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
 }
