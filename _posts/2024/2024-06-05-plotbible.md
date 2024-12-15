@@ -5,6 +5,8 @@ src: /assets/images/plotbible_icon_med.png
 src-thumb: /assets/images/plotbible_icon_small.png
 alt: PlotBible icon
 caption: The <a href="/assets/images/plotbible_icon.png" target="_blank">icon</a> for PlotBible (CC BY 4.0)
+copyrighted: true
+copyright: As this article describes a proprietary service, I do not license it under Creative Commons. Full copyright applies (except for the now-old PlotBible icon above). © Schizoid&nbsp;Nightmares.
 ---
 
 PlotBible, a proprietary online worldbuilding subscription service, is now in active development.
@@ -50,7 +52,3 @@ I expect that the vast majority of users will not encounter difficulties with co
 
 ## This doesn't change my other projects
 PlotBible is proprietary because it has to be. *Absurd Realms* and my music releases do not require commercialization and will remain under free cultural licensing.
-
----
-
-*As this article describes a proprietary service, I do not license it under Creative Commons. Full copyright applies (except for the now-old PlotBible icon above) © Schizoid Nightmares.*
