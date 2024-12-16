@@ -3,8 +3,9 @@ layout: base
 style: header
 ---
 
-<div class="header" style="background-image: url('{{ page.header }}')">
-    <div>
+<div class="header">
+    <div class="headerImg" style="background-image: url('{{ page.header }}')"></div>
+    <div class="headerText">
         {% if page.header-title and page.header-wordmark %}
         <img src="{{ page.header-wordmark }}" alt="{{ page.header-title }}">
         {% elsif page.header-title %}

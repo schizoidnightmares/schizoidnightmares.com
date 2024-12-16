@@ -4,20 +4,39 @@
 
 .container .middle {
   grid-template-rows: 400px auto;
+
   .header {
     align-items: center;
-    background-color: $color-bg;
-    background-position: center;
-    background-size: cover;
     cursor: default;
     display: flex;
     grid-area: 1 / 1 / 2 / 4;
-    div {
+    position: relative;
+
+    .headerImg {
+      animation: fadeIn .5s ease-in;
+      background-position: center;
+      background-size: cover;
+      bottom: 0;
+      content: '';
+      position: absolute;
+      top: 0;
+      width: 100%;
+      z-index: -1;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+
+    .headerText {
       color: $color-link;
       line-height: 1.2;
       margin: 0 auto;
+      position: relative;
       text-align: center;
       text-shadow: 0 0 .5rem $color-bg;
+
       h1 {
         color: $color-link;
         font-size: 6rem;
@@ -26,12 +45,15 @@
         margin: 0;
         text-transform: uppercase;
       }
+
       p { margin: 0; }
+
       img {
         margin: 7px 0;
         max-width: 700px;
       }
     }
   }
+
   .content { grid-area: 2 / 2 / 3 / 3; }
 }
