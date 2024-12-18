@@ -1,11 +1,11 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: November 26, 2024
+last_modified_at: December 18, 2024
 ---
 
 # Gallery
-15 images in total
+16 images in total
 {: .cap}
 
 A gallery of the images on the website
@@ -21,10 +21,10 @@ A gallery of the images on the website
 {: .toc}
 
 ## Schizoid Nightmares
-13 images
+14 images
 {: .cap}
 
-Artwork by Schizoid Nightmares
+Artwork and images by Schizoid Nightmares
 
 ### Creative Commons
 8 images
@@ -35,10 +35,10 @@ Artwork by Schizoid Nightmares under <a href="https://creativecommons.org/licens
 {% include gallery.html author="SN" %}
 
 ### Copyrighted
-1 image
+2 images
 {: .cap}
 
-Copyrighted artwork (non-CC) by Schizoid Nightmares
+Copyrighted artwork and images (non-CC) by Schizoid Nightmares
 
 {% include gallery.html author="SNC" %}
 
