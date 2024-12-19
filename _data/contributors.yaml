@@ -5,7 +5,7 @@
   notes: Paid software
 
 - title: 'Anonymous artist #1 (credit as anonymous)'
-  usage: Cover artist for <i>Paralell</i>
+  usage: Cover artist for <i>Parallel</i>
   notes: Paid contributor; art produced for me licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>; requested anonymity
   direct: true
 
@@ -84,6 +84,12 @@
   url: https://lllllllllllllllll.com/
   usage: <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a> (derived)
   notes: Licensed under <a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>
+
+- title: diagrams.net
+  flag: gb
+  url: https://app.diagrams.net/
+  usage: Diagram and flowchart creation
+  notes: Freemium service
 
 - title: EleutherAI
   flag: us
@@ -395,6 +401,12 @@
   url: https://fonts.google.com/specimen/UnifrakturMaguntia
   usage: Font; used on plotbible.com
   notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
+
+- title: UptimeRobot
+  flag: mt
+  url: https://uptimerobot.com/
+  usage: Uptime monitoring
+  notes: Freemium service
 
 - title: Visual Studio Code
   flag: us
