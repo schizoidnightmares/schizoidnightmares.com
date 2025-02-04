@@ -342,6 +342,12 @@
   usage: <a href="https://self-publishingschool.com/parts-of-a-book/" target="_blank">Parts of a book</a>
   notes: Free reference
 
+- title: Servervana
+  flag: ro
+  url: https://servervana.com/
+  usage: Uptime monitoring
+  notes: Freemium service
+
 - title: Shaping Design Blog
   flag: il
   url: https://www.editorx.com/shaping-design
@@ -401,12 +407,6 @@
   url: https://fonts.google.com/specimen/UnifrakturMaguntia
   usage: Font; used on plotbible.com
   notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
-
-- title: UptimeRobot
-  flag: mt
-  url: https://uptimerobot.com/
-  usage: Uptime monitoring
-  notes: Freemium service
 
 - title: Visual Studio Code
   flag: us

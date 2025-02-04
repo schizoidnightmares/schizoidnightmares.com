@@ -1,7 +1,7 @@
 ---
 title: Credits
 description: Acknowledging sources that help(ed) make my work possible
-last_modified_at: December 18, 2024
+last_modified_at: February 3, 2025
 ---
 
 # Credits
@@ -86,7 +86,7 @@ Below are my sources of inspiration — listed by type in alphabetical order
 {% include inspirations.html category='web' %}
 
 ## Origins
-55 origins
+54 origins
 {: .cap}
 
 The national origins of all credits
@@ -132,11 +132,11 @@ The national origins of all credits
 {% include origin.html flag="iq" perc="0.2" %}
 {% include origin.html flag="lv" perc="0.2" %}
 {% include origin.html flag="ly" perc="0.2" %}
-{% include origin.html flag="mt" perc="0.2" %}
 {% include origin.html flag="mn" perc="0.2" %}
 {% include origin.html flag="mm" perc="0.2" %}
 {% include origin.html flag="pk" perc="0.2" %}
 {% include origin.html flag="pe" perc="0.2" %}
+{% include origin.html flag="ro" perc="0.2" %}
 {% include origin.html flag="kn" perc="0.2" %}
 {% include origin.html flag="sa" perc="0.2" %}
 {% include origin.html flag="rs" perc="0.2" %}

@@ -1,10 +1,13 @@
 ---
 title: Reform and renovation
 description: Licensing reforms and website renovation
+last_modified_at: February 3, 2025
 copyrighted: true
 ---
 
 I've been self-publishing content under the pseudonym "Schizoid&nbsp;Nightmares" for almost six years now.
+
+**Updated February 3, 2025: I switched downtime monitoring to Servervana due to UptimeRobot's policy prohibiting commercial use of their free plan (not applicable to me now but will be in the future).**
 
 Since the beginning, I have released my work under Creative&nbsp;Commons or other permissive licensing. Recent changes in my life situation have led me to look for ways to monetize my content while still holding onto my tradition of contributing free content. I also desire to merge the website for *Absurd&nbsp;Realms* with my main (schizoidnightmares.com).
 
@@ -39,6 +42,6 @@ Eventually, in the far future, schizoidnightmares.com will run off PlotBible. Bu
 I will be doing renovations in the upcoming month(s) to make the website easier to manage with the increased content load. These renovations may (hopefully just temporarily) break links.
 
 ## Downtime tracker
-Recently, this month, I noticed that my forums (schizoidnightmares.net) went offline for up to possibly 24 hours. However, upon being notified, my web host fixed this within an hour. To prevent unnoticed downtime in the future, I have registered with UptimeRobot to now track both sites and notify me of downtime. You can <a href="https://stats.uptimerobot.com/hXkB87Vezp" target="_blank">check for downtime on the status page</a>.
+Recently, this month, I noticed that my forums (schizoidnightmares.net) went offline for up to possibly 24 hours. However, upon being notified, my web host fixed this within an hour. To prevent unnoticed downtime in the future, I have registered with UptimeRobot to now track both sites and notify me of downtime. You can <a href="https://servervana.com/status/7fze8z10qb" target="_blank">check for downtime on the status page</a> *(now moved to Servervana)*.
 
 My ideal target for uptime is always 100%. When PlotBible is online (albeit it will be a while after before I launch it), I will add it to this status page as well — in addition to any future sites.
