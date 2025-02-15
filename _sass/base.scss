@@ -60,11 +60,6 @@ ol ol { list-style-type: lower-alpha; }
 
 code { white-space: nowrap; }
 
-small {
-  font-size: 1.5rem;
-  line-height: 1.5;
-}
-
 sup { line-height: 0; }
 
 /* Links */
@@ -93,6 +88,10 @@ a:hover {
   &[target="_blank"]::after { content: none; }
   &[href]:where([href^="http"])::after { content: none; }
 }
+
+/* Text effects */
+
+.faded { color: $color-secondary; }
 
 /* Fonts */
 
