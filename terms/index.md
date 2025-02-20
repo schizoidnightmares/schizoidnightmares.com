@@ -7,9 +7,9 @@ last_modified_at: November 22, 2024
 # Terms
 These terms apply to schizoidnightmares.com, <a href="https://absurdrealms.com/" target="_blank">absurdrealms.com</a>, and patrons via Patreon (where applicable).
 
-* <a href="/terms/disclaimers/">Disclaimers</a>
-* <a href="/terms/privacy/">Privacy</a>
-* <a href="/terms/patrons/">Patrons</a>
+- [Disclaimers](/terms/disclaimers/)
+- [Privacy](/terms/privacy/)
+- [Patrons](/terms/patrons/)
 {: .plainlinks}
 
 ## Licensing
