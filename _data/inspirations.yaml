@@ -148,6 +148,10 @@
   flag: be
   category: films
 
+- title: <i>Ender’s Game</i> <small>(2013)</small>
+  flag: us
+  category: films
+
 - title: <i>Escape from New York</i> & <i>Escape from L.A.</i> <small>(1981, 1996)</small>
   flag: us
   category: films
@@ -240,7 +244,7 @@
   flag: gb
   category: films
 
-- title: <i>Monty Python's Life of Brian</i> <small>(1979)</small>
+- title: <i>Monty Python’s Life of Brian</i> <small>(1979)</small>
   flag: gb
   category: films
 
@@ -550,7 +554,7 @@
   flag: cz
   category: games
 
-- title: <i>Assassin's Creed</i> <small>(2007–2009)</small>
+- title: <i>Assassin’s Creed</i> <small>(2007–2009)</small>
   flag: ca
   category: games
 
@@ -842,6 +846,32 @@
   flag: us
   category: games
 
+# individuals
+
+- title: 'Anonymous dog #1'
+  flag: ca
+  category: individuals
+
+- title: Christopher Columbus
+  flag: it
+  category: individuals
+
+- title: Confucius
+  flag: cn
+  category: individuals
+
+- title: Jesus of Nazareth
+  flag: ps
+  category: individuals
+
+- title: Lee Kuan Yew
+  flag: sg
+  category: individuals
+
+- title: Leonardo da Vinci
+  flag: it
+  category: individuals
+
 # literature
 
 - title: “Harrison Bergeron” <small>(1961)</small>
@@ -1034,6 +1064,10 @@
 
 - title: The Bible
   flag: il
+  category: lit
+
+- title: <i>The Book of Lord Shang</i>
+  flag: cn
   category: lit
 
 - title: <i>The Children of Men</i> <small>(1992)</small>
