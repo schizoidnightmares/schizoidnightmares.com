@@ -200,6 +200,10 @@
   flag: us
   category: films
 
+- title: <i>James Bond</i> <small>(1962–2021)</small>
+  flag: gb
+  category: films
+
 - title: <i>Jaws</i> <small>(1975–1987)</small>
   flag: us
   category: films
@@ -1003,6 +1007,10 @@
   category: lit
 
 - title: <i>Jack Reacher</i>
+  flag: gb
+  category: lit
+
+- title: <i>James Bond</i>
   flag: gb
   category: lit
 

@@ -7,7 +7,7 @@ return-url: /credits/
 ---
 
 # Inspirations
-371 contributors in total
+373 contributors in total
 {: .cap}
 
 Here, you will find all my sources of inspiration listed by category. My ideas did not originate from me alone.
@@ -23,7 +23,7 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 {: .toc}
 
 ## Films
-136 inspirations
+137 inspirations
 {: .cap}
 
 {% include inspirations.html category='films' size='smallest' %}
@@ -41,7 +41,7 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 {% include inspirations.html category='individuals' %}
 
 ## Literature
-79 inspirations
+80 inspirations
 {: .cap}
 
 {% include inspirations.html category='lit' size='smallest' %}
@@ -68,16 +68,16 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 49 origins
 {: .cap}
 
-{% include origin.html flag="us" perc="53.9" %}
-{% include origin.html flag="gb" perc="12.7" %}
+{% include origin.html flag="us" perc="53.6" %}
+{% include origin.html flag="gb" perc="13.1" %}
 {% include origin.html flag="ca" perc="5.4" %}
 {% include origin.html flag="de" perc="2.4" %}
-{% include origin.html flag="fr" perc="2.2" %}
+{% include origin.html flag="fr" perc="2.1" %}
 {% include origin.html flag="cn" perc="1.6" %}
 {% include origin.html flag="jp" perc="1.6" %}
-{% include origin.html flag="au" perc="1.4" %}
-{% include origin.html flag="it" perc="1.4" %}
-{% include origin.html flag="ru" perc="1.4" %}
+{% include origin.html flag="au" perc="1.3" %}
+{% include origin.html flag="it" perc="1.3" %}
+{% include origin.html flag="ru" perc="1.3" %}
 {% include origin.html flag="nz" perc="1.1" %}
 {% include origin.html flag="ph" perc="1.1" %}
 {% include origin.html flag="cz" perc="0.8" %}
