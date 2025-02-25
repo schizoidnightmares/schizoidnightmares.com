@@ -376,6 +376,10 @@
   flag: us
   category: films
 
+- title: <i>The Cabin in the Woods</i> <small>(2011)</small>
+  flag: us
+  category: films
+
 - title: <i>The Chronicles of Riddick</i> <small>(2004)</small>
   flag: us
   category: films
@@ -1451,6 +1455,10 @@
   category: tv
 
 - title: <i>The 100</i> <small>(2014–2020)</small>
+  flag: us
+  category: tv
+
+- title: <i>The Boys</i>
   flag: us
   category: tv
 

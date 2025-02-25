@@ -5,7 +5,7 @@ last_modified_at: February 25, 2025
 ---
 
 # Credits
-447 credits in total
+449 credits in total
 {: .cap}
 
 I cannot take full credit for my work. What I have created was only possible because of others, including the sources that inspired me. I owe it to them or history that I acknowledge their contribution or influence.
@@ -13,5 +13,5 @@ I cannot take full credit for my work. What I have created was only possible bec
 *Keep in mind that I do not necessarily endorse the actions, beliefs, or circumstances of contributors and sources of inspiration.*
 
 - [Contributors](/credits/contributors/) (74)
-- [Inspirations](/credits/inspirations/) (373)
+- [Inspirations](/credits/inspirations/) (375)
 {: .plainlinks}
