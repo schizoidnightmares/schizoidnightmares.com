@@ -1002,6 +1002,10 @@
   flag: gb
   category: lit
 
+- title: <i>Jack Reacher</i>
+  flag: gb
+  category: lit
+
 - title: <i>Jennifer Government</i> <small>(2003)</small>
   flag: au
   category: lit
@@ -1412,6 +1416,10 @@
 
 - title: <i>Kingdom</i> <small>(2019–2020)</small>
   flag: kr
+  category: tv
+
+- title: <i>Reacher</i>
+  flag: us
   category: tv
 
 - title: <i>South Park</i>
