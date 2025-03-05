@@ -160,19 +160,14 @@ a:hover {
 }
 
 // floats
-.left, .right, .thumb img { width: 231px; }
 .left, .right {
   clear: both;
-  table img {
-    max-width: 231px;
-    width: 100%;
-  }
+  max-width: 231px;
+  img { width: 100%; }
   &:is(.table) {
     &:is(.caption + .table) { margin-top: 0; }
     &:is(.cap + .table) { margin-top: .8rem; }
   }
-  // do not add top margin on image captions in tables
-  .caption:not(table .caption) { margin-top: .5rem; }
 }
 .left {
   float: left;
