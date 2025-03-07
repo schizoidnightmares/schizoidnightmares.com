@@ -5,11 +5,11 @@ last_modified_at: February 3, 2025
 copyrighted: true
 ---
 
-I've been self-publishing content under the pseudonym "Schizoid&nbsp;Nightmares" for almost six years now.
+I've been self-publishing content under the pseudonym "Schizoid Nightmares" for almost six years now.
 
 **Updated February 3, 2025: I switched downtime monitoring to Servervana due to UptimeRobot's policy prohibiting commercial use of their free plan (not applicable to me now but will be in the future).**
 
-Since the beginning, I have released my work under Creative&nbsp;Commons or other permissive licensing. Recent changes in my life situation have led me to look for ways to monetize my content while still holding onto my tradition of contributing free content. I also desire to merge the website for *Absurd&nbsp;Realms* with my main (schizoidnightmares.com).
+Since the beginning, I have released my work under Creative Commons or other permissive licensing. Recent changes in my life situation have led me to look for ways to monetize my content while still holding onto my tradition of contributing free content. I also desire to merge the website for *Absurd Realms* with my main (schizoidnightmares.com).
 
 - [Monetization](#monetization)
 - [Branding shift](#branding-shift)
@@ -24,17 +24,17 @@ Since the beginning, I have released my work under Creative&nbsp;Commons or othe
 
 If my continued work is to be sustainable for the long term, I must make money. However, I do not wish to sacrifice all for this objective. Beyond acknowledging future patrons, I have no desire to implement advertising on my site. As a dedicated long-time user of adblocking software who has converted several others, I would be a total hypocrite if I tried to pull that one. I take pride in the minimalism of my site.
 
-Licensing of *Absurd&nbsp;Realms* and my standalone music will remain the same, with both available under Creative&nbsp;Commons. Digital copies will be free, of course, but I am not against selling physical copies.
+Licensing of *Absurd Realms* and my standalone music will remain the same, with both available under Creative Commons. Digital copies will be free, of course, but I am not against selling physical copies.
 
-PlotBible, an online worldbuilding tool, that I'm working on, as well as future projects (including possible video games and *Absurd&nbsp;Realms* inspired/based spin-offs), I will release commercially for profit.
+PlotBible, an online worldbuilding tool, that I'm working on, as well as future projects (including possible video games and *Absurd Realms* inspired/based spin-offs), I will release commercially for profit.
 
 ## Branding shift
-Within the past year(s) or so, I have gradually "depersonalized" my presentation from a dual focus on myself and my work to (almost) my work alone. This has been a continuous process. From pre-2023, when I terminated my habit of occasionally commenting on social issues (under Schizoid&nbsp;Nightmares) on sites like ("formerly known as") Twitter. To now, in 2024, removing present references to my mental diagnosis. This does not reflect a change in life circumstances but rather merely a shift in branding.
+Within the past year(s) or so, I have gradually "depersonalized" my presentation from a dual focus on myself and my work to (almost) my work alone. This has been a continuous process. From pre-2023, when I terminated my habit of occasionally commenting on social issues (under Schizoid Nightmares) on sites like ("formerly known as") Twitter. To now, in 2024, removing present references to my mental diagnosis. This does not reflect a change in life circumstances but rather merely a shift in branding.
 
 I want my focus to be on my work and any attention earned to be directed towards my work (i.e. on its own merits) — not who I am personally. I do not desire to become an Internet personality, activist, or "ambassador" for a certain mental diagnosis. That isn't the niche I want to fill.
 
 ## Website merger
-I am working on merging my website for *Absurd&nbsp;Realms* into my main website, schizoidnightmares.com. I build both sites using Jekyll, with essentially the same source code. It makes less sense to host either on separate domains than have them united under one roof.
+I am working on merging my website for *Absurd Realms* into my main website, schizoidnightmares.com. I build both sites using Jekyll, with essentially the same source code. It makes less sense to host either on separate domains than have them united under one roof.
 
 Eventually, in the far future, schizoidnightmares.com will run off PlotBible. Building and testing my site locally using Jekyll will gradually take more time as the site becomes larger. However, I think the size of my site should be manageable between now and when PlotBible is ready to take it on.
 

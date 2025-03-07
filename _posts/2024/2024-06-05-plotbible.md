@@ -6,7 +6,7 @@ src-thumb: /assets/images/plotbible_icon_small.png
 alt: PlotBible icon
 caption: The <a href="/assets/images/plotbible_icon.png" target="_blank">icon</a> for PlotBible (CC BY 4.0)
 copyrighted: true
-copyright: As this article describes a proprietary service, I do not license it under Creative Commons. Full copyright applies (except for the now-old PlotBible icon above). © Schizoid&nbsp;Nightmares.
+copyright: As this article describes a proprietary service, I do not license it under Creative Commons. Full copyright applies (except for the now-old PlotBible icon above). © Schizoid Nightmares.
 ---
 
 PlotBible, a proprietary online worldbuilding subscription service, is now in active development.
