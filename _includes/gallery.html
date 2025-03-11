@@ -1,10 +1,20 @@
-<div class="gallery" markdown=0>
+<div class="table" markdown=0>
+  <table class="full borders smaller">
+    <tr>
+      <th>Image</th>
+      <th>Description</th>
+      <th>Year</th>
+      <th>Attribution</th>
+      <th>Licence</th>
+    </tr>
     {% for item in site.data.gallery %}
-    {% if item.author == include.author %}
-    <div>
-        <a href="{{ item.src }}" target="_blank"><img src="{{ item.thumb }}"></a>
-        <p class="caption">{% if item.url %}<a href="{{ item.url }}" target="_blank">{{ item.title }}</a>{% else %}{{ item.title }}{% endif %} <br><small>({{ item.date }})</small></p>
-    </div>
-    {% endif %}
+    <tr>
+      <td><a href="{{ item.full }}" target="_blank"><img src="{{ item.thumb }}" width="100"></a></td>
+      <td>{{ item.title }}</td>
+      <td>{{ item.year }}</td>
+      <td>{{ item.attribution }}</td>
+      <td>{{ item.licence }}</td>
+    </tr>
     {% endfor %}
+  </table>
 </div>

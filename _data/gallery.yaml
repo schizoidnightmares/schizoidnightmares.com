@@ -1,100 +1,20 @@
-- title: Schizoid Nightmares icon (old)
-  author: SN
-  date: 2023
-  thumb: /assets/images/sn_icon_small.png
-  src: /assets/images/sn_icon.png
-
-- title: <i>Absurd Realms</i> icon (old)
-  author: SN
-  date: 2023
-  thumb: /assets/images/ar_icon_small.png
-  src: /assets/images/ar_icon.png
-
-- title: Music note symbol (old)
-  url: https://github.com/davidmerfield/Public-Icons/blob/master/source/icons/note.svg
-  author: DIP
-  date: 2023
-  thumb: /assets/images/note_small.png
-  src: /assets/images/note.png
-
-- title: Schizoid Nightmares header
-  url: https://absurdrealms.com/anthology-i/
-  author: Vlad Momot
-  date: 2019
-  thumb: /assets/images/header_small.jpg
-  src: /assets/images/header.jpg
-
-- title: Schizoid Nightmares Forums icon (old)
-  author: SN
-  date: 2023
-  thumb: /assets/images/snf_icon_small.png
-  src: /assets/images/snf_icon.png
-
-- title: PlotBible icon (old)
-  author: SN
-  date: 2024
-  thumb: /assets/images/plotbible_icon_small.png
-  src: /assets/images/plotbible_icon.png
-
-- title: Neovel
-  author: FD
-  date: 2024
-  thumb: /assets/images/news/neovel_problems_small.jpg
-  src: /assets/images/news/neovel_problems.jpg
-
-- title: Schizoid Nightmares icon (current)
-  author: SN
-  date: 2024
-  thumb: /assets/images/sn_icon_2024_symbol_small.png
-  src: /assets/images/sn_icon_2024_symbol.png
-
-- title: Schizoid Nightmares Forums icon (current)
-  author: SN
-  date: 2024
-  thumb: /assets/images/snf_icon_2024_small.png
-  src: /assets/images/snf_icon_2024.png
-
-- title: Schizoid Nightmares wordmark
-  author: SN
-  date: 2024
-  thumb: /assets/images/sn_wordmark_small.png
-  src: /assets/images/sn_wordmark.png
-
-- title: <i>Absurd Realms</i> icon (current)
-  author: SN
-  date: 2024
-  thumb: /assets/images/ar_icon_2024_small.png
-  src: /assets/images/ar_icon_2024.png
+- title: Music note symbol (current)
+  thumb: /assets/images/note_2024_small.png
+  full: /assets/images/note_2024.png
+  year: 2024
+  attribution: Schizoid Nightmares edited version of David Merfield’s Public Icons
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 
 - title: PlotBible icon (current)
-  author: SNC
-  date: 2024
   thumb: /assets/images/plotbible_icon_oct2024_small.png
-  src: /assets/images/plotbible_icon_oct2024.png
+  full: /assets/images/plotbible_icon_oct2024.png
+  year: 2024
+  attribution: Schizoid Nightmares
+  licence: Copyrighted ©
 
-- title: Music note symbol (current)
-  url: https://github.com/davidmerfield/Public-Icons/blob/master/source/icons/note.svg
-  author: DIP
-  date: 2024
-  thumb: /assets/images/note_2024_small.png
-  src: /assets/images/note_2024.png
-
-- title: Plastic Nightmare cover image
-  url: https://creator.nightcafe.studio/creation/i4iyokWMnqMEkxU3m49m
-  author: AID
-  date: 2024
-  thumb: /assets/images/news/plastic_nightmare_small.jpg
-  src: /assets/images/news/plastic_nightmare.jpg
-
-- title: Concrete Amazon cover image
-  url: https://www.pexels.com/video/traffic-in-centrum-of-manilla-19946592/
-  author: PXD
-  date: 2024
-  thumb: /assets/images/news/concrete_amazon_small.jpg
-  src: /assets/images/news/concrete_amazon.jpg
-
-- title: Dual model diagram
-  author: SNC
-  date: 2024
-  thumb: /assets/images/news/licensing_small.png
-  src: /assets/images/news/licensing.png
+- title: <i>Absurd Realms</i> icon (current)
+  thumb: /assets/images/ar_icon_2024_small.png
+  full: /assets/images/ar_icon_2024.png
+  year: 2024
+  attribution: Schizoid Nightmares
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
