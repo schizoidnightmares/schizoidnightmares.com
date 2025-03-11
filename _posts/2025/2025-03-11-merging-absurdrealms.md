@@ -1,7 +1,7 @@
 ---
 title: Merging absurdrealms.com
 description: The merger of absurdrealms.com with schizoidnightmares.com is almost complete
-src: /assets/images/ar_icon_2024.png
+src: /assets/images/ar_icon_2024_med.png
 src-thumb: /assets/images/ar_icon_2024_small.png
 alt: Absurd Realms icon
 caption: The <a href="/assets/images/ar_icon_2024.png" target="_blank">icon</a> for <i>Absurd Realms</i> (CC BY 4.0)
