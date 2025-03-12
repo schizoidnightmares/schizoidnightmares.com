@@ -13,15 +13,6 @@
 
   .return, .advance { font-size: 1.4rem; }
 
-  .gallery {
-    div { max-width: 75px; }
-
-    img {
-      max-height: 75px;
-      max-width: 75px;
-    }
-  }
-
   .feature {
     &:not(.option) {
       flex-direction: column;

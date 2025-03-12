@@ -81,9 +81,9 @@ a:hover {
   img { opacity: .75; }
 }
 
-:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) { text-decoration: none; }
+:is(h1, h2, h3, p.cap, .feature div div, .pagenav, sup, .toc, .plainlinks) :is(a, a:active, a:visited), a:has(img) { text-decoration: none; }
 
-:is(h1, h2, h3, p.cap, .gallery, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), :is(a, a:active, a:visited):has(img) {
+:is(h1, h2, h3, p.cap, .feature div div, .pagenav, sup, .toc) :is(a, a:active, a:visited), :is(a, a:active, a:visited):has(img) {
   &[target="_blank"]::after { content: none; }
   &[href]:where([href^="http"])::after { content: none; }
 }
@@ -276,26 +276,6 @@ a:hover {
   hyphens: auto;
   text-align: justify;
   + p { text-indent: 4rem; }
-}
-
-.gallery {
-  display: flex;
-  flex-wrap: wrap;
-  margin: 0 auto;
-  text-align: center;
-  div {
-    margin: .5rem;
-    max-width: 150px;
-    width: min-content;
-  }
-  img {
-    max-height: 150px;
-    max-width: 150px;
-  }
-  p {
-    margin: .1rem 0;
-    a { white-space: normal; }
-  }
 }
 
 .feature {
