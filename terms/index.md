@@ -1,11 +1,11 @@
 ---
 title: Terms
 description: General terms for users
-last_modified_at: November 22, 2024
+last_modified_at: March 11, 2025
 ---
 
 # Terms
-These terms apply to schizoidnightmares.com, <a href="https://absurdrealms.com/" target="_blank">absurdrealms.com</a>, and patrons via Patreon (where applicable).
+The terms for the site and patrons on Patreon — where applicable.
 
 - [Disclaimers](/terms/disclaimers/)
 - [Privacy](/terms/privacy/)
