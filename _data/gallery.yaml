@@ -1,9 +1,23 @@
+- title: Stories UI icon for <i>Absurd Realms</i>
+  thumb: /assets/images/ar/stories.png
+  full: /assets/images/ar/stories.png
+  year: 2024
+  attribution: Schizoid Nightmares editing together the covers of <i>Schizoid Nightmares Anthology I</i> (cover art by <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a>), <i>Parallel</i> (cover art by anonymous), and <i>The Flippers</i> (cover art by Vlad Momot)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
 - title: Music note symbol (current)
   thumb: /assets/images/note_2024_small.png
   full: /assets/images/note_2024.png
   year: 2024
   attribution: Schizoid Nightmares’ edited version of <a href="https://github.com/davidmerfield/Public-Icons/blob/master/source/icons/note.svg" target="_blank">an icon</a> from <a href="https://lllllllllllllllll.com/" target="_blank">David Merfield’s</a> <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a>
   licence: <a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>
+
+- title: <i>Absurd Realms</i> wordmark
+  thumb: /assets/images/ar/ar_wordmark_small.png
+  full: /assets/images/ar/ar_wordmark.png
+  year: 2024
+  attribution: Schizoid Nightmares
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: PlotBible icon (current)
   thumb: /assets/images/plotbible_icon_oct2024_small.png
@@ -81,3 +95,10 @@
   year: 2023
   attribution: Schizoid Nightmares
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: <i>Absurd Realms</i> header
+  thumb: /assets/images/ar/header_placeholder_small.jpg
+  full: /assets/images/ar/header_placeholder.jpg
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/HR9lDACHYU1AtcC5bOSU" target="_blank">prompting</a> NightCafe Stable Diffusion 1.5
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
