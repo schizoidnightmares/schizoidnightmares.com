@@ -1,5 +1,5 @@
 <div class="table" markdown=0>
-  <table class="full borders smaller">
+  <table class="full borders smallest">
     <tr>
       <th>Image</th>
       <th>Description</th>
@@ -9,7 +9,7 @@
     </tr>
     {% for item in site.data.gallery %}
     <tr>
-      <td><a href="{{ item.full }}" target="_blank"><img src="{{ item.thumb }}" width="100"></a></td>
+      <td><a href="{{ item.full }}" target="_blank"><img src="{{ item.thumb }}" width="50"></a></td>
       <td>{{ item.title }}</td>
       <td>{{ item.year }}</td>
       <td>{{ item.attribution }}</td>

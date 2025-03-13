@@ -96,9 +96,23 @@
   attribution: Schizoid Nightmares
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
-- title: <i>Absurd Realms</i> header
+- title: <i>Absurd Realms</i> placeholder header
   thumb: /assets/images/ar/header_placeholder_small.jpg
   full: /assets/images/ar/header_placeholder.jpg
   year: 2023
   attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/HR9lDACHYU1AtcC5bOSU" target="_blank">prompting</a> NightCafe Stable Diffusion 1.5
   licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: <i>Schizoid Nightmares Anthology I</i> placeholder header
+  thumb: /assets/images/ar/anthology-i/anthology_i_header_placeholder_small.jpg
+  full: /assets/images/ar/header_placeholder.jpg
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/QqG1jOIrrGpH3ZaFKyoh" target="_blank">prompting</a> NightCafe Stable Diffusion 1.5
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: <i>Schizoid Nightmares Anthology I</i> cover
+  thumb: /assets/images/ar/anthology-i/anthology_i_small.jpg
+  full: /assets/images/ar/anthology-i/anthology_i.jpg
+  year: 2019
+  attribution: <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a> as a paid commission
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
