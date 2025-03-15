@@ -9,7 +9,7 @@
     </tr>
     {% for item in site.data.gallery %}
     <tr>
-      <td><a href="{{ item.full }}" target="_blank"><img src="{{ item.thumb }}" width="50"></a></td>
+      <td><a href="{{ item.full }}" target="_blank"><img src="{{ item.thumb }}" width="50" alt="Click to view full image" title="Click to view full image"></a></td>
       <td>{{ item.title }}</td>
       <td>{{ item.year }}</td>
       <td>{{ item.attribution }}</td>

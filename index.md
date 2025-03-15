@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: March 11, 2025
+last_modified_at: March 14, 2025
 layout: header
 header: /assets/images/header_blur.jpg
 header-title: Schizoid Nightmares
@@ -20,7 +20,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-  <a href="absurd-realms/"><img src="/assets/images/ar_icon_2024_small.png"></a>
+  <a href="absurd-realms/"><img src="/assets/images/ar_icon_2024_small.png" alt="Absurd Realms"></a>
   <div>
     <h2><i><a href="absurd-realms/">Absurd Realms</a></i></h2>
     <p class="cap">2023–present</p>
@@ -30,7 +30,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-  <a href="https://schizoidnightmares.net/" target="_blank"><img src="/assets/images/snf_icon_2024_small.png"></a>
+  <a href="https://schizoidnightmares.net/" target="_blank"><img src="/assets/images/snf_icon_2024_small.png" alt="Schizoid Nightmares Forums"></a>
   <div>
     <h2><a href="https://schizoidnightmares.net/" target="_blank">Forums</a></h2>
     <p class="cap">2023–present</p>
@@ -40,7 +40,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-  <a href="music/"><img src="/assets/images/note_2024_small.png"></a>
+  <a href="music/"><img src="/assets/images/note_2024_small.png" alt="Music"></a>
   <div>
     <h2><a href="music/">Music</a></h2>
     <p class="cap">2020–present</p>
