@@ -27,7 +27,7 @@
         {% endif %}
             <div class="top">
                 <div class="header">
-                    <div class="icon"><a href="{{ site.baseurl }}/" title="Go home"><img src="{{ site.custom_icon }}" alt="Go home"></a></div>
+                    <div class="icon"><a href="{{ site.baseurl }}/" aria-label="Go home" title="Go home"><img src="{{ site.custom_icon }}" alt="Site icon"></a></div>
                     <div class="nav">
                         <ul>
                             {% assign active-url = page.url | remove_first: "index.html" %}
