@@ -1,7 +1,7 @@
 ---
 title: Absurd Realms
 description: Absurd Realms is an absurdist science fantasy series by Schizoid Nightmares
-last_modified_at: March 11, 2025
+last_modified_at: March 14, 2025
 layout: header
 header: /assets/images/ar/header_placeholder_blur.jpg
 header-title: Absurd Realms
@@ -13,7 +13,7 @@ caption: <a href="/assets/images/ar/header_placeholder.jpg" target="_blank">AI p
 ***Absurd Realms*** is an absurdist science fantasy book series about Man's struggle to survive in a bizarre, eldritch universe.
 
 <div class="feature" markdown=0>
-  <a href="books/"><img src="/assets/images/ar/stories.png" alt="collection of book covers"></a>
+  <a href="books/"><img src="/assets/images/ar/stories.png" alt="Collection of book covers"></a>
   <div>
     <h2><a href="books/">Books</a></h2>
     <p>Read the anthologies and novels of <i>Absurd Realms</i></p>

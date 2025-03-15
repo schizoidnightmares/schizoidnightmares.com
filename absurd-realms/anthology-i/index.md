@@ -1,7 +1,7 @@
 ---
 title: Anthology I - Absurd Realms
 description: The first anthology of short stories in Absurd Realms
-last_modified_at: March 11, 2025
+last_modified_at: March 14, 2025
 layout: header
 header: /assets/images/ar/anthology-i/anthology_i_header_placeholder_blur.jpg
 header-title: Anthology I
@@ -24,7 +24,7 @@ return-url: ../books/
 
 <div markdown=0>
   <a class="feature option" href="contents/">
-    <img src="/assets/images/ui/book-open.png">
+    <img src="/assets/images/ui/book-open.png" alt="">
     <div><p>Read online</p></div>
   </a>
 </div>

@@ -1,7 +1,7 @@
 ---
 title: Books - Absurd Realms
 description: The anthologies and novels of Absurd Realms
-last_modified_at: March 11, 2025
+last_modified_at: March 14, 2025
 return: <i>Absurd Realms</i>
 return-url: ../
 ---
@@ -9,7 +9,7 @@ return-url: ../
 # Books of *[Absurd Realms](../)*
 
 <div class="feature" markdown=0>
-  <a href="../anthology-i/"><img src="/assets/images/ar/anthology-i/anthology_i_small.jpg" alt="Anthology I cover"></a>
+  <a href="../anthology-i/" aria-label="Read more about Anthology I"><img src="/assets/images/ar/anthology-i/anthology_i_small.jpg" alt="Anthology I cover"></a>
   <div>
     <h2><i><a href="../anthology-i/">Schizoid Nightmares Anthology I</a></i></h2>
     <p class="cap">April 12, 2023–present</p>
