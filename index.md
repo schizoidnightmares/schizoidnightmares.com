@@ -1,7 +1,7 @@
 ---
 title: Home
 description: The official website of Schizoid Nightmares
-last_modified_at: March 14, 2025
+last_modified_at: March 17, 2025
 layout: header
 header: /assets/images/header_blur.jpg
 header-title: Schizoid Nightmares
@@ -26,16 +26,6 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
     <p class="cap">2023–present</p>
     <p>An absurdist science fantasy series</p>
     <div><a href="absurd-realms/">read more</a></div>
-  </div>
-</div>
-
-<div class="feature" markdown=0>
-  <a href="https://schizoidnightmares.net/" target="_blank" aria-label="Visit the forums"><img src="/assets/images/snf_icon_2024_small.png" alt="Schizoid Nightmares Forums icon"></a>
-  <div>
-    <h2><a href="https://schizoidnightmares.net/" target="_blank">Forums</a></h2>
-    <p class="cap">2023–present</p>
-    <p>A public forums for feedback and discussion</p>
-    <div><a href="https://schizoidnightmares.net/" target="_blank">visit forums</a></div>
   </div>
 </div>
 
