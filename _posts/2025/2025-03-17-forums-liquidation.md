@@ -12,7 +12,7 @@ I intend to liquidate the <a href="https://schizoidnightmares.net/" target="_bla
 This move will save both time and economic resources. Since [relaunching the forums](/news/forums-relaunch/) over a year ago, I have remained the sole registered user. I cannot justify spending time and money on its continued maintenance. A single-user forums just does not make any sense. While, with a larger following, it may be of future use, it is most practical to close it down and leave that responsibility to a third-party community — should such a thing ever exist.
 
 <img src="/assets/images/news/2025/snf_logo_med.png" alt="Schizoid Nightmares Forums logo">
-<div class="caption"><p>The forums logo (CC BY 4.0) (<a href="/assets/images/news/2025/snf_logo.png" target="_blank">full size</a>)</p></div>
+<div class="caption"><p>The forums <a href="/assets/images/news/2025/snf_logo.png" target="_blank">logo</a> (CC BY 4.0)</p></div>
 
 I was anticipating a possible use for it in the future as a support hub for fans and patrons, but I think it would be more efficient to handle that over private communications and Patreon.
 
