@@ -416,6 +416,10 @@
   flag: gb
   category: films
 
+- title: <i>The Great Dictator</i> (1940)
+  flag: us
+  category: films
+
 - title: <i>The Hitchhiker’s Guide to the Galaxy</i> <small>(2005)</small>
   flag: us
   category: films

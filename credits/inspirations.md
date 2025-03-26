@@ -1,13 +1,13 @@
 ---
 title: Inspirations - Credits
 description: Sources of inspiration
-last_modified_at: February 25, 2025
+last_modified_at: March 26, 2025
 return: Credits
 return-url: /credits/
 ---
 
 # Inspirations
-375 contributors in total
+376 contributors in total
 {: .cap}
 
 Here, you will find all my sources of inspiration listed by category. My ideas did not originate from me alone.
@@ -23,7 +23,7 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 {: .toc}
 
 ## Films
-138 inspirations
+139 inspirations
 {: .cap}
 
 {% include inspirations.html category='films' size='smallest' %}
@@ -68,8 +68,8 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 49 origins
 {: .cap}
 
-{% include origin.html flag="us" perc="53.9" %}
-{% include origin.html flag="gb" perc="13.1" %}
+{% include origin.html flag="us" perc="54.0" %}
+{% include origin.html flag="gb" perc="13.0" %}
 {% include origin.html flag="ca" perc="5.3" %}
 {% include origin.html flag="de" perc="2.4" %}
 {% include origin.html flag="fr" perc="2.1" %}
