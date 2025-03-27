@@ -34,7 +34,7 @@
 - title: Cloudflare, Inc.
   flag: us
   url: https://www.cloudflare.com/
-  usage: Host for schizoidnightmares.com and absurdrealms.com
+  usage: Host for schizoidnightmares.com
   notes: Freemium service
 
 - title: Code Climate
@@ -202,7 +202,7 @@
 - title: Jekyll
   flag: us
   url: https://jekyllrb.com/
-  usage: Static site generator for schizoidnightmares.com and absurdrealms.com
+  usage: Static site generator for schizoidnightmares.com
   notes: Licensed under the <a href="https://github.com/jekyll/jekyll/blob/master/LICENSE" target="_blank">MIT License</a>
 
 - title: jekyll-paginate-v2
@@ -243,7 +243,7 @@
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
-  usage: Font; used on schizoidnightmares.com and absurdrealms.com
+  usage: Font; used on schizoidnightmares.com
   notes: Licensed under the <a href="http://cyreal.org/license/" target="_blank">OFL</a>
 
 - title: MAMP
@@ -291,7 +291,7 @@
 - title: Open Sans by Steve Matteson
   flag: us
   url: https://fonts.google.com/specimen/Open+Sans
-  usage: Font; used on schizoidnightmares.com, absurdrealms.com, and schizoidnightmares.net
+  usage: Font; used on schizoidnightmares.com
   notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
 
 - title: Pages
