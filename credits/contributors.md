@@ -1,7 +1,7 @@
 ---
 title: Contributors - Credits
 description: Those who help(ed) directly or indirectly to make my work possible
-last_modified_at: February 23, 2025
+last_modified_at: March 26, 2025
 return: Credits
 return-url: /credits/
 ---
