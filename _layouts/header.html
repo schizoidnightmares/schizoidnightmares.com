@@ -4,63 +4,67 @@ style: header
 ---
 
 <div class="header">
-    <div class="headerImg" style="background-image: url('{{ page.header }}')"></div>
-    <div class="headerText">
-        {% if page.header-title and page.header-wordmark %}
-        <img src="{{ page.header-wordmark }}" alt="{{ page.header-title }}">
-        {% elsif page.header-title %}
-        <h1>{{ page.header-title }}</h1>
-        {% endif %}
-        {% if page.header-subtitle %}<p class="subtitle">{{ page.header-subtitle }}</p>{% endif %}
-    </div>
+  <div class="headerImg" style="background-image: url('{{ page.header }}')"></div>
+  <div class="headerText">
+    {% if page.header-title and page.header-wordmark %}
+    <img src="{{ page.header-wordmark }}" alt="{{ page.header-title }}">
+    {% elsif page.header-title %}
+    <h1>{{ page.header-title }}</h1>
+    {% endif %}
+    {% if page.header-subtitle %}<p class="subtitle">{{ page.header-subtitle }}</p>{% endif %}
+  </div>
 </div>
 <div class="content">
-    {% if page.caption %}
-    <div class="caption"><p>{{ page.caption }}</p></div>
+  {% if page.caption %}
+  <div class="caption"><p>{{ page.caption }}</p></div>
+  {% endif %}
+  {% if page.return-url or page.advance-url %}
+  <div class="pagenav">
+    {% if page.return-url %}
+    <p class="return">
+      {% if page.main-url %}
+      ← <a href="{{ page.main-url }}">{{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
+      {% else %}
+      ← <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
+      {% endif %}
+    </p>
     {% endif %}
-    {% if page.return-url or page.advance-url %}
-    <div class="pagenav">
-        {% if page.return-url %}
-        <p class="return">
-            {% if page.main-url %}
-            ← <a href="{{ page.main-url }}">{{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
-            {% else %}
-            ← <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
-            {% endif %}
-        </p>
-        {% endif %}
-        {% if page.advance %}
-        <p class="advance">
-            {% if page.advance-url %}
-            <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }}</a> →
-            {% else %}
-            {{ page.advance }}
-            {% endif %}
-        </p>
-        {% endif %}
-    </div>
+    {% if page.advance %}
+    <p class="advance">
+      {% if page.advance-url %}
+      <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }}</a> →
+      {% else %}
+      {{ page.advance }}
+      {% endif %}
+    </p>
     {% endif %}
-    {{ content }}
-    {% if page.return-url or page.advance-url %}
-    <div class="pagenav">
-        {% if page.return-url %}
-        <p class="return">
-            {% if page.main-url %}
-            ← <a href="{{ page.main-url }}">{{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
-            {% else %}
-            ← <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
-            {% endif %}
-        </p>
-        {% endif %}
-        {% if page.advance %}
-        <p class="advance">
-            {% if page.advance-url %}
-            <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }}</a> →
-            {% else %}
-            {{ page.advance }}
-            {% endif %}
-        </p>
-        {% endif %}
-    </div>
+  </div>
+  {% endif %}
+  {{ content }}
+  {% if page.copyrighted %}
+  <hr>
+  <small><i>{{ page.copyright | default: "Full copyright applies to this page. © Schizoid Nightmares. All rights reserved." }}</i></small>
+  {% endif %}
+  {% if page.return-url or page.advance-url %}
+  <div class="pagenav">
+    {% if page.return-url %}
+    <p class="return">
+      {% if page.main-url %}
+      ← <a href="{{ page.main-url }}">{{ page.main | default: "Main" }}</a> / <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
+      {% else %}
+      ← <a href="{{ page.return-url }}">{{ page.return | default: "Return" }}</a>
+      {% endif %}
+    </p>
     {% endif %}
+    {% if page.advance %}
+    <p class="advance">
+      {% if page.advance-url %}
+      <a href="{{ page.advance-url }}">{{ page.advance | default: "Advance" }}</a> →
+      {% else %}
+      {{ page.advance }}
+      {% endif %}
+    </p>
+    {% endif %}
+  </div>
+  {% endif %}
 </div>
