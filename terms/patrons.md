@@ -3,7 +3,7 @@ title: Patrons - Terms
 description: Terms for patrons
 last_modified_at: March 17, 2025
 return: Terms
-return-url: /terms/
+return-url: ../
 ---
 
 # Patrons

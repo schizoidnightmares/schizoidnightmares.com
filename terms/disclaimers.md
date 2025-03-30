@@ -3,7 +3,7 @@ title: Disclaimers - Terms
 description: Content disclaimers
 last_modified_at: October 16, 2024
 return: Terms
-return-url: /terms/
+return-url: ../
 ---
 
 # Disclaimers
