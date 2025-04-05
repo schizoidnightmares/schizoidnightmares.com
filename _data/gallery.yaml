@@ -86,6 +86,22 @@
   attribution: Schizoid Nightmares’ edited version of <a href="https://github.com/davidmerfield/Public-Icons/blob/master/source/icons/note.svg" target="_blank">an icon</a> from <a href="https://lllllllllllllllll.com/" target="_blank">David Merfield’s</a> <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a>
   licence: <a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>
 
+- title: “The Valley” placeholder header
+  thumb: /assets/images/ar/anthology-i/heaven-falls/the_valley_placeholder_small.jpg
+  full: /assets/images/ar/anthology-i/heaven-falls/the_valley_placeholder.jpg
+  alt: The Valley placeholder header
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/x91VvmI0OpuEBemZ5AHy" target="_blank">prompting</a> NightCafe Stable Diffusion XL 1.0
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: “The Primordial” placeholder header
+  thumb: /assets/images/ar/anthology-i/heaven-falls/the_primordial_placeholder_small.jpg
+  full: /assets/images/ar/anthology-i/heaven-falls/the_primordial_placeholder.jpg
+  alt: The Primordial placeholder header
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/x01e49kG3BBrhV7JY2qI" target="_blank">prompting</a> NightCafe Stable Diffusion XL 1.0
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
 - title: Schizoid Nightmares header
   thumb: /assets/images/header_small.jpg
   full: /assets/images/header.jpg
@@ -102,6 +118,22 @@
   attribution: Schizoid Nightmares
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
+- title: “The Wise One” placeholder header
+  thumb: /assets/images/ar/anthology-i/heaven-falls/the_wise_one_placeholder_small.jpg
+  full: /assets/images/ar/anthology-i/heaven-falls/the_wise_one_placeholder.jpg
+  alt: The Wise One placeholder header
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/RTuaY0LoBw7MuujIibHb" target="_blank">prompting</a> NightCafe Stable Diffusion XL 1.0
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: “Heaven Falls” placeholder header
+  thumb: /assets/images/ar/anthology-i/heaven-falls/heaven_falls_placeholder_small.jpg
+  full: /assets/images/ar/anthology-i/heaven-falls/heaven_falls_placeholder.jpg
+  alt: Heaven Falls placeholder header
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/J1SsnctcQcV9A6eme82l" target="_blank">prompting</a> NightCafe Stable Diffusion 1.5
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
 - title: “Fleshed Out” placeholder header
   thumb: /assets/images/ar/anthology-i/flesh-run/fleshed_out_placeholder_small.jpg
   full: /assets/images/ar/anthology-i/flesh-run/fleshed_out_placeholder.jpg
@@ -116,6 +148,14 @@
   alt: Absurd Realms icon
   year: 2023
   attribution: Schizoid Nightmares
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Schizoid Nightmares header
+  thumb: /assets/images/header_small.jpg
+  full: /assets/images/header.jpg
+  alt: Schizoid Nightmares header
+  year: 2023
+  attribution: Cropping by Schizoid Nightmares of the cover of <i>Schizoid Nightmares Anthology I</i> by <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a>
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: <i>Schizoid Nightmares Anthology I</i> cover
