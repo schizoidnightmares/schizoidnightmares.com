@@ -6,6 +6,14 @@
   attribution: Schizoid Nightmares editing together the covers of <i>Schizoid Nightmares Anthology I</i> (cover art by <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a>), <i>Parallel</i> (cover art by anonymous), and <i>The Flippers</i> (cover art by Vlad Momot)
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
+- title: <i>Utopia Horizon</i> placeholder cover
+  thumb: /assets/images/ar/utopia-horizon/utopia_horizon_placeholder_small.jpg
+  full: /assets/images/ar/utopia-horizon/utopia_horizon_placeholder.jpg
+  alt: Utopia Horizon placeholder cover
+  year: 2024
+  attribution: Schizoid Nightmares editing and <a href="https://creator.nightcafe.studio/creation/ApdEA4gwxN41hO4fWsWp/person-standing-on-stilts" target="_blank">prompting</a> NightCafe Recraft v3
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
 - title: Music note symbol (current)
   thumb: /assets/images/note_2024_small.png
   full: /assets/images/note_2024.png
@@ -238,6 +246,22 @@
   attribution: Schizoid Nightmares
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
+- title: <i>Schizoid Nightmares Anthology III</i> placeholder cover
+  thumb: /assets/images/ar/anthology-iii/anthology_iii_placeholder_small.jpg
+  full: /assets/images/ar/anthology-iii/anthology_iii_placeholder.jpg
+  alt: Schizoid Nightmares Anthology III placeholder cover
+  year: 2023
+  attribution: Schizoid Nightmares editing and <a href="https://creator.nightcafe.studio/creation/ACvK35PYX8qhu5Y8DTrx" target="_blank">prompting</a> NightCafe Stable Diffusion 1.5
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: <i>Schizoid Nightmares Anthology II</i> placeholder cover
+  thumb: /assets/images/ar/anthology-ii/anthology_ii_placeholder_small.jpg
+  full: /assets/images/ar/anthology-ii/anthology_ii_placeholder.jpg
+  alt: Schizoid Nightmares Anthology II placeholder cover
+  year: 2023
+  attribution: Schizoid Nightmares editing and <a href="https://creator.nightcafe.studio/creation/WJYA8EoEVhw5iblmInv0" target="_blank">prompting</a> NightCafe Stable Diffusion XL 0.9
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
 - title: Schizoid Nightmares header
   thumb: /assets/images/header_small.jpg
   full: /assets/images/header.jpg
@@ -341,3 +365,27 @@
   year: 2023
   attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/XDlpLMvyjx5a1IoOCV5B" target="_blank">prompting</a> NightCafe Stable Diffusion 1.5
   licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: <i>Parallel</i> cover
+  thumb: /assets/images/ar/parallel/parallel_small.jpg
+  full: /assets/images/ar/parallel/parallel.jpg
+  alt: Parallel
+  year: 2021
+  attribution: anonymous (requested anonymity under paid commission)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: <i>Schizoid Nightmares Anthology I</i> cover
+  thumb: /assets/images/ar/anthology-i/anthology_i_small.jpg
+  full: /assets/images/ar/anthology-i/anthology_i.jpg
+  alt: Schizoid Nightmares Anthology I cover
+  year: 2019
+  attribution: <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a> (under paid commission)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: <i>The Flippers</i> cover
+  thumb: /assets/images/ar/the-flippers/the_flippers_small.jpg
+  full: /assets/images/ar/the-flippers/the_flippers.jpg
+  alt: The Flippers
+  year: 2019
+  attribution: <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a> (under paid commission)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>

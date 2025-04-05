@@ -5,7 +5,7 @@ last_modified_at: April 5, 2025
 ---
 
 # Gallery
-42 images in total
+48 images in total
 {: .cap}
 
 A gallery of the images on the website (newest created first)
