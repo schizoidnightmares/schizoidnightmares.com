@@ -70,6 +70,14 @@
   attribution: Schizoid Nightmares using <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font by <a href="https://cyreal.org/" target="_blank">Cyreal</a>
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
+- title: “Premonition” placeholder header
+  thumb: /assets/images/ar/anthology-i/exodus/premonition_placeholder_small.jpg
+  full: /assets/images/ar/anthology-i/exodus/premonition_placeholder.jpg
+  alt: Premonition placeholder header
+  year: 2024
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/ghrWAZc38NiRP4psCvOM" target="_blank">prompting</a> NightCafe Juggernaut XL v8
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
 - title: Schizoid Nightmares Forums icon (old)
   thumb: /assets/images/snf_icon_small.png
   full: /assets/images/snf_icon.png
@@ -85,6 +93,22 @@
   year: 2023
   attribution: Schizoid Nightmares’ edited version of <a href="https://github.com/davidmerfield/Public-Icons/blob/master/source/icons/note.svg" target="_blank">an icon</a> from <a href="https://lllllllllllllllll.com/" target="_blank">David Merfield’s</a> <a href="https://github.com/davidmerfield/Public-Icons" target="_blank">Public Icons</a>
   licence: <a href="https://github.com/davidmerfield/Public-Icons/blob/master/LICENSE" target="_blank">CC0 1.0</a>
+
+- title: “The King’s Republic” placeholder header
+  thumb: /assets/images/ar/anthology-i/exodus/the_kings_republic_placeholder_small.jpg
+  full: /assets/images/ar/anthology-i/exodus/the_kings_republic_placeholder.jpg
+  alt: The King’s Republic placeholder header
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/2Tu5JwEqr2dXJVogYpVR" target="_blank">prompting</a> NightCafe Stable Diffusion XL 1.0
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: “Exodus” placeholder header
+  thumb: /assets/images/ar/anthology-i/exodus/exodus_placeholder_small.jpg
+  full: /assets/images/ar/anthology-i/exodus/exodus_placeholder.jpg
+  alt: Exodus placeholder header
+  year: 2023
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/ug6ks9QVNGEOM3MDgD6M" target="_blank">prompting</a> NightCafe Stable Diffusion XL 1.0
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
 
 - title: “Rediscovery” placeholder header
   thumb: /assets/images/ar/anthology-i/the-gorge/rediscovery_placeholder_small.jpg
