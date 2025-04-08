@@ -1,7 +1,8 @@
 ---
 title: Premonition - Exodus
 description: Second scene of Exodus
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/exodus/premonition_placeholder_blur.jpg
 header-title: Premonition
 header-subtitle: April 5, 2024

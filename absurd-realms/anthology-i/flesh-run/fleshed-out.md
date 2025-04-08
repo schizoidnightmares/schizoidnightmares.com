@@ -1,7 +1,8 @@
 ---
 title: Fleshed Out - Flesh Run
 description: Ninth and final scene of Flesh Run
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/flesh-run/fleshed_out_placeholder_blur.jpg
 header-title: Fleshed Out
 header-subtitle: September 17, 2023

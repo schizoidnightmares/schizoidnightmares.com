@@ -1,7 +1,8 @@
 ---
 title: Forbidden Fruit - Flesh Run
 description: Fourth scene of Flesh Run
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/flesh-run/forbidden_fruit_placeholder_blur.jpg
 header-title: Forbidden Fruit
 header-subtitle: May 12, 2023

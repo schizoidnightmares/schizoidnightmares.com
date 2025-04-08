@@ -1,7 +1,8 @@
 ---
 title: Heaven Sails - The Gorge
 description: Opening scene of The Gorge
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/the-gorge/heaven_sails_placeholder_blur.jpg
 header-title: Heaven Sails
 header-subtitle: October 4, 2023

@@ -2,7 +2,8 @@
 title: The Wise One - Heaven Falls
 description: Opening scene of Heaven Falls
 last_modified_at: March 26, 2024
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/heaven-falls/the_wise_one_placeholder_blur.jpg
 header-title: The Wise One
 header-subtitle: September 30, 2023

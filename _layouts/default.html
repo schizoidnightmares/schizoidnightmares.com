@@ -25,7 +25,11 @@ layout: base
     {% endif %}
   </div>
   {% endif %}
+  {% if page.story %}
+  <div class="story">{{ content }}</div>
+  {% else %}
   {{ content }}
+  {% endif %}
   {% if page.copyrighted %}
   <hr>
   <small><i>{{ page.copyright | default: "Full copyright applies to this page. © Schizoid Nightmares. All rights reserved." }}</i></small>

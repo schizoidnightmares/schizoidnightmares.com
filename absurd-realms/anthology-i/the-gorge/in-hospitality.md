@@ -1,7 +1,8 @@
 ---
 title: In Hospitality - The Gorge
 description: Sixth scene of The Gorge
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/the-gorge/in_hospitality_placeholder_blur.jpg
 header-title: In Hospitality
 header-subtitle: November 1, 2023

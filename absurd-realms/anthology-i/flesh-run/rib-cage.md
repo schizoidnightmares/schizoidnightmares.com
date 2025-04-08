@@ -1,7 +1,8 @@
 ---
 title: Rib Cage - Flesh Run
 description: Fifth scene of Flesh Run
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/flesh-run/rib_cage_placeholder_blur.jpg
 header-title: Rib Cage
 header-subtitle: May 19, 2023

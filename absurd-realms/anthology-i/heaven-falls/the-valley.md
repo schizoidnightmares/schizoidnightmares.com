@@ -2,7 +2,8 @@
 title: The Valley - Heaven Falls
 description: Third and final scene of Heaven Falls
 last_modified_at: March 26, 2024
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/heaven-falls/the_valley_placeholder_blur.jpg
 header-title: The Valley
 header-subtitle: October 2, 2023

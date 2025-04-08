@@ -2,7 +2,8 @@
 title: Bite Me - Flesh Run
 description: Eighth scene of Flesh Run
 last_modified_at: October 1, 2024
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/flesh-run/bite_me_placeholder_blur.jpg
 header-title: Bite Me
 header-subtitle: September 8, 2023

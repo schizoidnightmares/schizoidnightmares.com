@@ -1,6 +1,7 @@
 ---
 title: Preface - Anthology I
 description: The preface of Anthology I
+story: true
 main: Contents
 main-url: ../contents/
 return: Credits

@@ -1,7 +1,8 @@
 ---
 title: Many Eyes - The Gorge
 description: Fifth scene of The Gorge
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/the-gorge/many_eyes_placeholder_blur.jpg
 header-title: Many Eyes
 header-subtitle: October 26, 2023

@@ -1,7 +1,8 @@
 ---
 title: Somewhere Beyond - The Gorge
 description: Fourth scene of The Gorge
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/the-gorge/somewhere_beyond_placeholder_blur.jpg
 header-title: Somewhere Beyond
 header-subtitle: October 12, 2023

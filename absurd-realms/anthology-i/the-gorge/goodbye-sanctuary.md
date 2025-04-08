@@ -1,7 +1,8 @@
 ---
 title: Goodbye Sanctuary - The Gorge
 description: Second scene of The Gorge
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/the-gorge/goodbye_sanctuary_placeholder_blur.jpg
 header-title: Goodbye Sanctuary
 header-subtitle: October 8, 2023

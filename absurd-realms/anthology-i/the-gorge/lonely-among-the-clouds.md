@@ -2,7 +2,8 @@
 title: Lonely Among the Clouds - The Gorge
 description: Third scene of The Gorge
 last_modified_at: January 12, 2024
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/the-gorge/lonely_among_the_clouds_placeholder_blur.jpg
 header-title: Lonely Among the Clouds
 header-subtitle: October 10, 2023

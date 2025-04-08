@@ -1,7 +1,8 @@
 ---
 title: Rediscovery - The Gorge
 description: Seventh scene of The Gorge
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/the-gorge/rediscovery_placeholder_blur.jpg
 header-title: Rediscovery
 header-subtitle: November 4, 2023

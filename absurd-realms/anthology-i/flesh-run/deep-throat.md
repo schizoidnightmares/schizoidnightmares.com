@@ -1,7 +1,8 @@
 ---
 title: Deep Throat - Flesh Run
 description: Third scene of Flesh Run
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/flesh-run/deep_throat_placeholder_blur.jpg
 header-title: Deep Throat
 header-subtitle: May 8, 2023

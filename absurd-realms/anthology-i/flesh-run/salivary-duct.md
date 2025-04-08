@@ -1,7 +1,8 @@
 ---
 title: Salivary Duct - Flesh Run
 description: Sixth scene of Flesh Run
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/flesh-run/salivary_duct_placeholder_blur.jpg
 header-title: Salivary Duct
 header-subtitle: May 27, 2023

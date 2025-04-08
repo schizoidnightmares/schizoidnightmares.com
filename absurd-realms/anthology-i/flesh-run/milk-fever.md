@@ -1,7 +1,8 @@
 ---
 title: Milk Fever - Flesh Run
 description: Second scene of Flesh Run
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/flesh-run/milk_fever_placeholder_blur.jpg
 header-title: Milk Fever
 header-subtitle: May 2, 2023

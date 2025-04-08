@@ -2,7 +2,8 @@
 title: The Primordial - Heaven Falls
 description: Second scene of Heaven Falls
 last_modified_at: March 26, 2024
-layout: story
+layout: header
+story: true
 header: /assets/images/ar/anthology-i/heaven-falls/the_primordial_placeholder_blur.jpg
 header-title: The Primordial
 header-subtitle: October 1, 2023
