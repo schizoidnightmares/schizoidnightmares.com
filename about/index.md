@@ -1,11 +1,13 @@
 ---
 title: About
 description: About me and my works
-last_modified_at: December 18, 2024
+last_modified_at: April 9, 2025
 ---
 
 # About
 I am a content creator from Canada. Since 2019, I have been releasing my work pseudonymously as Schizoid Nightmares. My work includes fiction writing, graphic design, web development, and electronic music composition.
+
+- *[Modus operandi](modus-operandi/)*
 
 ## Communications
 If you have any questions or feedback, be sure to <a href="https://tally.so/r/mOaDRp" target="_blank">contact me</a>.
