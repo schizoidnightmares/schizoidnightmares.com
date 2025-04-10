@@ -1,14 +1,14 @@
 ---
 title: Modus operandi
 description: My work habits
-last_modified_at: April 9, 2025
+last_modified_at: April 10, 2025
 return: About
 return-url: ../
 ---
 
 # *Modus operandi*
 
-Over the years, I have developed seven work habits and values.
+Over the years, I have developed these work habits and values.
 
 - [Artistic integrity](#artistic-integrity)
 - [Incrementalism](#incrementalism)
@@ -16,7 +16,10 @@ Over the years, I have developed seven work habits and values.
 - [Absurdism](#absurdism)
 - [AI placeholders](#ai-placeholders)
 - [Free content](#free-content)
+- [Accessibility](#accessibility)
+- [Minimalism](#minimalism)
 - [Commercialism](#commercialism)
+- [Target audience](#target-audience)
 {: .toc}
 
 ## Artistic integrity
@@ -59,7 +62,26 @@ I release some of my works for free and under permissive licensing, such as *[Ab
 
 *I may sell otherwise free works in different formats.*
 
+## Accessibility
+Making media accessible to those with visual or other sensory defects is important to me. While I cannot guarantee 100% accessibility for all conditions, I make an effort to improve the accessibility of my website and other projects to the best of my own abilities. As anyone’s sensory abilities can decline over the course of their life, I regard accessibility as a universal need and utilitarian feature that requires conscientious design.
+
+*If you encounter an accessibility issue with my site or other projects, please <a href="https://tally.so/r/mOaDRp" target="_blank">inform me</a> and I will do my best to rectify the issue.*
+
+## Minimalism
+I take pride in keeping my website and other projects as minimalistic in design as possible. Minimalism serves three purposes: it helps keep computer resource usage low, creates fewer distractions to users, and is more efficient to produce. I do my best to keep it clean and simple. When a user visits my website, they do not experience irritants such as pop-ups or calls to action. Irritants such as these mimic the experience of being harassed by hoards of beggars and hustlers. I want users to experience relief with minimalism — like entering a soundproof booth after enduring hours of grating non-stop noise.
+
 ## Commercialism
 I intend to profit from my work as doing so allows me to invest more time and resources in its production. It is not just a passion but also my attempt to secure a means of economic survival. When a project is proving too costly (in either time or money), I may terminate it to free up resources or just to survive. To avoid this, I seek to commercialize my projects to reduce the cost burden and make investing time more sensible.
 
 *I believe that by engaging with the free market, both users and I stand to benefit more than by keeping everything strictly non-commercial.*
+
+## Target audience
+While I lack the raw data to back up my estimates, I do keep in mind which demographics my work *may* resonate with most for marketing purposes. I share this target audience for transparency and to satisfy curiosity. However, this may or may not accurately reflect my real users.
+
+My overall target audience is alienated and/or introverted males living in Northern America, the UK, Australia, Germany, or Scandinavia. I expect this demographic to grow steadily over time. However, reaching this niche can pose great difficulty.
+
+I determine my target audience through experience, speculation, and reading into trends. I do not actively track or analyze demographic information on my users — my target audience is not data-driven. I mainly go by instincts and common sense.
+
+Methods of targeting may include focusing on appealing elements (particularly in fiction), online advertising, and maintaining a presence on websites expected to harbour these demographics.
+
+*My target audience may vary per project. Having a target audience is for practical marketing purposes only. In no way do you have to fit it to enjoy my work.*
