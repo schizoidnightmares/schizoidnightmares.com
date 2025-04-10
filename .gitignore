@@ -3,7 +3,6 @@
 .jekyll-cache
 .sass-cache
 _site
-Gemfile.lock
 .DS_Store
 .htaccess
 .jekyll-metadata
