@@ -132,7 +132,6 @@ a:hover {
     th[colspan="2"], td:has(img:not(.flag)) { text-align: center; }
     th small { font-weight: normal; }
     &.full { width: 100%; }
-    &.inline { margin: 0; }
     &.borders {
       th { background-color: $color-shade; }
       th, td {
@@ -162,7 +161,7 @@ a:hover {
 .left, .right {
   clear: both;
   max-width: 231px;
-  img { width: 100%; }
+  img:not(.flag) { width: 100%; }
   &:is(.table) {
     &:is(.caption + .table) { margin-top: 0; }
     &:is(.cap + .table) { margin-top: .8rem; }
