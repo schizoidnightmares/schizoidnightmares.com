@@ -12,14 +12,14 @@ return-url: ../
 
 <div markdown=0>
   <a class="feature option" href="../credits/">
-    <img src="/assets/images/ui/list.png">
+    <img src="/assets/images/fa/list.png">
     <div><p>Credits</p></div>
   </a>
 </div>
 
 <div markdown=0>
   <a class="feature option" href="../preface/">
-    <img src="/assets/images/ui/book-open.png">
+    <img src="/assets/images/fa/book-open.png">
     <div><p>Preface</p></div>
   </a>
 </div>

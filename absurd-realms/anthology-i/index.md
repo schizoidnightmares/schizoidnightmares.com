@@ -24,7 +24,7 @@ return-url: ../books/
 
 <div markdown=0>
   <a class="feature option" href="contents/">
-    <img src="/assets/images/ui/book-open.png" alt="">
+    <img src="/assets/images/fa/book-open.png" alt="">
     <div><p>Read online</p></div>
   </a>
 </div>
