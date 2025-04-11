@@ -7,7 +7,7 @@ return-url: /credits/
 ---
 
 # Inspirations
-381 contributors in total
+382 contributors in total
 {: .cap}
 
 Here, you will find all my sources of inspiration listed by category. My ideas did not originate from me alone.
@@ -23,7 +23,7 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 {: .toc}
 
 ## Films
-139 inspirations
+140 inspirations
 {: .cap}
 
 {% include inspirations.html category='films' size='smallest' %}
@@ -68,8 +68,8 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 49 origins
 {: .cap}
 
-{% include origin.html flag="us" perc="53.5" %}
-{% include origin.html flag="gb" perc="12.9" %}
+{% include origin.html flag="us" perc="53.7" %}
+{% include origin.html flag="gb" perc="12.8" %}
 {% include origin.html flag="ca" perc="5.8" %}
 {% include origin.html flag="de" perc="2.4" %}
 {% include origin.html flag="fr" perc="2.1" %}
@@ -79,7 +79,7 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 {% include origin.html flag="au" perc="1.3" %}
 {% include origin.html flag="it" perc="1.3" %}
 {% include origin.html flag="ru" perc="1.3" %}
-{% include origin.html flag="nz" perc="1.1" %}
+{% include origin.html flag="nz" perc="1.0" %}
 {% include origin.html flag="cz" perc="0.8" %}
 {% include origin.html flag="kr" perc="0.8" %}
 {% include origin.html flag="es" perc="0.8" %}
