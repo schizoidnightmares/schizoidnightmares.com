@@ -1,13 +1,13 @@
 ---
 title: Inspirations - Credits
 description: Sources of inspiration
-last_modified_at: March 26, 2025
+last_modified_at: April 10, 2025
 return: Credits
 return-url: /credits/
 ---
 
 # Inspirations
-376 contributors in total
+381 contributors in total
 {: .cap}
 
 Here, you will find all my sources of inspiration listed by category. My ideas did not originate from me alone.
@@ -35,7 +35,7 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 {% include inspirations.html category='games' size='smallest' %}
 
 ## Individuals
-6 inspirations
+7 inspirations
 {: .cap}
 
 {% include inspirations.html category='individuals' %}
@@ -47,7 +47,7 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 {% include inspirations.html category='lit' size='smallest' %}
 
 ## Places
-48 inspirations
+52 inspirations
 {: .cap}
 
 {% include inspirations.html category='places' size='smallest' %}
@@ -68,18 +68,18 @@ Here, you will find all my sources of inspiration listed by category. My ideas d
 49 origins
 {: .cap}
 
-{% include origin.html flag="us" perc="54.0" %}
-{% include origin.html flag="gb" perc="13.0" %}
-{% include origin.html flag="ca" perc="5.3" %}
+{% include origin.html flag="us" perc="53.5" %}
+{% include origin.html flag="gb" perc="12.9" %}
+{% include origin.html flag="ca" perc="5.8" %}
 {% include origin.html flag="de" perc="2.4" %}
 {% include origin.html flag="fr" perc="2.1" %}
 {% include origin.html flag="cn" perc="1.6" %}
 {% include origin.html flag="jp" perc="1.6" %}
+{% include origin.html flag="ph" perc="1.6" %}
 {% include origin.html flag="au" perc="1.3" %}
 {% include origin.html flag="it" perc="1.3" %}
 {% include origin.html flag="ru" perc="1.3" %}
 {% include origin.html flag="nz" perc="1.1" %}
-{% include origin.html flag="ph" perc="1.1" %}
 {% include origin.html flag="cz" perc="0.8" %}
 {% include origin.html flag="kr" perc="0.8" %}
 {% include origin.html flag="es" perc="0.8" %}

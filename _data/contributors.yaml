@@ -31,6 +31,12 @@
   usage: Field recording
   notes: Free content
 
+- title: ChatGPT
+  flag: us
+  url: https://chatgpt.com/
+  usage: Creative and technical consultation
+  notes: Freemium service
+
 - title: Cloudflare, Inc.
   flag: us
   url: https://www.cloudflare.com/

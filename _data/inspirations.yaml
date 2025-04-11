@@ -868,6 +868,10 @@
   flag: ca
   category: individuals
 
+- title: 'Anonymous Filipino #1'
+  flag: ph
+  category: individuals
+
 - title: Christopher Columbus
   flag: it
   category: individuals
@@ -1212,6 +1216,10 @@
 
 # places
 
+- title: American Museum of Natural History
+  flag: us
+  category: places
+
 - title: Ancient Athens
   flag: gr
   category: places
@@ -1324,6 +1332,10 @@
   flag: np
   category: places
 
+- title: Ontario Science Centre <small>(2000s–2010s)</small>
+  flag: ca
+  category: places
+
 - title: Paramount Canada’s Wonderland <small>(1993–2006)</small>
   flag: ca
   category: places
@@ -1344,6 +1356,10 @@
   flag: zw
   category: places
 
+- title: Royal Ontario Museum <small>(1990s–2000s)</small>
+  flag: ca
+  category: places
+
 - title: Russia <small>(1910s–1950s)</small>
   flag: ru
   category: places
@@ -1358,6 +1374,10 @@
 
 - title: South Africa
   flag: za
+  category: places
+
+- title: South Cotabato
+  flag: ph
   category: places
 
 - title: South Korea <small>(1960s–1970s)</small>
