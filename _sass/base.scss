@@ -239,6 +239,19 @@ a:hover {
 }
 .caption p { margin-bottom: 2.5rem; }
 
+// image gallery
+.gallery {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: .3rem;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+  width: 100%;
+  img { max-width: 231px; }
+}
+
 // column lists
 .cols2, .cols3, .cols4 { column-gap: 3rem; }
 // two-column lists

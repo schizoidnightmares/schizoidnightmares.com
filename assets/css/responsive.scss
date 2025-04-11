@@ -1,97 +1,68 @@
 ---
 ---
 @media screen and (max-width: 750px) {
-  :root { font-size: 50%; }
   td { white-space: normal; }
   .table table.inline { width: 100%; }
-
   .left, .right {
     float: none;
     margin: 1.5rem auto;
     width: auto;
   }
-
   .return, .advance { font-size: 1.4rem; }
-
   .feature {
     &:not(.option) {
       flex-direction: column;
       text-align: center;
-
       div div {
         justify-content: center;
         margin: 0 0 2rem;
       }
-
       h2 {
         margin-top: 0;
-
         + p { margin-bottom: 1rem; }
       }
-
       img {
         margin: 0 0 1rem;
         width: 100px;
       }
-
       &:last-child div div { margin: 0; }
       &.cropped img { height: 100px; }
       &.standout div div { margin: 0; }
     }
-
     &.option h2 { margin-top: .5rem; }
   }
-
   .container {
     .top, .middle, .bottom {
       grid-template-columns: auto 100% auto;
     }
-
-    .top .header {
-      font-size: 1.6rem;
-      margin: 0 auto;
-    }
-
+    .top .header { margin: 0 auto; }
     .middle {
       .content, .headerText { padding: 0 2rem; }
-
       .header {
         text-align: center;
-
-        .headerText {
-          h1 { font-size: 3.8rem; }
-          img { max-width: 90%; }
-        }
+        .headerText img { max-width: 90%; }
       }
-
       .content {
         & > img, & > p img {
           max-height: 175px;
           max-width: 100%;
         }
-
+        h1, h2, h3, p.cap { text-align: center; }
         .cols2, .cols3, .cols4 {
           column-count: 1;
-          font-size: 1.5rem;
-
           .flag { height: 1.1rem; }
         }
       }
     }
-
     .bottom {
-      font-size: 1.4rem;
       padding: 0 1rem;
-
       .footer {
         grid-template-rows: auto auto;
-
         .info {
           grid-area: 1 / 1 / 1 / 2;
           margin-bottom: .7rem;
           text-align: center;
         }
-
         .nav {
           grid-area: 2 / 1 / 2 / 2;
           justify-content: center;
