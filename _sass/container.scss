@@ -52,6 +52,14 @@
     grid-area: 2 / 1 / 3 / 2;
     .content {
       grid-area: 1 / 2 / 2 / 3;
+      // clearfix for floating images
+      p:has(img.right, img.left) {
+        & ~ p + h2::before, & ~ p:last-of-type::after {
+          clear: both;
+          content: "";
+          display: table;
+        }
+      }
       > div:last-child { margin-bottom: 1.5rem; }
       > img, > p img:not(.left, .right), .thumb img {
         display: block;
