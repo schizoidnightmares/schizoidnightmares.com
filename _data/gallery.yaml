@@ -1,3 +1,75 @@
+- title: Page for film inspirations on my website
+  thumb: /assets/images/about/inspirations.png
+  full: /assets/images/about/inspirations.png
+  alt: Page for film inspirations on my website
+  year: 2025
+  attribution: Schizoid Nightmares
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Earth icon
+  thumb: /assets/images/fa/earth-americas_about.png
+  full: /assets/images/fa/earth-americas_about.png
+  alt: Earth icon
+  year: 2025
+  attribution: Schizoid Nightmares editing an <a href="https://fontawesome.com/icons/earth-americas?f=classic&s=solid" target="_blank">icon</a> (<a href="/assets/images/fa/Font-Awesome-Free-License.txt" target="_blank">licensing statement</a>) from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> (free)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Coins icon
+  thumb: /assets/images/fa/coins_about.png
+  full: /assets/images/fa/coins_about.png
+  alt: Coins icon
+  year: 2025
+  attribution: Schizoid Nightmares editing an <a href="https://fontawesome.com/icons/coins?f=classic&s=solid" target="_blank">icon</a> (<a href="/assets/images/fa/Font-Awesome-Free-License.txt" target="_blank">licensing statement</a>) from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> (free)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Page for Birthing Pool, a scene from Flesh Run, on my website
+  thumb: /assets/images/about/birthing_pool_small.png
+  full: /assets/images/about/birthing_pool.png
+  alt: Page for Birthing Pool, a scene from Flesh Run, on my website
+  year: 2025
+  attribution: Schizoid Nightmares
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Universal Access symbol
+  thumb: /assets/images/fa/universal-access_about_small.png
+  full: /assets/images/fa/universal-access_about.png
+  alt: Universal Access symbol
+  year: 2025
+  attribution: Schizoid Nightmares editing an <a href="https://fontawesome.com/icons/universal-access?f=classic&s=solid" target="_blank">icon</a> (<a href="/assets/images/fa/Font-Awesome-Free-License.txt" target="_blank">licensing statement</a>) from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> (free)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: CC BY icon
+  thumb: /assets/images/about/cc_by.png
+  full: /assets/images/about/cc_by.png
+  alt: CC BY icon
+  year: 2025
+  attribution: Schizoid Nightmares editing the icon from <a href="https://creativecommons.org/" target="_blank">Creative Commons</a>
+  licence: <a href="https://creativecommons.org/policies/#trademark" target="_blank">CC Trademark policy</a>
+
+- title: Fictional planet Masgoi
+  thumb: /assets/images/about/planet.png
+  full: /assets/images/about/planet.png
+  alt: Fictional planet Masgoi
+  year: 2025
+  attribution: Schizoid Nightmares editing his original posted on Reddit on September 4, 2021 6:51 PM
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Commits to the website’s repository on GitHub
+  thumb: /assets/images/about/commits_small.png
+  full: /assets/images/about/commits.png
+  alt: Commits to the website’s repository on GitHub
+  year: 2025
+  attribution: Schizoid Nightmares via <a href="https://github.com/" target="_blank">GitHub</a>
+  licence: Fair dealing<br>Copyrighted ©
+
+- title: Collection of covers for <i>Anthology I</i>, <i>Parallel</i>, and <i>The Flippers</i>
+  thumb: /assets/images/about/artwork_collection_small.png
+  full: /assets/images/about/artwork_collection.png
+  alt: Collection of covers for Anthology I, Parallel, and The Flippers
+  year: 2025
+  attribution: Schizoid Nightmares editing together the covers of <i>Schizoid Nightmares Anthology I</i> (cover art by <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a>), <i>Parallel</i> (cover art by anonymous), and <i>The Flippers</i> (cover art by Vlad Momot)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
 - title: List icon
   thumb: /assets/images/fa/list.png
   full: /assets/images/fa/list.png
@@ -94,18 +166,18 @@
   attribution: Schizoid Nightmares
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
-- title: Schizoid Nightmares wordmark
-  thumb: /assets/images/sn_wordmark_small.png
-  full: /assets/images/sn_wordmark.png
-  alt: Schizoid Nightmares
-  year: 2024
-  attribution: Schizoid Nightmares
-  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-
 - title: Schizoid Nightmares Forums icon (current)
   thumb: /assets/images/snf_icon_2024_small.png
   full: /assets/images/snf_icon_2024.png
   alt: Schizoid Nightmares Forums icon
+  year: 2024
+  attribution: Schizoid Nightmares
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Schizoid Nightmares wordmark
+  thumb: /assets/images/sn_wordmark_small.png
+  full: /assets/images/sn_wordmark.png
+  alt: Schizoid Nightmares
   year: 2024
   attribution: Schizoid Nightmares
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>

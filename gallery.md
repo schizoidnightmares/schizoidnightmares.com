@@ -1,11 +1,11 @@
 ---
 title: Gallery
 description: A gallery of images present on the website
-last_modified_at: April 6, 2025
+last_modified_at: April 12, 2025
 ---
 
 # Gallery
-56 images in total
+65 images in total
 {: .cap}
 
 A gallery of the images on the website (newest created first)
