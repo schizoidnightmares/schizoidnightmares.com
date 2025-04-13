@@ -1,7 +1,13 @@
-- title: Affinity Designer
+- title: Affinity Designer 2
   flag: gb
   url: https://affinity.serif.com/en-gb/designer/
   usage: Vector production
+  notes: Paid software
+
+- title: Affinity Photo 2
+  flag: gb
+  url: https://affinity.serif.com/en-gb/photo/
+  usage: Raster production
   notes: Paid software
 
 - title: 'Anonymous artist #1 (credit as anonymous)'
@@ -23,7 +29,7 @@
 - title: Azgaar’s Fantasy Map Generator
   flag: ge
   url: https://github.com/Azgaar/Fantasy-Map-Generator
-  usage: For my article “<a href="https://schizoidnightmares.medium.com/how-to-generate-custom-biomes-in-azgaars-fantasy-map-generator-763e726a1093" target="_blank">How to generate custom biomes in Azgaar’s Fantasy Map Generator</a>”
+  usage: For my article “<a href="https://schizoidnightmares.medium.com/how-to-generate-custom-biomes-in-azgaars-fantasy-map-generator-763e726a1093" target="_blank">How to generate custom biomes in Azgaar’s Fantasy Map Generator</a>” and past concepts (e.g. “Masgoi”)
   notes: Licensed under the <a href="https://github.com/Azgaar/Fantasy-Map-Generator/blob/master/LICENSE" target="_blank">MIT License</a>
 
 - title: Cgzzz
@@ -323,6 +329,12 @@
   url: https://www.pexels.com/@pixabay/
   usage: Stock videos
   notes: Licensed under the <a href="https://www.pexels.com/license/" target="_blank">Pexels License</a>
+
+- title: PlanetMaker
+  flag: us
+  url: http://planetmaker.apoapsys.com/
+  usage: Planet rendering for past concepts (e.g. “Masgoi”)
+  notes: Free software under attribution licence for image outputs
 
 - title: RubyGems
   flag: us
