@@ -3,10 +3,3 @@
 @import 'theme.scss';
 
 .return { text-transform: capitalize; }
-
-/* Horizontal rules */
-
-hr {
-  border: .05rem solid $color-secondary;
-  margin-top: 3rem;
-}

@@ -88,6 +88,13 @@ a:hover {
   &[href]:where([href^="http"])::after { content: none; }
 }
 
+/* Horizontal rules */
+
+hr {
+  border: .05rem solid $color-secondary;
+  margin-top: 3rem;
+}
+
 /* Text effects */
 
 .faded { color: $color-secondary; }
