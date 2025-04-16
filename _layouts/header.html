@@ -46,6 +46,7 @@ style: header
   {{ content }}
   {% endif %}
   {% if page.copyrighted %}
+  <div style="clear: both"></div>
   <hr>
   <small><i>{{ page.copyright | default: "Full copyright applies to this page. © Schizoid Nightmares. All rights reserved." }}</i></small>
   {% endif %}
