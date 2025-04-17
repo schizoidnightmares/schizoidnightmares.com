@@ -1,3 +1,27 @@
+- title: “The Privileged” placeholder header
+  thumb: /assets/images/futurebad/the-recent-centuries/the_privileged_placeholder_small.jpg
+  full: /assets/images/futurebad/the-recent-centuries/the_privileged_placeholder.jpg
+  alt: The Privileged placeholder header
+  year: 2025
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/rP12k8K1ySj7fdz0tcf6/post-war-golden-age-1950s-1960s-american-suburb-empty-street-abandoned" target="_blank">prompting</a> NightCafe HiDream I1 Dev
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: “The Recent Centuries” placeholder header
+  thumb: /assets/images/futurebad/the-recent-centuries/the_recent_centuries_placeholder_small.jpg
+  full: /assets/images/futurebad/the-recent-centuries/the_recent_centuries_placeholder.jpg
+  alt: The Recent Centuries placeholder header
+  year: 2025
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/umB4hxMUp9glTamg3rqi/dilapidated-dusty-dark-old-futuristic-museum-interior-classical-architecture-boarded-up" target="_blank">prompting</a> NightCafe HiDream I1 Dev
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
+- title: <i>Futurebad</i> placeholder header
+  thumb: /assets/images/futurebad/futurebad_header_placeholder_small.jpg
+  full: /assets/images/futurebad/futurebad_header_placeholder.jpg
+  alt: Futurebad placeholder header
+  year: 2025
+  attribution: Schizoid Nightmares <a href="https://creator.nightcafe.studio/creation/vV8kO9ZQWS5ESt4uzbQu/futuristic-ruined-global-city-overtaken-by-sand-and-vines-24th-century-a-fallen-global-socioeconomic" target="_blank">prompting</a> NightCafe HiDream I1 Dev
+  licence: <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+
 - title: Page for film inspirations on my website
   thumb: /assets/images/about/inspirations.png
   full: /assets/images/about/inspirations.png
@@ -69,6 +93,14 @@
   year: 2025
   attribution: Schizoid Nightmares editing together the covers of <i>Schizoid Nightmares Anthology I</i> (cover art by <a href="https://www.tumblr.com/vladmomotart" target="_blank">Vlad Momot</a>), <i>Parallel</i> (cover art by anonymous), and <i>The Flippers</i> (cover art by Vlad Momot)
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: <i>Futurebad</i> placeholder cover
+  thumb: /assets/images/futurebad/futurebad_placeholder_small.jpg
+  full: /assets/images/futurebad/futurebad_placeholder.jpg
+  alt: Futurebad placeholder cover
+  year: 2025
+  attribution: Schizoid Nightmares editing and <a href="https://creator.nightcafe.studio/creation/0tSkcV32aVtbvhoY3ciY/earth-ravaged-by-hundreds-of-years-of-ecological-collapse-hyperconsumerism-and-societal-decay" target="_blank">prompting</a> NightCafe Flux PRO v1.1
+  licence: Copyrighted ©
 
 - title: List icon
   thumb: /assets/images/fa/list.png

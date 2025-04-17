@@ -1,0 +1,35 @@
+---
+title: The Privileged - The Recent Centuries
+description: Opening scene of The Recent Centuries
+last_modified_at: April 17, 2025
+layout: header
+story: true
+header: /assets/images/futurebad/the-recent-centuries/the_privileged_placeholder_blur.jpg
+header-title: The Privileged
+header-subtitle: April 17, 2025
+caption: <a href="/assets/images/futurebad/the-recent-centuries/the_privileged_placeholder.jpg" target="_blank">AI placeholder artwork</a> generated above using <a href="https://creator.nightcafe.studio/creation/rP12k8K1ySj7fdz0tcf6/post-war-golden-age-1950s-1960s-american-suburb-empty-street-abandoned" target="_blank">HiDream I1 Dev</a> — <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+main: Contents
+main-url: ../../contents/
+return: The Recent Centuries
+return-url: ../
+advance: To be continued…
+copyrighted: true
+---
+
+As the hairless corporate-indentured schoolchildren enter the last-standing museum with their latest-model humanoid escort, they find no one else inside except the fleshless android receptionist who greets them with drooping lifelike silicon eyes that never blink. Outside, autonomous cranes wait still to swing the wrecking balls. The receptionist and escort light the way using lamp implants on the tops of their heads for the school group as they venture further into the dusty darkness of the museum. Most exhibitions have long since closed and their artifacts removed — sold off, scrapped, or dumped. Loose old tape and rusted metal sheets hide away the abandoned sections.
+
+”We are privileged and pleased to show you the last preserved exhibition — The Recent Centuries. Our museum has devoted all of its last resources in keeping it in full functionality. For its last showing, we have made certain that all exhibits in this exhibition will display properly. These exhibits make use of holographic displays and speakers — showcasing the technology used before the widespread adoption of BCIs, brain–computer interfaces, and augmented reality without external devices. Even humans without BCIs can access this exhibition. However, it would seem none of you are outdated, so be sure to make use of neural communication — verbal questions won’t be necessary while we remain connected. My model is incompatible with your latest hardware, so I will only be able to receive your questions but must communicate verbally. Please accept this inconvenience,” the receptionist informs the school group in a partially slurred, barely audible, tired Martian accent, its electronic voice box breaking with some words.
+
+The receptionist leads the group through an archway into a seemingly empty room that soon comes to life in a colourful, vivid holographic top-down representation of postwar New World suburban nineteen forty-three. The schoolchildren stare blankly at the display, some teetering on their feet, their eyes heavy with dark circles.
+
+A masculine, mature, posh voice with a Northwestern accent gently echos from surround sound speakers, “It was the year of their victory over the Old World imperial monarchies, the end of the Total War. The nations of the New World worked to rebuild the ruins of its defeated enemies in the image of democracy, free enterprise, and relative personal liberty. They were successful. Within a decade, the New World established a new international economic and political order. Trade flourished, and every nation prospered in this unprecedented postwar economic miracle.
+
+“Back then, money existed, which was used for the taxed exchange of goods. Taxes paid for government, an institution that provided basic services, such as roads, police, firefighters, and, at least in some countries, education and healthcare. And people — particularly men after women returned to domestic duties following the war — were paid well back then. So well, in the most prosperous New World country, the United Federal Republic of Eagle (U.F.R.E.), the average family could afford its own automobile, generous supplies of water with low concentrations of pollutants, three daily non-recycled meals with excessive nutrients, television receiver — a primitive one-dimensional display using radio waves — and even a detached private residential shelter with a fenced grassy field exposed to the relatively stable natural environment. For many, except females and undesirables, it was the golden age. And for a time, life was stable, longer, and, for some, happier. But, like all golden ages, this age would not last.
+
+“The first postwar generation, the ‘Post Generation,’ grew up during a time of unparalleled economic prosperity across all classes. Unlike their parents, who endured — particularly the men — great sacrifice during the Total War, the Post Generation, colloquially referred to as ‘Posts,’ reaped the rewards without much relative hardship. They grew up with an intense sense of optimism and entitlement. Once their parents retired and Posts took over the reins, they gradually eliminated job security. They refused to adapt to a ballooning population and supported cuts to infrastructure and urban planning. Taxes, the fuel of government and civilization, became the ultimate evil. Posts must have it all because they always have. Many mishandled their finances, becoming increasingly reliant on their impoverished, opportunity-starved children to provide for them in their later years. The birthrate plummeted, and everyone began pointing fingers. Posts that continued to hold onto their power replaced their own people with desperate foreign workers who would work for much less money and rights — further displacing the newer generations in a race to the bottom.
+
+“For Posts, nothing was sacred. Not the once revered religious institutions that provided social and moral support, which they starved and kept their children away from. Not the rivers, lakes, and ocean shores that once flourished, which they overexploited and polluted without worry. Not even the air they breathed was sacred. Posts knew their mortality so well that they worked hard to ensure nothing of value was left after they passed. Near the end of the twentieth century, birthrates across the New World had collapsed, suicide skyrocketed, and homeless filled the streets, with the Old World quickly catching up,” the voice concludes as the holographic display dims and flickers off.
+
+The schoolchildren now barely stand. None appeared stimulated by the holographic retelling of history and voiceover. A schoolgirl tips over onto her knees. The android escort comes over and repeatedly shocks her with a shiny finger taser implant until she rises back up to her feet. The rest of the schoolchildren immediately open their eyes wide and straighten their backs, suppressing their yawns.
+
+Shambling along in a wavering but orderly line, the schoolchildren follow the receptionist as it leads and introduces them to the next exhibit in the exhibition, “For the next exhibit, you will witness the firsthand holographic retelling of a moment in time in the year twenty hundred and one — the first year of the third millennium.”
