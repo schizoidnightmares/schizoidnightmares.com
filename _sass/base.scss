@@ -311,6 +311,8 @@ hr {
     margin-right: 2.5rem;
     width: 125px;
   }
+  a img { margin-right: 0; }
+  a:has(img) { margin-right: 2.5rem; }
   > div { width: 100%; }
   div div {
     color: $color-secondary;
