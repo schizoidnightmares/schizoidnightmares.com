@@ -56,7 +56,8 @@ ul, ol {
   &.spaced li, &.spaced li ul li, &.spaced li ol li { margin: 1rem 0; }
 }
 
-ol ol { list-style-type: lower-alpha; }
+// a, b, c, z
+ol.letters { list-style-type: lower-alpha; }
 
 code { white-space: nowrap; }
 
