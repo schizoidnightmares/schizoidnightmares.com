@@ -2,10 +2,10 @@
 title: Credits - Futurebad
 description: Contributors to Futurebad
 last_modified_at: April 17, 2025
-main: <i>Futurebad</i>
-main-url: ../
-return: Contents
-return-url: ../contents/
+main: Contents
+main-url: ../contents/
+return: Disclaimer
+return-url: ../disclaimer/
 advance: Preface
 advance-url: ../preface/
 copyrighted: true
