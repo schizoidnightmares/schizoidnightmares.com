@@ -1,3 +1,11 @@
+- title: CC BY icon
+  thumb: /assets/images/fa/creative-commons-by-brands.png
+  full: /assets/images/fa/creative-commons-by-brands.png
+  alt: CC BY icon
+  year: 2025
+  attribution: Schizoid Nightmares editing an <a href="https://fontawesome.com/icons/creative-commons-by?f=classic&s=brands" target="_blank">icon</a> (<a href="/assets/images/fa/Font-Awesome-Free-License.txt" target="_blank">licensing statement</a>) from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> (free)
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
 - title: Info icon
   thumb: /assets/images/ui/info.png
   full: /assets/images/ui/info.png
