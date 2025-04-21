@@ -1,6 +1,6 @@
 ---
 title: Modus operandi
-description: My work habits
+description: My work habits and values
 last_modified_at: April 12, 2025
 return: About
 return-url: ../
