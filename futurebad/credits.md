@@ -1,6 +1,6 @@
 ---
 title: Credits - Futurebad
-description: Credits for Futurebad
+description: Contributors to Futurebad
 last_modified_at: April 17, 2025
 main: <i>Futurebad</i>
 main-url: ../
@@ -11,7 +11,7 @@ advance-url: ../preface/
 copyrighted: true
 ---
 
-# Credits
+# Credits for <i>[Futurebad](../)</i>
 Direct contributors to *Futurebad*
 
 ## Creative consultant

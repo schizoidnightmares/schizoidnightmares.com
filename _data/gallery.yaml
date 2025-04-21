@@ -1,3 +1,27 @@
+- title: Info icon
+  thumb: /assets/images/ui/info.png
+  full: /assets/images/ui/info.png
+  alt: Info icon
+  year: 2025
+  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Open+Sans" target="_blank">Open Sans</a> font by Steve Matteson
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Exclamation point icon
+  thumb: /assets/images/ui/exclamation.png
+  full: /assets/images/ui/exclamation.png
+  alt: Exclamation point icon
+  year: 2025
+  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Open+Sans" target="_blank">Open Sans</a> font by Steve Matteson
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: Copyright icon
+  thumb: /assets/images/ui/copyright.png
+  full: /assets/images/ui/copyright.png
+  alt: Copyright icon
+  year: 2025
+  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Open+Sans" target="_blank">Open Sans</a> font by Steve Matteson
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
 - title: “The Privileged” placeholder header
   thumb: /assets/images/futurebad/the-recent-centuries/the_privileged_placeholder_small.jpg
   full: /assets/images/futurebad/the-recent-centuries/the_privileged_placeholder.jpg
