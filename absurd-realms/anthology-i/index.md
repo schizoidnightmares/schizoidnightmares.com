@@ -14,8 +14,8 @@ return-url: ../books/
 ---
 
 <div class="right" markdown=0>
-  <img class="thumb" src="/assets/images/ar/anthology-i/anthology_i_med.jpg" alt="Anthology I cover">
-  <div class="caption"><a href="/assets/images/ar/anthology-i/anthology_i.jpg" target="_blank">Cover art</a> by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as a paid commission</div>
+    <img class="thumb" src="/assets/images/ar/anthology-i/anthology_i_med.jpg" alt="Anthology I cover">
+    <div class="caption"><a href="/assets/images/ar/anthology-i/anthology_i.jpg" target="_blank">Cover art</a> by <a href="https://vladmomotart.tumblr.com/" target="_blank">Vlad Momot</a> as a paid commission</div>
 </div>
 
 ***Schizoid Nightmares Anthology I*** is the first anthology of short stories in [*Absurd Realms*](/absurdrealms/), introducing the science fantasy universe.
@@ -23,8 +23,8 @@ return-url: ../books/
 ## Availability
 
 <div markdown=0>
-  <a class="feature option" href="contents/">
-    <img src="/assets/images/fa/book-open.png" alt="">
-    <div><p>Read online</p></div>
-  </a>
+    <a class="feature option" href="contents/">
+        <img src="/assets/images/fa/book-open.png" alt="">
+        <div><p>Read online</p></div>
+    </a>
 </div>
