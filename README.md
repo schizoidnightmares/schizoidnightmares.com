@@ -9,5 +9,6 @@ As per [GitHub's Acceptable Use Policies](https://docs.github.com/en/site-policy
 ## Notes
 
 1. Use 4 spaces for tab size. Markdown seems to work properly with this format. Using only 2 spaces can create issues with lists.
+    1. Use 2 spaces for YAML files.
 1. Do not update page modification dates unless the *content* of the page changes — not simple formatting fixes.
     1. Use the search and replace function to convert outdated indenting (use cautiously).
