@@ -1,6 +1,6 @@
 ---
 title: Jobs
-description: My work habits and values
+description: Job opportunities
 last_modified_at: April 23, 2025
 return: About
 return-url: ../
