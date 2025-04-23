@@ -1,7 +1,7 @@
 ---
 title: Modus operandi
 description: My work habits and values
-last_modified_at: April 12, 2025
+last_modified_at: April 22, 2025
 return: About
 return-url: ../
 ---
@@ -70,7 +70,7 @@ In the absence of human-made content, I use artificial intelligence as a tempora
 1. Once possible, I will replace the AI-generated placeholder material with human-made content
 1. AI-generated content is only permanent if the use of AI-generated is part of my intent behind the art itself (e.g. some of my music videos)
 
-*While I use AI to help proofread my writings and offer creative consultation or brainstorming, I never use it to generate the written material itself.*
+*While I use AI for consultation or brainstorming, I never use it to generate my writing.*
 
 ## Free content
 <img class="right" src="/assets/images/about/cc_by.png" alt="CC BY icon">
