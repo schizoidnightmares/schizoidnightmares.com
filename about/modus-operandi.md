@@ -1,5 +1,5 @@
 ---
-title: Modus operandi
+title: Modus operandi - About
 description: My work habits and values
 last_modified_at: April 22, 2025
 return: About
