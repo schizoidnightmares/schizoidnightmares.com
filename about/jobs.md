@@ -111,3 +111,5 @@ Expectations:
 
 ## Hire me
 If you believe I may be useful to you — there’s also the option of hiring me.
+
+*I use macOS and iOS; I do not currently have access to Windows or Android.*
