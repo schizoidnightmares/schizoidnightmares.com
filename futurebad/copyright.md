@@ -11,7 +11,7 @@ advance-url: ../disclaimer/
 copyrighted: true
 ---
 
-# Copyright of <i>[Futurebad](../)</i>
-<i>Futurebad</i> © 2025 by Schizoid Nightmares. All rights reserved.
+# Copyright of *[Futurebad](../)*
+*Futurebad* © 2025 by Schizoid Nightmares. All rights reserved.
 
 This work is *not* released under permissive licensing. You are not permitted to copy, redistribute, or adapt this work except as permitted by common law under fair dealing. Please <a href="https://tally.so/r/mOaDRp" target="_blank">contact me</a> for licensing inquiries.

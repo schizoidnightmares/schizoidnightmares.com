@@ -11,7 +11,7 @@ advance-url: ../preface/
 copyrighted: true
 ---
 
-# Credits for <i>[Futurebad](../)</i>
+# Credits for *[Futurebad](../)*
 Direct contributors to *Futurebad*
 
 ## Creative consultant
