@@ -20,7 +20,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-  <a href="futurebad/" aria-label="Read more about Futurebad"><img src="/assets/images/futurebad/futurebad_placeholder_small.jpg" alt="Futurebad placeholder cover"></a>
+  <a href="futurebad/" aria-label="Read more about Futurebad" title="Read more about Futurebad"><img src="/assets/images/futurebad/futurebad_placeholder_small.jpg" alt="Futurebad placeholder cover"></a>
   <div>
     <h2><i><a href="futurebad/">Futurebad</a></i></h2>
     <p class="cap">2025–present</p>
@@ -30,7 +30,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-  <a href="absurd-realms/" aria-label="Read more about Absurd Realms"><img src="/assets/images/ar_icon_2024_small.png" alt="Absurd Realms icon"></a>
+  <a href="absurd-realms/" aria-label="Read more about Absurd Realms" title="Read more about Absurd Realms"><img src="/assets/images/ar_icon_2024_small.png" alt="Absurd Realms icon"></a>
   <div>
     <h2><i><a href="absurd-realms/">Absurd Realms</a></i></h2>
     <p class="cap">2023–present</p>
@@ -40,7 +40,7 @@ caption: <a href="/assets/images/header.jpg" target="_blank">Cropping</a> of the
 </div>
 
 <div class="feature" markdown=0>
-  <a href="music/" aria-label="Browse my music"><img src="/assets/images/note_2024_small.png" alt="Musical note"></a>
+  <a href="music/" aria-label="Browse my music" title="Browse my music"><img src="/assets/images/note_2024_small.png" alt="Musical note"></a>
   <div>
     <h2><a href="music/">Music</a></h2>
     <p class="cap">2020–present</p>

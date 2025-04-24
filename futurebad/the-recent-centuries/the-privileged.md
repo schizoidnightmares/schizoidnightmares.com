@@ -12,7 +12,8 @@ main: Contents
 main-url: ../../contents/
 return: The Recent Centuries
 return-url: ../
-advance: To be continued…
+advance: Next Stop
+advance-url: ../next-stop/
 copyrighted: true
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: The Recent Centuries - Futurebad
 description: An adult newborn must face the trials of an enclosed hellish dimension of flesh
-last_modified_at: April 18, 2025
+last_modified_at: April 23, 2025
 layout: header
 header: /assets/images/futurebad/the-recent-centuries/the_recent_centuries_placeholder_blur.jpg
 header-title: The Recent Centuries
@@ -24,5 +24,12 @@ copyrighted: true
     <a class="feature option cropped" href="the-privileged/">
         <img src="/assets/images/futurebad/the-recent-centuries/the_privileged_placeholder_small.jpg" alt="The Privileged placeholder artwork">
         <div><p>The Privileged</p></div>
+    </a>
+</div>
+
+<div markdown=0>
+    <a class="feature option cropped" href="next-stop/">
+        <img src="/assets/images/futurebad/the-recent-centuries/next_stop_placeholder_small.jpg" alt="Next Stop placeholder artwork">
+        <div><p>Next Stop</p></div>
     </a>
 </div>
