@@ -38,6 +38,12 @@
   usage: For my article “<a href="https://schizoidnightmares.medium.com/how-to-generate-custom-biomes-in-azgaars-fantasy-map-generator-763e726a1093" target="_blank">How to generate custom biomes in Azgaar’s Fantasy Map Generator</a>” and past concepts (e.g. “Masgoi”)
   notes: Licensed under the <a href="https://github.com/Azgaar/Fantasy-Map-Generator/blob/master/LICENSE" target="_blank">MIT License</a>
 
+- title: Black Forest Labs
+  flag: de
+  url: https://bfl.ai/
+  usage: Flux PRO v1.1
+  notes: Private company
+
 - title: Cgzzz
   url: https://freesound.org/people/Cgzzz/
   usage: Field recording
@@ -198,6 +204,12 @@
   url: https://github.com/hcodes
   usage: <a href="https://github.com/fast-average-color/fast-average-color" target="_blank">fast-average-color</a>
   notes: Licensed under the <a href="https://github.com/fast-average-color/fast-average-color/blob/master/LICENSE" target="_blank">MIT License</a>
+
+- title: HiDream.ai
+  flag: cn
+  url: https://hidreamai.com/
+  usage: HiDream I1 Dev
+  notes: Private company
 
 - title: iMovie
   flag: us
