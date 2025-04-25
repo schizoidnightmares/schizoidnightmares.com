@@ -10,7 +10,7 @@ html { background: $color-bg; }
 
 body {
     color: $color-primary;
-    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-family: 'Atkinson Hyperlegible Next', sans-serif;
     font-size: 1.8rem;
     line-height: 1.7;
     margin: 0;
@@ -19,7 +19,7 @@ body {
 /* Headings */
 
 h1, h2, h3 {
-    font-family: 'Atkinson Hyperlegible', sans-serif;
+    font-family: 'Atkinson Hyperlegible Next', sans-serif;
     letter-spacing: .02rem;
     line-height: 1.5;
     margin: 1.5rem 0 1rem;
@@ -99,30 +99,28 @@ hr {
 
 @font-face {
     font-display: swap;
-    font-family: 'Atkinson Hyperlegible';
-    font-weight: bold;
-    src: url(../fonts/AtkinsonHyperlegible-Bold.ttf);
+    font-family: 'Atkinson Hyperlegible Next';
+    src: url(../fonts/AtkinsonHyperlegibleNext-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-display: swap;
-    font-family: 'Atkinson Hyperlegible';
-    font-weight: bold;
+    font-family: 'Atkinson Hyperlegible Next';
     font-style: italic;
-    src: url(../fonts/AtkinsonHyperlegible-BoldItalic.ttf);
+    src: url(../fonts/AtkinsonHyperlegibleNext-Italic-VariableFont_wght.ttf);
 }
 
 @font-face {
     font-display: swap;
-    font-family: 'Atkinson Hyperlegible';
+    font-family: 'Atkinson Hyperlegible Mono';
+    src: url(../fonts/AtkinsonHyperlegibleMono-VariableFont_wght.ttf);
+}
+
+@font-face {
+    font-display: swap;
+    font-family: 'Atkinson Hyperlegible Mono';
     font-style: italic;
-    src: url(../fonts/AtkinsonHyperlegible-Italic.ttf);
-}
-
-@font-face {
-    font-display: swap;
-    font-family: 'Atkinson Hyperlegible';
-    src: url(../fonts/AtkinsonHyperlegible-Regular.ttf);
+    src: url(../fonts/AtkinsonHyperlegibleMono-Italic-VariableFont_wght.ttf);
 }
 
 /* Reorganize later */
