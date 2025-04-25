@@ -1,9 +1,9 @@
-- title: CC BY icon
-  thumb: /assets/images/fa/creative-commons-by-brands.png
-  full: /assets/images/fa/creative-commons-by-brands.png
-  alt: CC BY icon
+- title: Exclamation point icon
+  thumb: /assets/images/ui/exclamation.png
+  full: /assets/images/ui/exclamation.png
+  alt: Exclamation point icon
   year: 2025
-  attribution: Schizoid Nightmares editing an <a href="https://fontawesome.com/icons/creative-commons-by?f=classic&s=brands" target="_blank">icon</a> (<a href="/assets/images/fa/Font-Awesome-Free-License.txt" target="_blank">licensing statement</a>) from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> (free)
+  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Atkinson+Hyperlegible" target="_blank">Atkinson Hyperlegible</a> font by Applied Design Works
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: Info icon
@@ -11,15 +11,7 @@
   full: /assets/images/ui/info.png
   alt: Info icon
   year: 2025
-  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Open+Sans" target="_blank">Open Sans</a> font by Steve Matteson
-  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
-
-- title: Exclamation point icon
-  thumb: /assets/images/ui/exclamation.png
-  full: /assets/images/ui/exclamation.png
-  alt: Exclamation point icon
-  year: 2025
-  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Open+Sans" target="_blank">Open Sans</a> font by Steve Matteson
+  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Atkinson+Hyperlegible" target="_blank">Atkinson Hyperlegible</a> font by Applied Design Works
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: Copyright icon
@@ -28,6 +20,14 @@
   alt: Copyright icon
   year: 2025
   attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Atkinson+Hyperlegible" target="_blank">Atkinson Hyperlegible</a> font by Applied Design Works
+  licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
+
+- title: CC BY icon
+  thumb: /assets/images/fa/creative-commons-by-brands.png
+  full: /assets/images/fa/creative-commons-by-brands.png
+  alt: CC BY icon
+  year: 2025
+  attribution: Schizoid Nightmares editing an <a href="https://fontawesome.com/icons/creative-commons-by?f=classic&s=brands" target="_blank">icon</a> (<a href="/assets/images/fa/Font-Awesome-Free-License.txt" target="_blank">licensing statement</a>) from <a href="https://fontawesome.com/" target="_blank">Font Awesome</a> (free)
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: “Next Stop” placeholder header
