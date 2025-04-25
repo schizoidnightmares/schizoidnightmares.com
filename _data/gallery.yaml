@@ -27,7 +27,7 @@
   full: /assets/images/ui/copyright.png
   alt: Copyright icon
   year: 2025
-  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Open+Sans" target="_blank">Open Sans</a> font by Steve Matteson
+  attribution: Schizoid Nightmares; <a href="https://fonts.google.com/specimen/Atkinson+Hyperlegible" target="_blank">Atkinson Hyperlegible</a> font by Applied Design Works
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: “Next Stop” placeholder header
@@ -275,7 +275,7 @@
   full: /assets/images/plotbible_icon.png
   alt: PlotBible icon
   year: 2024
-  attribution: Schizoid Nightmares using <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font by <a href="https://cyreal.org/" target="_blank">Cyreal</a>
+  attribution: Schizoid Nightmares; <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font by <a href="https://cyreal.org/" target="_blank">Cyreal</a>
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: Alpha Interstellar Region
@@ -299,7 +299,7 @@
   full: /assets/images/snf_icon.png
   alt: Schizoid Nightmares Forums icon
   year: 2023
-  attribution: Schizoid Nightmares using <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font by <a href="https://cyreal.org/" target="_blank">Cyreal</a>
+  attribution: Schizoid Nightmares; <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font by <a href="https://cyreal.org/" target="_blank">Cyreal</a>
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: Music note symbol (old)
@@ -419,7 +419,7 @@
   full: /assets/images/sn_icon.png
   alt: Schizoid Nightmares icon
   year: 2023
-  attribution: Schizoid Nightmares
+  attribution: Schizoid Nightmares; <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font by <a href="https://cyreal.org/" target="_blank">Cyreal</a>
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: “The Wise One” placeholder header
@@ -451,7 +451,7 @@
   full: /assets/images/ar_icon.png
   alt: Absurd Realms icon
   year: 2023
-  attribution: Schizoid Nightmares
+  attribution: Schizoid Nightmares; <a href="http://cyreal.org/fonts/lora/" target="_blank">Lora</a> font by <a href="https://cyreal.org/" target="_blank">Cyreal</a>
   licence: <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>
 
 - title: <i>Schizoid Nightmares Anthology III</i> placeholder cover

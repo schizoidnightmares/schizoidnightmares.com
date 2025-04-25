@@ -10,17 +10,18 @@ html { background: $color-bg; }
 
 body {
     color: $color-primary;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
     font-size: 1.8rem;
-    line-height: 1.6;
+    line-height: 1.7;
     margin: 0;
 }
 
 /* Headings */
 
 h1, h2, h3 {
-    font-family: Lora, serif;
+    font-family: 'Atkinson Hyperlegible', sans-serif;
     letter-spacing: .02rem;
+    line-height: 1.5;
     margin: 1.5rem 0 1rem;
     + p { margin-top: 1rem; }
 }
@@ -31,7 +32,7 @@ h1 {
 }
 
 h2 { font-size: 2.4rem; }
-h3 { font-size: 1.9rem; }
+h3 { font-size: 2rem; }
 
 /* Paragraphs and lists */
 
@@ -98,27 +99,30 @@ hr {
 
 @font-face {
     font-display: swap;
-    font-family: Lora;
-    src: url(../fonts/Lora-VariableFont_wght.ttf);
+    font-family: 'Atkinson Hyperlegible';
+    font-weight: bold;
+    src: url(../fonts/AtkinsonHyperlegible-Bold.ttf);
 }
 
 @font-face {
     font-display: swap;
-    font-family: Lora;
+    font-family: 'Atkinson Hyperlegible';
+    font-weight: bold;
     font-style: italic;
-    src: url(../fonts/Lora-Italic-VariableFont_wght.ttf);
+    src: url(../fonts/AtkinsonHyperlegible-BoldItalic.ttf);
 }
 
 @font-face {
     font-display: swap;
-    font-family: 'Open Sans';
-    src: url(../fonts/OpenSans-VariableFont_wdth,wght.ttf);
+    font-family: 'Atkinson Hyperlegible';
+    font-style: italic;
+    src: url(../fonts/AtkinsonHyperlegible-Italic.ttf);
 }
+
 @font-face {
     font-display: swap;
-    font-family: 'Open Sans';
-    font-style: italic;
-    src: url(../fonts/OpenSans-Italic-VariableFont_wdth,wght.ttf);
+    font-family: 'Atkinson Hyperlegible';
+    src: url(../fonts/AtkinsonHyperlegible-Regular.ttf);
 }
 
 /* Reorganize later */
@@ -142,17 +146,17 @@ hr {
             }
         }
         &.small, &.small .caption {
-            font-size: 1.5rem;
+            font-size: 1.6rem;
             th, td { padding: .8rem; }
             .flag { height: 1.1rem; }
         }
         &.smaller, &.smaller .caption {
-            font-size: 1.3rem;
+            font-size: 1.5rem;
             th, td { padding: .7rem; }
             .flag { height: 1rem; }
         }
         &.smallest, &.smallest .caption {
-            font-size: 1.2rem;
+            font-size: 1.4rem;
             th, td { padding: .6rem; }
             .flag { height: .9rem; }
         }
@@ -210,7 +214,9 @@ hr {
     clear: both;
     color: $color-secondary;
     font-size: 1.3rem;
+    margin-top: 1em;
     &::before { content: "Footnotes:"; }
+    ol { margin-block-start: 0; }
     .reversefootnote { text-decoration: none; }
 }
 
@@ -259,19 +265,19 @@ hr {
 // two-column lists
 .cols2 {
     column-count: 2;
-    font-size: 1.5rem;
+    font-size: 1.6rem;
     .flag { height: 1.1rem; }
 }
 // three-column lists
 .cols3 {
     column-count: 3;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     .flag { height: 1rem; }
 }
 // four-column lists
 .cols4 {
     column-count: 4;
-    font-size: 1.2rem;
+    font-size: 1.4rem;
     .flag { height: .9rem; }
 }
 

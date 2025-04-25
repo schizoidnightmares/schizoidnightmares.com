@@ -10,6 +10,12 @@
   usage: Raster production
   notes: Paid software
 
+- title: Atkinson Hyperlegible by Applied Design Works
+  flag: us
+  url: https://fonts.google.com/specimen/Atkinson+Hyperlegible
+  usage: Font used on schizoidnightmares.com
+  notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
+
 - title: 'Anonymous artist #1 (credit as anonymous)'
   usage: Cover artist for <i>Parallel</i>
   notes: Paid contributor; art produced for me licensed under <a href="https://creativecommons.org/licenses/by/4.0/" target="_blank">CC BY 4.0</a>; requested anonymity
@@ -255,7 +261,7 @@
 - title: Lora by Cyreal
   flag: ge
   url: http://cyreal.org/fonts/lora/
-  usage: Font; used on schizoidnightmares.com
+  usage: Font used in past designs
   notes: Licensed under the <a href="http://cyreal.org/license/" target="_blank">OFL</a>
 
 - title: MAMP
@@ -303,7 +309,7 @@
 - title: Open Sans by Steve Matteson
   flag: us
   url: https://fonts.google.com/specimen/Open+Sans
-  usage: Font; used on schizoidnightmares.com
+  usage: Font used in past designs
   notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
 
 - title: Pages
@@ -423,7 +429,7 @@
 - title: UnifrakturMaguntia by J. Mach Wust
   flag: ch
   url: https://fonts.google.com/specimen/UnifrakturMaguntia
-  usage: Font; used on plotbible.com
+  usage: Font used on plotbible.com
   notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
 
 - title: Visual Studio Code
