@@ -13,6 +13,18 @@
 - title: Atkinson Hyperlegible by Applied Design Works
   flag: us
   url: https://fonts.google.com/specimen/Atkinson+Hyperlegible
+  usage: Font used in some of the UI
+  notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
+
+- title: Atkinson Hyperlegible Mono by Applied Design Works
+  flag: us
+  url: https://fonts.google.com/specimen/Atkinson+Hyperlegible+Mono
+  usage: Font used on schizoidnightmares.com
+  notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
+
+- title: Atkinson Hyperlegible Next by Applied Design Works
+  flag: us
+  url: https://fonts.google.com/specimen/Atkinson+Hyperlegible+Next
   usage: Font used on schizoidnightmares.com
   notes: Licensed under the <a href="https://openfontlicense.org/open-font-license-official-text/" target="_blank">OFL</a>
 

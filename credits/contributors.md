@@ -7,7 +7,7 @@ return-url: /credits/
 ---
 
 # Contributors
-80 contributors in total
+82 contributors in total
 {: .cap}
 
 Here, you will find all those (both direct and indirect) that help(ed) make my work possible. I could not have done it alone.
@@ -26,7 +26,7 @@ Below are direct contributors — listed in alphabetical order
 {% include contributors.html direct=1 %}
 
 ## Indirect
-76 contributors
+78 contributors
 {: .cap}
 
 Below are indirect contributors — listed in alphabetical order
@@ -37,24 +37,24 @@ Below are indirect contributors — listed in alphabetical order
 20 origins
 {: .cap}
 
-{% include origin.html flag="us" perc="50.0" %}
-{% include origin.html flag="de" perc="7.5" %}
-{% include origin.html flag="gb" perc="6.3" %}
-{% include origin.html perc="6.3" %}
-{% include origin.html flag="il" perc="3.8" %}
-{% include origin.html flag="ph" perc="3.8" %}
-{% include origin.html flag="ru" perc="3.8" %}
+{% include origin.html flag="us" perc="51.2" %}
+{% include origin.html flag="de" perc="7.3" %}
+{% include origin.html flag="gb" perc="6.1" %}
+{% include origin.html perc="6.1" %}
+{% include origin.html flag="il" perc="3.7" %}
+{% include origin.html flag="ph" perc="3.7" %}
+{% include origin.html flag="ru" perc="3.7" %}
 {% include origin.html flag="ge" perc="2.5" %}
-{% include origin.html flag="au" perc="1.3" %}
-{% include origin.html flag="be" perc="1.3" %}
-{% include origin.html flag="cn" perc="1.3" %}
-{% include origin.html flag="is" perc="1.3" %}
-{% include origin.html flag="in" perc="1.3" %}
-{% include origin.html flag="lv" perc="1.3" %}
-{% include origin.html flag="mx" perc="1.3" %}
-{% include origin.html flag="no" perc="1.3" %}
-{% include origin.html flag="pl" perc="1.3" %}
-{% include origin.html flag="ro" perc="1.3" %}
-{% include origin.html flag="kn" perc="1.3" %}
-{% include origin.html flag="es" perc="1.3" %}
-{% include origin.html flag="ch" perc="1.3" %}
+{% include origin.html flag="au" perc="1.2" %}
+{% include origin.html flag="be" perc="1.2" %}
+{% include origin.html flag="cn" perc="1.2" %}
+{% include origin.html flag="is" perc="1.2" %}
+{% include origin.html flag="in" perc="1.2" %}
+{% include origin.html flag="lv" perc="1.2" %}
+{% include origin.html flag="mx" perc="1.2" %}
+{% include origin.html flag="no" perc="1.2" %}
+{% include origin.html flag="pl" perc="1.2" %}
+{% include origin.html flag="ro" perc="1.2" %}
+{% include origin.html flag="kn" perc="1.2" %}
+{% include origin.html flag="es" perc="1.2" %}
+{% include origin.html flag="ch" perc="1.2" %}
