@@ -91,6 +91,10 @@ hr {
     margin-top: 3rem;
 }
 
+/* Code and monospace */
+
+code, .mono { font-family: 'Atkinson Hyperlegible Mono', monospace; }
+
 /* Text effects */
 
 .faded { color: $color-secondary; }
