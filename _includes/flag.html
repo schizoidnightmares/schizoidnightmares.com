@@ -5,6 +5,6 @@
 {% capture format %}jpg{% endcapture %}
 {% endif %}
 {% if include.flag == flag.title %}
-<img class="flag" src="/assets/images/flags/{{ include.flag }}.{{ format }}" title="{{ flag.country }}" height=13 alt="">
+<img class="flag" src="/assets/images/flags/{{ include.flag }}.{{ format }}" title="{{ flag.country }}" height=13 alt="{{ flag.country }}">
 {% endif %}
 {% endfor %}
